@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>開源大補帖</title>
+	
+	<link rel="stylesheet" href="./style/default.css" type="text/css">
+	<link rel="stylesheet" href="./style/content.css" type="text/css">
+  <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	
+</head>
+
+<body>
+  <nav class="navbar navbar-inverse">
+    <div class="container">
+      <h3>
+        <a class="white fontMJ fontBold " href="index.html">
+        開源大補帖
+        </a>
+      </h3>
+    </div>
+  </nav>
+ 
+	
+	<div class="container" id ="row">
+  </div>
+  
+  <div id ="backToTop">
+    <button type="button" class="hashTag btn btn-success" onclick="$('html, body').animate({scrollTop:0},1000);">返回頂端</button>
+  </div>
+</body>
+
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"></script>
+<script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<script>
+
+
+
+  var clNum = getParameterByName("cl");
+  var mclNum = getParameterByName("mcl");
+    
+  $.getJSON("./ossData.json", function (json) {
+    var lTitles_a = Object.keys(json) ;
+    
+    var lTitle_s = lTitles_a[clNum] ; // 找到指定類別的大標題字串
+    
+    if ( json[lTitles_a[clNum]] != null ) { //如果此標題類組有值
+      var mTitles_a = Object.keys( json[lTitle_s] ) ;//找到小標題類組
+      
+      for ( h = 0 ; h < mTitles_a.length ; h++ ) {
+        var mTitle_s = mTitles_a[h] ; // 小標題字串
+        $('#row' ).append('<div class="row" id = "cl' + h +'"> </div>' ) ;
+        $('#cl'+ h ).append( '<h3 class= "fontMJ fontBold text-warning" >' + mTitle_s + '</h3>' ) ;
+        $( '#row' ).prepend( '<button type="button" class="hashTag btn btn-success" onclick="changeScrollbarPosition('+ h +')">#'+ mTitle_s +'</button>' ) ;
+        
+
+        for ( i = 0 ; i < json[lTitle_s][mTitle_s].length ; i++ ) {
+          $('#cl'+ h).append('<div class="col-md-6 intro" id = "it' + h + 'm' + i + '"></div>' ) ;
+          
+          var openSource = json[lTitle_s][mTitle_s][i] ;
+          
+          if ( openSource['picName'] != null ) $('#it'+ h + 'm' + i ).append( '<img class="logo" alt="出現了點錯誤" src="./assets/'+ openSource['picName'] +'" >' ) ;
+          else $('#it'+ h + 'm' + i ).append( '<img class="logo" src="./assets/settings.png" >' ) ;
+            
+          $('#it'+ h + 'm'  + i ).append('<div class="intro_text"></div>' ) ;
+          $('#it'+ h + 'm'  + i + ' div' ).append( '<h4 class="fontMJ text-warning"><b>' + openSource['name'] + '</b></h4>' ) ;
+          $('#it'+ h + 'm'  + i + ' div' ).append( '<p class="fonMJ">' + openSource['introduce'] + '</p>' ) ;
+          $('#it'+ h + 'm'  + i + ' div' ).append( 
+            '<div class="btnContainer"><a class="btn btn-warning" href="' + openSource['officialLink'] + '" target="_blank"><img src="./assets/home.png" width="100%" object-fit="contain"></span></a>'
+          + '<a class="btn btn-warning" href="' + openSource['downloadLink'] + '" target="_blank"><img src="./assets/download.png" width="100%" object-fit="contain"></a>'
+          + '<a class="btn btn-primary" href=""><img src="./assets/info.png" width="100%" object-fit="contain"></span></button></div>' ) ;
+          
+        } // for 
+
+      } // for
+      
+    } // if
+    
+    
+    if( 'object-fit' in document.body.style){
+　　//如果瀏覽器支援 object-fit的話執行這邊
+      $(".logo").css({ 'height' : '100%'});
+    } // if
+    
+    if( mclNum != null ) changeScrollbarPosition(mclNum) ; // 有指定小類別就在讀取網頁後移動過去
+    
+  })
+  
+  
+  function changeScrollbarPosition( targetNum ){
+    var loc = $('#cl'+targetNum).offset().top ;
+    $('html, body').animate({scrollTop:loc},1000);
+  
+  }
+  
+  function getParameterByName(name, url) {
+    if (!url) url = window.location.href;
+    name = name.replace(/[\[\]]/g, "\\$&");
+    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+  
+
+  
+</script>
+</html>

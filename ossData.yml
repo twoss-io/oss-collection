@@ -1,0 +1,612 @@
+商業應用軟體:
+  桌面應用程式:
+    - 
+      name : Chromium
+      officialLink : 'https://www.chromium.org/'
+      downloadLink : 'https://download-chromium.appspot.com/'
+      introduce : ''
+      picName : chromium.png
+    - 
+      name : Firefox
+      officialLink : 'https://www.mozilla.org/zh-TW/firefox/new/'
+      downloadLink : 'https://www.mozilla.org/zh-TW/firefox/new/?scene=2'
+      introduce : ''
+      picName : firefox.png
+    -
+      name : Evolution
+      officialLink : 'https://wiki.gnome.org/Apps/Evolution'
+      downloadLink : 'https://wiki.gnome.org/Apps/Evolution'
+      introduce: ''
+    -
+      name : KDE
+      officialLink : 'https://www.kde.org/'
+      downloadLink : 'https://www.kde.org/download/'
+      introduce: ''
+      picName : kde.jpg
+    -
+      name : Kopete
+      officialLink : 'https://userbase.kde.org/Kopete'
+      downloadLink : 'https://sourceforge.net/projects/kopete/'
+      introduce: ''
+      picName : kopete.png
+    -
+      name : Pidgin
+      officialLink : 'https://www.pidgin.im/'
+      downloadLink : 'https://www.pidgin.im/download/'
+      introduce: ''
+      picName : pidgin.png
+    -
+      name : RealVNC
+      officialLink : 'https://www.realvnc.com/en/'
+      downloadLink : 'https://www.realvnc.com/en/connect/download/vnc/'
+      introduce: ''
+      picName : realvnc.png
+    -
+      name : Sylpheed
+      officialLink : 'https://sylpheed.sraoss.jp/en/'
+      downloadLink : 'https://sylpheed.sraoss.jp/en/download.html'
+      introduce: ''
+      picName : Sylpheed.jpg
+    -
+      name : Thunderbird
+      officialLink : 'https://www.thunderbird.net/zh-TW/?lang=zh-TW'
+      downloadLink : 'https://www.thunderbird.net/zh-TW/'
+      introduce: ''
+      picName : Thunderbird.png
+  專業軟體(CAD等..):
+    -
+      name : Blender
+      officialLink : 'https://www.blender.org/'
+      downloadLink : 'https://www.blender.org/download/'
+      introduce: ''
+      picName : blender.jpg
+    -
+      name : osCommerce
+      officialLink : 'https://www.oscommerce.com/'
+      downloadLink : 'https://www.oscommerce.com/Products'
+      introduce: ''
+      picName : oscommerce.png
+    -
+      name : 'Quantum GIS'
+      officialLink : 'http://www.qgis.org/en/site/'
+      downloadLink : 'http://www.qgis.org/en/site/forusers/download.html'
+      introduce: ''
+      picName : qgis.png
+    -
+      name : SAS
+      officialLink : 'https://www.sas.com/zh_tw/home.html'
+      downloadLink : 'https://www.sas.com/en_us/software/university-edition/download-software.html'
+      introduce: ''
+      picName : sas.png
+    -
+      name : WEKA
+      officialLink : 'https://www.cs.waikato.ac.nz/ml/weka/index.html'
+      downloadLink : 'https://sourceforge.net/projects/weka/files/'
+      introduce: ''  
+      picName : weka.png
+  BI商業智能:
+    -
+      name : Pentaho
+      officialLink : 'http://www.pentaho.com/'
+      downloadLink : 'http://www.pentaho.com/download'
+      introduce: ''
+      picName : pentaho.png
+    -
+      name : SpagoBI
+      officialLink : 'http://www.spagobi.org/'
+      downloadLink : 'https://forge.ow2.org/projects/spagobi'
+      introduce: '' 
+      picName : spagoBI.png
+  辦公軟體:
+    -
+      name : 'Apache OpenOffice'
+      officialLink : 'http://www.openoffice.org/zh-tw/'
+      downloadLink : 'http://www.openoffice.org/zh-tw/download/index.html'
+      introduce: ''
+      picName : apacheOpenOffice.png
+    -
+      name : LibreOffice
+      officialLink : 'https://zh-tw.libreoffice.org/'
+      downloadLink : 'https://zh-tw.libreoffice.org/download/libreoffice-still/'
+      introduce: ''
+      picName : libreOffice.png
+  群件:
+    -
+      name : eGroupware
+      officialLink : 'https://www.egroupware.org/en/'
+      downloadLink : 'https://www.egroupware.org/en/'
+      introduce: ''
+      picName : egroup.jpg
+    -
+      name : Zimbra
+      officialLink : 'https://www.zimbra.com/'
+      downloadLink : 'https://www.zimbra.com/downloads/'
+      introduce: ''
+      picName : zimbra-logo.png
+  CRM客戶關係管理:
+    -
+      name : OpenPSA
+      officialLink : 'https://sourceforge.net/projects/openpsa/'
+      downloadLink : 'https://sourceforge.net/projects/openpsa/'
+      introduce: ''
+    -
+      name : SugarCRM
+      officialLink : 'https://www.sugarcrm.com/'
+      downloadLink : 'https://info.sugarcrm.com/trial?_ga=2.221301272.1843140277.1510566915-1785159136.1510566915'
+      introduce: ''
+      picName : sugarCrm.png
+  ERP企業資源規劃系統:
+    -
+      name : ADempiere
+      officialLink : 'http://www.adempiere.net/web/guest/welcome'
+      downloadLink : 'http://www.adempiere.net/web/guest/download'
+      introduce: ''
+      picName : ADempiere.png
+    -
+      name : Compiere
+      officialLink : 'http://www.compiere.com/'
+      downloadLink : 'http://www.compiere.com/products/download/index.php'
+      introduce: ''
+      picName : Compiere.png
+    -
+      name : ERP5
+      officialLink : 'http://www.erp5.org/'
+      downloadLink : 'http://www.erp5.org/Download'
+      introduce: ''
+      picName : erp5.png
+    -
+      name : Openbravo
+      officialLink : 'http://www.openbravo.com/'
+      downloadLink : 'https://sourceforge.net/projects/openbravo/'
+      introduce: ''
+      picName : Openbravo.png
+  製造控制與執行系統:
+    -
+      name : Asterisk
+      officialLink : 'https://www.asterisk.org/'
+      downloadLink : 'https://www.asterisk.org/downloads'
+      introduce: ''
+      picName : Asterisk.png
+    -
+      name : OTRS
+      officialLink : 'https://www.otrs.com/'
+      downloadLink : 'https://www.otrs.com/download-open-source-help-desk-software-otrs-free/'
+      introduce: ''
+      picName : otrs.png
+Web/AP伺服器與資料庫 :
+  Web/AP伺服器 :
+    -
+      name : Apache HTTP Server
+      officialLink : 'http://httpd.apache.org/'
+      downloadLink : 'http://httpd.apache.org/download.cgi'
+      introduce: ''
+    -
+      name : Apache Tomcat
+      officialLink : 'http://tomcat.apache.org/'
+      downloadLink : 'https://tomcat.apache.org/download-90.cgi'
+      introduce: ''
+    - 
+      name : AppWeb
+      officialLink : 'https://embedthis.com/'
+      downloadLink : 'https://embedthis.com/appweb/download.html'
+      introduce: ''
+    - 
+      name : GlassFish
+      officialLink : 'https://javaee.github.io/glassfish/'
+      downloadLink : 'https://javaee.github.io/glassfish/download'
+      introduce: ''
+    - 
+      name : Jetty
+      officialLink : 'http://www.eclipse.org/jetty/'
+      downloadLink : 'http://www.eclipse.org/jetty/download.html'
+      introduce: ''
+    - 
+      name : lighttpd
+      officialLink : 'https://www.lighttpd.net/'
+      downloadLink : 'https://www.lighttpd.net/download/'
+      introduce: ''
+    - 
+      name : WildFly
+      officialLink : 'http://wildfly.org/'
+      downloadLink : 'http://wildfly.org/downloads/'
+      introduce: ''
+  EAI/ESB :
+    - 
+      name : Apache Axis2
+      officialLink : 'http://axis.apache.org/axis2/java/core/'
+      downloadLink : 'http://axis.apache.org/axis2/java/core/download.html'
+      introduce: ''
+    - 
+      name : Apache ServiceMIX
+      officialLink : 'http://servicemix.apache.org/'
+      downloadLink : 'http://servicemix.apache.org/downloads.html'
+      introduce: ''
+    - 
+      name : Talend
+      officialLink : 'https://www.talend.com/'
+      downloadLink : 'https://www.talend.com/download/'
+      introduce: ''
+    - 
+      name : TalendOpen Studio
+      officialLink : 'https://www.talend.com/products/talend-open-studio/'
+      downloadLink : 'https://www.talend.com/products/talend-open-studio/'
+      introduce: ''
+  資料庫 :
+    - 
+      name : Apache Derby
+      officialLink : 'https://db.apache.org/derby/'
+      downloadLink : 'https://db.apache.org/derby/derby_downloads.html'
+      introduce: ''
+    - 
+      name : Firebird
+      officialLink : 'http://www.firebirdsql.org/'
+      downloadLink : 'http://www.firebirdsql.org/en/server-packages/'
+      introduce: ''
+    - 
+      name : MariaDB
+      officialLink : 'https://mariadb.org/'
+      downloadLink : 'https://downloads.mariadb.org/'
+      introduce: ''
+    - 
+      name : MySQL
+      officialLink : 'https://www.mysql.com/'
+      downloadLink : 'https://dev.mysql.com/downloads/'
+      introduce: ''
+    - 
+      name : PostgreSQL
+      officialLink : 'https://www.postgresql.org/'
+      downloadLink : 'https://www.postgresql.org/ftp/source/'
+      introduce: ''
+    - 
+      name : SQLite
+      officialLink : 'https://www.sqlite.org/'
+      downloadLink : 'https://www.sqlite.org/download.html'
+      introduce: ''
+  資料庫集群 :
+    - 
+      name : Esper
+      officialLink : 'https://www.sqlite.org/download.html'
+      downloadLink : 'http://www.espertech.com/downloads/'
+      introduce: ''
+  資料庫管理 :
+    - 
+      name : phpMyAdmin
+      officialLink : 'https://www.phpmyadmin.net/'
+      downloadLink : 'https://www.phpmyadmin.net/downloads/'
+      introduce: ''
+    - 
+      name : phpPgAdmin
+      officialLink : 'http://phppgadmin.sourceforge.net/doku.php'
+      downloadLink : 'http://phppgadmin.sourceforge.net/doku.php?id=download'
+      introduce: ''
+  BPM :
+    - 
+      name : JBossjBPM
+      officialLink : 'http://www.jbpm.org/'
+      downloadLink : 'http://www.jbpm.org/download/download.html'
+      introduce: ''
+  KVS :
+    - 
+      name : Apache Cassandra
+      officialLink : 'http://cassandra.apache.org/'
+      downloadLink : 'http://cassandra.apache.org/download/'
+      introduce: ''
+  NoSQL資料庫 :
+    - 
+      name : memcached
+      officialLink : 'http://memcached.org/'
+      downloadLink : 'http://memcached.org/downloads'
+      introduce: ''
+    - 
+      name : MongoDB
+      officialLink : 'https://www.mongodb.com/'
+      downloadLink : 'https://www.mongodb.com/download-center#community'
+      introduce: ''
+    - 
+      name : Riak
+      officialLink : 'http://docs.basho.com/'
+      downloadLink : 'http://docs.basho.com/riak/ts/1.5.2/downloads/'
+      introduce: ''
+    - 
+      name : VoltDB
+      officialLink : 'https://www.voltdb.com/'
+      downloadLink : 'https://www.voltdb.com/try-voltdb/'
+      introduce: ''
+運營管理 :
+  存儲備份 :
+    - 
+      name : Amanda
+      officialLink : 'http://www.amanda.org/'
+      downloadLink : 'http://www.amanda.org/download.php'
+      introduce: ''
+    - 
+      name : Bacula
+      officialLink : 'http://blog.bacula.org/'
+      downloadLink : 'http://blog.bacula.org/source-download-center/'
+      introduce: ''
+    - 
+      name : Clonezilla
+      officialLink : 'http://clonezilla.org/'
+      downloadLink : 'http://clonezilla.org/downloads.php'
+      introduce: ''
+    - 
+      name : Mondo Rescue
+      officialLink : 'http://www.mondorescue.org/'
+      downloadLink : 'http://www.mondorescue.org/downloads.shtml'
+      introduce: ''
+  配置管理 :
+    - 
+      name : Ansible
+      officialLink : 'https://www.ansible.com/'
+      downloadLink : 'https://www.ansible.com/tower-trial'
+      introduce: ''
+    - 
+      name : Chef
+      officialLink : 'https://www.chef.io/'
+      downloadLink : 'https://downloads.chef.io/'
+      introduce: ''
+    - 
+      name : oVirt
+      officialLink : 'https://www.ovirt.org/'
+      downloadLink : 'https://www.ovirt.org/download/'
+      introduce: ''
+    - 
+      name : Puppet
+      officialLink : 'https://puppet.com/'
+      downloadLink : 'https://puppet.com/download-open-source-puppet'
+      introduce: ''
+  HA集群 :
+    - 
+      name : DRBD
+      officialLink : 'https://docs.linbit.com/'
+      downloadLink : 'https://www.linbit.com/en/drbd-community/drbd-download/'
+      introduce: ''
+    - 
+      name : Heartbeat
+      officialLink : 'http://www.linux-ha.org/w/index.php?title=Heartbeat&setlang=zh'
+      downloadLink : 'http://www.linux-ha.org/wiki/Downloads'
+      introduce: ''
+  負載平衡 :
+    - 
+      name : Linux Virtual Server
+      officialLink : 'http://www.linuxvirtualserver.org/'
+      downloadLink : 'http://www.linuxvirtualserver.org/software/index.html'
+      introduce: ''
+    - 
+      name : Pound
+      officialLink : 'http://www.apsis.ch/pound/'
+      downloadLink : ''
+      introduce: ''
+    - 
+      name : Ultra Monkey
+      officialLink : 'http://www.ultramonkey.org/'
+      downloadLink : 'http://www.apsis.ch/pound/'
+      introduce: ''
+  運行監控 :
+    - 
+      name : GNetWatch
+      officialLink : 'http://gnetwatch.sourceforge.net/'
+      downloadLink : 'http://gnetwatch.sourceforge.net/download.html'
+      introduce: ''
+    - 
+      name : Groundwork
+      officialLink : 'https://www.gwos.com/'
+      downloadLink : 'https://www.gwos.com/download/'
+      introduce: ''
+    - 
+      name : Hinemos
+      officialLink : 'https://zh-tw.osdn.net/projects/hinemos/'
+      downloadLink : 'https://zh-tw.osdn.net/projects/hinemos/releases/'
+      introduce: ''
+    - 
+      name : Monit
+      officialLink : 'https://mmonit.com/monit/'
+      downloadLink : 'https://mmonit.com/monit/#download'
+      introduce: ''
+    - 
+      name : Nagios
+      officialLink : 'https://www.nagios.org/'
+      downloadLink : 'https://www.nagios.org/downloads/'
+      introduce: ''
+    - 
+      name : OpenNMS
+      officialLink : 'https://www.opennms.org/en'
+      downloadLink : 'https://www.opennms.org/en/install'
+      introduce: ''
+    - 
+      name : Syslog NG
+      officialLink : 'https://syslog-ng.org/'
+      downloadLink : 'https://github.com/balabit/syslog-ng'
+      introduce: ''
+    - 
+      name : Zabbix
+      officialLink : 'https://www.zabbix.com/'
+      downloadLink : 'https://www.zabbix.com/download'
+      introduce: ''
+  網絡監控 :
+    - 
+      name : CACTI
+      officialLink : 'https://www.cacti.net/index.php'
+      downloadLink : 'https://www.cacti.net/download_cacti.php'
+      introduce: ''
+    - 
+      name : MRTG
+      officialLink : 'https://oss.oetiker.ch/mrtg/'
+      downloadLink : 'https://oss.oetiker.ch/mrtg/pub/?M=D'
+      introduce: ''
+    - 
+      name : Munin
+      officialLink : 'http://munin-monitoring.org/'
+      downloadLink : 'http://downloads.munin-monitoring.org/munin/stable/?C=N;O=D'
+      introduce: ''
+    - 
+      name : NetHogs
+      officialLink : 'https://github.com/raboof/nethogs#readme'
+      downloadLink : 'https://github.com/raboof/nethogs#readme'
+      introduce: ''
+    - 
+      name : RRDTool
+      officialLink : 'https://oss.oetiker.ch/rrdtool/'
+      downloadLink : 'https://oss.oetiker.ch/rrdtool/pub/?M=D'
+      introduce: ''
+    - 
+      name : VyattaCore Software
+      officialLink : 'https://wiki.vyos.net/wiki/Main_Page'
+      downloadLink : 'https://downloads.vyos.io/?dir=release'
+      introduce: ''
+    - 
+      name : Wireshark
+      officialLink : 'https://www.wireshark.org/'
+      downloadLink : 'https://www.wireshark.org/#download'
+      introduce: ''
+    - 
+      name : Zenoss
+      officialLink : 'https://community.zenoss.com/home'
+      downloadLink : 'https://www.zenoss.com/get-started'
+      introduce: ''
+網站建設 :
+  CMS :
+    - 
+      name : Alfresco
+      officialLink : 'https://www.alfresco.com/?sl_redir=1'
+      downloadLink : 'https://www.alfresco.com/try-alfresco'
+      introduce: ''
+    - 
+      name : Apache Lenya
+      officialLink : 'https://lenya.apache.org/'
+      downloadLink : 'https://lenya.apache.org/docu20/installation20/download20.html'
+      introduce: ''
+    - 
+      name : DotNetNuke
+      officialLink : 'http://www.dnnsoftware.com/'
+      downloadLink : 'http://www.dnnsoftware.com/community/download'
+      introduce: ''
+    - 
+      name : Drupal
+      officialLink : 'https://www.drupal.org/'
+      downloadLink : 'https://www.drupal.org/download'
+      introduce: ''
+    - 
+      name : eZPublish
+      officialLink : 'https://ez.no/'
+      downloadLink : 'https://ez.no/Forms/Request-a-Consultation'
+      introduce: ''
+    - 
+      name : GateIn
+      officialLink : 'http://gatein.jboss.org/'
+      downloadLink : 'http://gatein.jboss.org/download'
+      introduce: ''
+    - 
+      name : Geeklog
+      officialLink : 'https://www.geeklog.net/'
+      downloadLink : 'https://www.geeklog.net/downloads/index.php'
+      introduce: ''
+    - 
+      name : Joomla!
+      officialLink : 'https://www.joomla.com/'
+      downloadLink : 'https://www.joomla.com/'
+      introduce: ''
+    - 
+      name : LiferayPortal
+      officialLink : 'https://www.liferay.com/home'
+      downloadLink : 'https://www.liferay.com/zh/downloads'
+      introduce: ''
+    - 
+      name : moodle
+      officialLink : 'https://moodle.org/'
+      downloadLink : 'https://download.moodle.org/releases/latest/'
+      introduce: ''
+    - 
+      name : Movable Type Open Source
+      officialLink : 'https://movabletype.com/'
+      downloadLink : 'https://www.sixapart.jp/inquiry/movabletype/personal_download.html'
+      introduce: ''
+    - 
+      name : Plone
+      officialLink : 'https://plone.org/'
+      downloadLink : 'https://plone.org/download'
+      introduce: ''
+    - 
+      name : PukiWiki
+      officialLink : 'https://pukiwiki.osdn.jp/'
+      downloadLink : 'https://zh-tw.osdn.net/projects/pukiwiki/'
+      introduce: ''
+    - 
+      name : WordPress
+      officialLink : 'https://zh-tw.wordpress.com/com-vs-org/?sgmt=gb&utm_source=adwords&utm_campaign=G_Search_Brand_Desktop_TW_zh-tw_x_x&utm_medium=cpc&keyword=wordpress&creative=199332587997&campaignid=667463717&adgroupid=30623458221&matchtype=e&device=c&network=g&targetid=aud-309211669636:kwd-313411415&locationid=9040379&gclid=EAIaIQobChMI54Dc3tTC1wIVQh0rCh2v2AbKEAAYASAAEgLjfPD_BwE'
+      downloadLink : 'https://zh-tw.wordpress.com/pricing/'
+      introduce: ''
+    - 
+      name : Xoops
+      officialLink : 'http://www.xoops.org.tw/'
+      downloadLink : 'http://www.xoops.org.tw/modules/wfdownloads/'
+      introduce: ''
+    - 
+      name : XOOPS cube
+      officialLink : 'http://xoopscube.org/'
+      downloadLink : 'https://github.com/xoopscube/legacy/releases'
+      introduce: ''
+  電子商務 :
+    - 
+      name : EC-Cube
+      officialLink : 'https://github.com/EC-CUBE/'
+      downloadLink : 'https://github.com/EC-CUBE/'
+      introduce: ''
+BigData :
+  分佈式處理平台:
+    - 
+      name : SQLite
+      officialLink : ''
+      downloadLink : ''
+      introduce: ''
+  履帶(? :
+  數據收集 :
+  數據累積/分佈式文件系統 :
+  機器學習 :
+  深度學習 :
+  CEP :
+  BA・BI :
+  內存數據庫/分佈式KVS :
+  準實時查詢 :
+  數據分析 :
+OS、虛擬化、雲端 :
+  OS :
+  作業系統層虛擬化 :
+  追蹤虛擬化 :
+  網路虛擬化 :
+  IaaS :
+  PaaS :
+  SaaS :
+  CompaaS :
+  DSaaS :
+  NaaS :
+  IDaaS :
+檢索與分佈式處理 :
+  搜尋引擎:
+  分佈式處理 :
+開發支援 :
+  整合開發環境 :
+  版本控制 :
+  開發語言 :
+  開發框架 :
+  項目管理 :
+  測試工具 :
+  表單工具 :
+資訊安全 :
+  病毒防禦與漏洞管理 :
+  目錄服務 :
+  SSL/VPN/SSH :
+  代理伺服器、防火牆 :
+  IDS/IPS/SIEM :
+  身份驗證和訪問管理 :
+  ID管理 :
+各類伺服器 :
+  DNS/DHCP :
+  FTP Server :
+  POP/IMAP/MTA :
+  文件檔案伺服器 :
+    
+
+
+
+

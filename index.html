@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>開源大補帖</title>
+	
+	<link rel="stylesheet" href="./style/default.css" type="text/css">
+	<link rel="stylesheet" href="./style/index.css" type="text/css">
+  <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+	
+</head>
+
+<body >
+  <nav class="navbar navbar-inverse">
+    <div class="container">
+      <h3>
+        <a class="white fontMJ fontBold " href="index.html">
+        開源大補帖
+        </a>
+      </h3>
+    </div>
+  </nav>
+ 
+  <div class="jumbotron" style = "background-color:white ;padding: 0px 1.5%">
+    <div class="container-fluid">
+        <h2 class = "fontMJ " id = "slogan" ><b>有了開源軟體</b></br></h2>
+      <div id = "bg" class = "bgDown">
+      </div>
+    </div>
+    
+  </div>
+	
+	<div class="container-fluid">
+    <div class="row">
+      <div class="col-md-4" id ="cl1">
+      </div>
+      <div class="col-md-4" id ="cl2">
+      </div>
+      <div class="col-md-4" id ="cl3">
+      </div>
+    </div>
+  </div>
+</body>
+
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"></script>
+<script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="./js-yaml.min.js"></script>
+
+<script>  
+
+  
+  
+  
+$.getJSON("./ossData.json", function (json) {
+  var cols = ['#cl1', '#cl2', '#cl3'];
+  var averageNum = Math.floor(Object.keys(json).length / 3) ; 
+  // 三列下去均分
+  var objCol = 0 ;
+  var lTitles_a = Object.keys(json) ;
+  
+  for( i = 0 ; i < lTitles_a.length ; i++  ) {
+    var lTitle_s = lTitles_a[i] ;
+    $(cols[objCol]).append( '<h3><b><a href= "content.html?cl='+ i +'" class = "text-warning">' + lTitle_s + '</a></b></h3>' ) ; // 新增大標
+    
+    if ( json[lTitles_a[i]] != null ) {
+      var mTitles_a = Object.keys( json[lTitle_s] ) ;
+      
+      for ( h = 0 ; h < mTitles_a.length ; h++ ) {
+        var mTitle_s = mTitles_a[h] ;
+        $(cols[objCol]).append( '<h4>&nbsp&nbsp&nbsp <a href= "content.html?cl='+ i +'&mcl='+ h +'">#&nbsp' + mTitle_s + '</a></h4>' ) ; // 新增小標
+      } // for
+      
+    } // if
+    
+    if ( i % averageNum == 0 && i != 0 ) // 判斷是否該換下一個區域塞資料 
+      objCol++ ; 
+     
+  } // for
+}) 
+
+
+window.onload=runPic;
+
+function runPic() {
+  var el = updateTransition();
+  
+  // Set up an event handler to reverse the direction
+  // when the transition finishes.
+  
+  el.addEventListener("transitionend", updateTransition, true);
+}
+
+function updateTransition() {
+  var el = document.querySelector("div.bgDown");
+  
+  if (el) {
+    el.className = "bgCenter";
+  } else {
+    el = document.querySelector("div.bgCenter");
+    el.className = "bgDown";
+  }
+  
+  return el;
+}
+
+</script>
+</html>

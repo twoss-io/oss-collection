@@ -1,0 +1,88 @@
+
+#cl1, #cl2, #cl3 {
+  padding : 20px 50px;
+  border-radius:10px;
+  
+}
+
+
+.jumbotron{
+  max-height: 400px ;
+  overflow:hidden;
+}
+
+#bg {
+  background-image: url("../assets/bg3.jpg");
+  padding-bottom : 30% ;
+  width :100% ;
+  background-repeat:no-repeat ;
+  background-size:100%;
+  opacity:0.9;
+
+
+}
+
+
+.bgDown{  
+  -moz-transition-property: background-position;
+  -moz-transition-duration: 10s;
+  -webkit-transition-property: background-position;
+  -webkit-transition-duration: 10s;
+  -o-transition-property: background-position;
+  -o-transition-duration: 10s;
+  transition-property: background-position;
+  transition-duration: 10s;
+  transition-timing-function: linear;
+  background-position:center;
+  transition-delay:3s;
+  
+}
+
+.bgCenter {
+  -moz-transition-property: background-position;
+  -moz-transition-duration: 10s;
+  -webkit-transition-property: background-position;
+  -webkit-transition-duration: 10s;
+  -o-transition-property: background-position;
+  -o-transition-duration: 10s;
+  transition-property: background-position;
+  transition-duration: 10s;
+  transition-timing-function: linear;
+  background-position:bottom;
+  transition-delay:0.5s;
+}
+  
+  
+#slogan::before {
+  content:'' ;
+  width :8% ;
+  display:inline-block;  
+} 
+  
+#slogan {
+  position:absolute ;
+  margin-top:10%;
+  font-size:3.4vw ;
+  right:5% ;
+  display:block;
+  z-index:20;
+  color:white;
+  text-shadow: 0.04vw 0.04vw black;
+}
+
+#slogan::after {
+  content:'發現很多事情其實可以不用自己做' ;
+  font-size:2vw ;
+  display:inline-block;
+  font-weight:bold;
+  
+}
+
+
+.row {
+  margin:0 10% !important;
+  border-top-left-radius:10px ;
+  border-top-right-radius:10px ;
+  background-color:white ;
+  
+}

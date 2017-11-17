@@ -1,0 +1,23 @@
+a {
+ cursor:pointer ; 
+}
+
+
+.white{
+  color:white;
+}
+
+.fontBold{
+  font-weight:bold;
+}
+
+.padding-0{
+  padding:0px !important; 
+}
+
+
+html,body{background:url('../assets/dust_scratches.png');}
+
+.fontMJ{
+  font-family:Microsoft JhengHei;
+}
