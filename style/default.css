@@ -21,3 +21,15 @@ html,body{background:url('../assets/dust_scratches.png');}
 .fontMJ{
   font-family:Microsoft JhengHei;
 }
+
+
+.footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  border-top-left-radius :5px ;
+  border-top-right-radius :5px ;
+  height: 60px; /* Set the fixed height of the footer here */
+  line-height: 60px; /* Vertically center the text there */
+  background-color:black ;
+}

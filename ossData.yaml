@@ -1,0 +1,1891 @@
+商業應用軟體:
+  桌面應用程式:
+    - 
+      name : Chromium
+      officialLink : 'https://www.chromium.org/'
+      downloadLink : 'https://download-chromium.appspot.com/'
+      introduce : ''
+      picName : chromium.png
+    - 
+      name : Firefox
+      officialLink : 'https://www.mozilla.org/zh-TW/firefox/new/'
+      downloadLink : 'https://www.mozilla.org/zh-TW/firefox/new/?scene=2'
+      introduce : ''
+      picName : firefox.png
+    -
+      name : Evolution
+      officialLink : 'https://wiki.gnome.org/Apps/Evolution'
+      downloadLink : 'https://wiki.gnome.org/Apps/Evolution'
+      introduce: ''
+    -
+      name : KDE
+      officialLink : 'https://www.kde.org/'
+      downloadLink : 'https://www.kde.org/download/'
+      introduce: ''
+      picName : kde.jpg
+    -
+      name : Kopete
+      officialLink : 'https://userbase.kde.org/Kopete'
+      downloadLink : 'https://sourceforge.net/projects/kopete/'
+      introduce: ''
+      picName : kopete.png
+    -
+      name : Pidgin
+      officialLink : 'https://www.pidgin.im/'
+      downloadLink : 'https://www.pidgin.im/download/'
+      introduce: ''
+      picName : pidgin.png
+    -
+      name : RealVNC
+      officialLink : 'https://www.realvnc.com/en/'
+      downloadLink : 'https://www.realvnc.com/en/connect/download/vnc/'
+      introduce: ''
+      picName : realvnc.png
+    -
+      name : Sylpheed
+      officialLink : 'https://sylpheed.sraoss.jp/en/'
+      downloadLink : 'https://sylpheed.sraoss.jp/en/download.html'
+      introduce: ''
+      picName : Sylpheed.jpg
+    -
+      name : Thunderbird
+      officialLink : 'https://www.thunderbird.net/zh-TW/?lang=zh-TW'
+      downloadLink : 'https://www.thunderbird.net/zh-TW/'
+      introduce: ''
+      picName : Thunderbird.png
+  專業軟體(CAD等..):
+    -
+      name : Blender
+      officialLink : 'https://www.blender.org/'
+      downloadLink : 'https://www.blender.org/download/'
+      introduce: ''
+      picName : blender.jpg
+    -
+      name : osCommerce
+      officialLink : 'https://www.oscommerce.com/'
+      downloadLink : 'https://www.oscommerce.com/Products'
+      introduce: ''
+      picName : oscommerce.png
+    -
+      name : 'Quantum GIS'
+      officialLink : 'http://www.qgis.org/en/site/'
+      downloadLink : 'http://www.qgis.org/en/site/forusers/download.html'
+      introduce: ''
+      picName : qgis.png
+    -
+      name : SAS
+      officialLink : 'https://www.sas.com/zh_tw/home.html'
+      downloadLink : 'https://www.sas.com/en_us/software/university-edition/download-software.html'
+      introduce: ''
+      picName : sas.png
+    -
+      name : WEKA
+      officialLink : 'https://www.cs.waikato.ac.nz/ml/weka/index.html'
+      downloadLink : 'https://sourceforge.net/projects/weka/files/'
+      introduce: ''  
+      picName : weka.png
+  BI商業智能:
+    -
+      name : Pentaho
+      officialLink : 'http://www.pentaho.com/'
+      downloadLink : 'http://www.pentaho.com/download'
+      introduce: ''
+      picName : pentaho.png
+    -
+      name : SpagoBI
+      officialLink : 'http://www.spagobi.org/'
+      downloadLink : 'https://forge.ow2.org/projects/spagobi'
+      introduce: '' 
+      picName : spagoBI.png
+  辦公軟體:
+    -
+      name : 'Apache OpenOffice'
+      officialLink : 'http://www.openoffice.org/zh-tw/'
+      downloadLink : 'http://www.openoffice.org/zh-tw/download/index.html'
+      introduce: ''
+      picName : apacheOpenOffice.png
+    -
+      name : LibreOffice
+      officialLink : 'https://zh-tw.libreoffice.org/'
+      downloadLink : 'https://zh-tw.libreoffice.org/download/libreoffice-still/'
+      introduce: ''
+      picName : libreOffice.png
+  群件:
+    -
+      name : eGroupware
+      officialLink : 'https://www.egroupware.org/en/'
+      downloadLink : 'https://www.egroupware.org/en/'
+      introduce: ''
+      picName : egroup.jpg
+    -
+      name : Zimbra
+      officialLink : 'https://www.zimbra.com/'
+      downloadLink : 'https://www.zimbra.com/downloads/'
+      introduce: ''
+      picName : zimbra-logo.png
+  CRM客戶關係管理:
+    -
+      name : OpenPSA
+      officialLink : 'https://sourceforge.net/projects/openpsa/'
+      downloadLink : 'https://sourceforge.net/projects/openpsa/'
+      introduce: ''
+    -
+      name : SugarCRM
+      officialLink : 'https://www.sugarcrm.com/'
+      downloadLink : 'https://info.sugarcrm.com/trial?_ga=2.221301272.1843140277.1510566915-1785159136.1510566915'
+      introduce: ''
+      picName : sugarCrm.png
+  ERP企業資源規劃系統:
+    -
+      name : ADempiere
+      officialLink : 'http://www.adempiere.net/web/guest/welcome'
+      downloadLink : 'http://www.adempiere.net/web/guest/download'
+      introduce: ''
+      picName : ADempiere.png
+    -
+      name : Compiere
+      officialLink : 'http://www.compiere.com/'
+      downloadLink : 'http://www.compiere.com/products/download/index.php'
+      introduce: ''
+      picName : Compiere.png
+    -
+      name : ERP5
+      officialLink : 'http://www.erp5.org/'
+      downloadLink : 'http://www.erp5.org/Download'
+      introduce: ''
+      picName : erp5.png
+    -
+      name : Openbravo
+      officialLink : 'http://www.openbravo.com/'
+      downloadLink : 'https://sourceforge.net/projects/openbravo/'
+      introduce: ''
+      picName : Openbravo.png
+  製造控制與執行系統:
+    -
+      name : Asterisk
+      officialLink : 'https://www.asterisk.org/'
+      downloadLink : 'https://www.asterisk.org/downloads'
+      introduce: ''
+      picName : Asterisk.png
+    -
+      name : OTRS
+      officialLink : 'https://www.otrs.com/'
+      downloadLink : 'https://www.otrs.com/download-open-source-help-desk-software-otrs-free/'
+      introduce: ''
+      picName : otrs.png
+Web/AP伺服器與資料庫 :
+  Web/AP伺服器 :
+    -
+      name : Apache HTTP Server
+      officialLink : 'http://httpd.apache.org/'
+      downloadLink : 'http://httpd.apache.org/download.cgi'
+      introduce: ''
+      picName : appacheHttpServer.PNG
+    -
+      name : Apache Tomcat
+      officialLink : 'http://tomcat.apache.org/'
+      downloadLink : 'https://tomcat.apache.org/download-90.cgi'
+      introduce: ''
+      picName : tomcat.png
+    - 
+      name : AppWeb
+      officialLink : 'https://embedthis.com/'
+      downloadLink : 'https://embedthis.com/appweb/download.html'
+      introduce: ''
+      picName : appweb.png
+    - 
+      name : GlassFish
+      officialLink : 'https://javaee.github.io/glassfish/'
+      downloadLink : 'https://javaee.github.io/glassfish/download'
+      introduce: ''
+      picName : glassFish.PNG
+    - 
+      name : Jetty
+      officialLink : 'http://www.eclipse.org/jetty/'
+      downloadLink : 'http://www.eclipse.org/jetty/download.html'
+      introduce: ''
+      picName : jetty.png
+    - 
+      name : lighttpd
+      officialLink : 'https://www.lighttpd.net/'
+      downloadLink : 'https://www.lighttpd.net/download/'
+      introduce: ''
+      picName : lighttpd.PNG
+    - 
+      name : WildFly
+      officialLink : 'http://wildfly.org/'
+      downloadLink : 'http://wildfly.org/downloads/'
+      introduce: ''
+      picName : wildfly.png
+  EAI/ESB :
+    - 
+      name : Apache Axis2
+      officialLink : 'http://axis.apache.org/axis2/java/core/'
+      downloadLink : 'http://axis.apache.org/axis2/java/core/download.html'
+      introduce: ''
+      picName : axis.jpg
+    - 
+      name : Apache ServiceMIX
+      officialLink : 'http://servicemix.apache.org/'
+      downloadLink : 'http://servicemix.apache.org/downloads.html'
+      introduce: ''
+      picName : servicemix-logo.png
+    - 
+      name : Talend
+      officialLink : 'https://www.talend.com/'
+      downloadLink : 'https://www.talend.com/download/'
+      introduce: ''
+      picName : talend-logo.png
+    - 
+      name : TalendOpen Studio
+      officialLink : 'https://www.talend.com/products/talend-open-studio/'
+      downloadLink : 'https://www.talend.com/products/talend-open-studio/'
+      introduce: ''
+      picName : talend-logo.png
+  資料庫 :
+    - 
+      name : Apache Derby
+      officialLink : 'https://db.apache.org/derby/'
+      downloadLink : 'https://db.apache.org/derby/derby_downloads.html'
+      introduce: ''
+      picName : derby-logo-web.png
+    - 
+      name : Firebird
+      officialLink : 'http://www.firebirdsql.org/'
+      downloadLink : 'http://www.firebirdsql.org/en/server-packages/'
+      introduce: ''
+      picName : firebird.jpg
+    - 
+      name : MariaDB
+      officialLink : 'https://mariadb.org/'
+      downloadLink : 'https://downloads.mariadb.org/'
+      introduce: ''
+      picName : MariaDB.png
+    - 
+      name : MySQL
+      officialLink : 'https://www.mysql.com/'
+      downloadLink : 'https://dev.mysql.com/downloads/'
+      introduce: ''
+      picName : logo-mysql.png
+    - 
+      name : PostgreSQL
+      officialLink : 'https://www.postgresql.org/'
+      downloadLink : 'https://www.postgresql.org/ftp/source/'
+      introduce: ''
+      picName : PostgreSQL.png
+    - 
+      name : SQLite
+      officialLink : 'https://www.sqlite.org/'
+      downloadLink : 'https://www.sqlite.org/download.html'
+      introduce: ''
+      picName : sqlite370_banner.gif
+  資料庫集群 :
+    - 
+      name : Esper
+      officialLink : 'http://www.espertech.com/'
+      downloadLink : 'http://www.espertech.com/downloads/'
+      introduce: ''
+      picName : esper.png
+  資料庫管理 :
+    - 
+      name : phpMyAdmin
+      officialLink : 'https://www.phpmyadmin.net/'
+      downloadLink : 'https://www.phpmyadmin.net/downloads/'
+      introduce: ''
+      picName : phpMyAdmin.png
+    - 
+      name : phpPgAdmin
+      officialLink : 'http://phppgadmin.sourceforge.net/doku.php'
+      downloadLink : 'http://phppgadmin.sourceforge.net/doku.php?id=download'
+      introduce: ''
+      picName : phpPgAdmin.gif
+  BPM :
+    - 
+      name : JBossjBPM
+      officialLink : 'http://www.jbpm.org/'
+      downloadLink : 'http://www.jbpm.org/download/download.html'
+      introduce: ''
+      picName : JBossjBPM.png
+  KVS :
+    - 
+      name : Apache Cassandra
+      officialLink : 'http://cassandra.apache.org/'
+      downloadLink : 'http://cassandra.apache.org/download/'
+      introduce: ''
+      picName : Cassandra.png
+  NoSQL資料庫 :
+    - 
+      name : memcached
+      officialLink : 'http://memcached.org/'
+      downloadLink : 'http://memcached.org/downloads'
+      introduce: ''
+      picName : memcached.png
+    - 
+      name : MongoDB
+      officialLink : 'https://www.mongodb.com/'
+      downloadLink : 'https://www.mongodb.com/download-center#community'
+      introduce: ''
+      picName : Mongo-Db-1.png
+    - 
+      name : Riak
+      officialLink : 'http://docs.basho.com/'
+      downloadLink : 'http://docs.basho.com/riak/ts/1.5.2/downloads/'
+      introduce: ''
+      picName : riak.png
+    - 
+      name : VoltDB
+      officialLink : 'https://www.voltdb.com/'
+      downloadLink : 'https://www.voltdb.com/try-voltdb/'
+      introduce: ''
+      picName : VoltDB.png
+運營管理 :
+  存儲備份 :
+    - 
+      name : Amanda
+      officialLink : 'http://www.amanda.org/'
+      downloadLink : 'http://www.amanda.org/download.php'
+      introduce: ''
+      picName : logo_amanda.png
+    - 
+      name : Bacula
+      officialLink : 'http://blog.bacula.org/'
+      downloadLink : 'http://blog.bacula.org/source-download-center/'
+      introduce: ''
+      picName : logo_bacula.png
+    - 
+      name : Clonezilla
+      officialLink : 'http://clonezilla.org/'
+      downloadLink : 'http://clonezilla.org/downloads.php'
+      introduce: ''
+      picName : clonezilla_logo_small.png
+    - 
+      name : Mondo Rescue
+      officialLink : 'http://www.mondorescue.org/'
+      downloadLink : 'http://www.mondorescue.org/downloads.shtml'
+      introduce: ''
+      picName : MondoRescue.png
+  配置管理 :
+    - 
+      name : Ansible
+      officialLink : 'https://www.ansible.com/'
+      downloadLink : 'https://www.ansible.com/tower-trial'
+      introduce: ''
+      picName : Ansible_Logo.png
+    - 
+      name : Chef
+      officialLink : 'https://www.chef.io/'
+      downloadLink : 'https://downloads.chef.io/'
+      introduce: ''
+      picName : chef-logo.jpg
+    - 
+      name : oVirt
+      officialLink : 'https://www.ovirt.org/'
+      downloadLink : 'https://www.ovirt.org/download/'
+      introduce: ''
+      picName : ovirt_logo.png
+    - 
+      name : Puppet
+      officialLink : 'https://puppet.com/'
+      downloadLink : 'https://puppet.com/download-open-source-puppet'
+      introduce: ''
+      picName : puppet.png
+  HA集群 :
+    - 
+      name : DRBD
+      officialLink : 'https://docs.linbit.com/'
+      downloadLink : 'https://www.linbit.com/en/drbd-community/drbd-download/'
+      introduce: ''
+      picName : DRBD_Logo.png
+    - 
+      name : Heartbeat
+      officialLink : 'http://www.linux-ha.org/w/index.php?title=Heartbeat&setlang=zh'
+      downloadLink : 'http://www.linux-ha.org/wiki/Downloads'
+      introduce: ''
+      picName : Heartbeat.PNG
+  負載平衡 :
+    - 
+      name : Linux Virtual Server
+      officialLink : 'http://www.linuxvirtualserver.org/'
+      downloadLink : 'http://www.linuxvirtualserver.org/software/index.html'
+      introduce: ''
+      picName : Linux.png
+    - 
+      name : Pound
+      officialLink : 'http://www.apsis.ch/pound/'
+      downloadLink : ''
+      introduce: ''
+    - 
+      name : Ultra Monkey
+      officialLink : 'http://www.ultramonkey.org/'
+      downloadLink : 'http://www.apsis.ch/pound/'
+      introduce: ''
+      picName : monkey_wht.jpg
+  運行監控 :
+    - 
+      name : GNetWatch
+      officialLink : 'http://gnetwatch.sourceforge.net/'
+      downloadLink : 'http://gnetwatch.sourceforge.net/download.html'
+      introduce: ''
+      picName : GNetWatch.PNG
+    - 
+      name : Groundwork
+      officialLink : 'https://www.gwos.com/'
+      downloadLink : 'https://www.gwos.com/download/'
+      introduce: ''
+      picName : Groundwork.png
+    - 
+      name : Hinemos
+      officialLink : 'https://zh-tw.osdn.net/projects/hinemos/'
+      downloadLink : 'https://zh-tw.osdn.net/projects/hinemos/releases/'
+      introduce: ''
+      picName : Hinemos.png
+    - 
+      name : Monit
+      officialLink : 'https://mmonit.com/monit/'
+      downloadLink : 'https://mmonit.com/monit/#download'
+      introduce: ''
+      picName : monit-logo.png
+    - 
+      name : Nagios
+      officialLink : 'https://www.nagios.org/'
+      downloadLink : 'https://www.nagios.org/downloads/'
+      introduce: ''
+      picName : Nagios-Logo.jpg
+    - 
+      name : OpenNMS
+      officialLink : 'https://www.opennms.org/en'
+      downloadLink : 'https://www.opennms.org/en/install'
+      introduce: ''
+      picName : opennms.png
+    - 
+      name : Syslog NG
+      officialLink : 'https://syslog-ng.org/'
+      downloadLink : 'https://github.com/balabit/syslog-ng'
+      introduce: ''
+      picName : syslog-256.png
+    - 
+      name : Zabbix
+      officialLink : 'https://www.zabbix.com/'
+      downloadLink : 'https://www.zabbix.com/download'
+      introduce: ''
+      picName : zabbix_logo.png
+  網絡監控 :
+    - 
+      name : CACTI
+      officialLink : 'https://www.cacti.net/index.php'
+      downloadLink : 'https://www.cacti.net/download_cacti.php'
+      introduce: ''
+      picName : cacti.png
+    - 
+      name : MRTG
+      officialLink : 'https://oss.oetiker.ch/mrtg/'
+      downloadLink : 'https://oss.oetiker.ch/mrtg/pub/?M=D'
+      introduce: ''
+      picName : MRTG.png
+    - 
+      name : Munin
+      officialLink : 'http://munin-monitoring.org/'
+      downloadLink : 'http://downloads.munin-monitoring.org/munin/stable/?C=N;O=D'
+      introduce: ''
+      picName : munin.png
+    - 
+      name : NetHogs
+      officialLink : 'https://github.com/raboof/nethogs#readme'
+      downloadLink : 'https://github.com/raboof/nethogs#readme'
+      introduce: ''
+      picName : 
+    - 
+      name : RRDTool
+      officialLink : 'https://oss.oetiker.ch/rrdtool/'
+      downloadLink : 'https://oss.oetiker.ch/rrdtool/pub/?M=D'
+      introduce: ''
+      picName : rrdtool-logo.png
+    - 
+      name : VyattaCore Software
+      officialLink : 'https://wiki.vyos.net/wiki/Main_Page'
+      downloadLink : 'https://downloads.vyos.io/?dir=release'
+      introduce: ''
+      picName : Vyos_logo_half.png
+    - 
+      name : Wireshark
+      officialLink : 'https://www.wireshark.org/'
+      downloadLink : 'https://www.wireshark.org/#download'
+      introduce: ''
+      picName : wireshark_logo.png
+    - 
+      name : Zenoss
+      officialLink : 'https://community.zenoss.com/home'
+      downloadLink : 'https://www.zenoss.com/get-started'
+      introduce: ''
+      picName : Zenoss.png
+網站建設 :
+  CMS :
+    - 
+      name : Alfresco
+      officialLink : 'https://www.alfresco.com/?sl_redir=1'
+      downloadLink : 'https://www.alfresco.com/try-alfresco'
+      introduce: ''
+      picName : Alfresco.png
+    - 
+      name : Apache Lenya
+      officialLink : 'https://lenya.apache.org/'
+      downloadLink : 'https://lenya.apache.org/docu20/installation20/download20.html'
+      introduce: ''
+      picName : Lenya.png
+    - 
+      name : DotNetNuke
+      officialLink : 'http://www.dnnsoftware.com/'
+      downloadLink : 'http://www.dnnsoftware.com/community/download'
+      introduce: ''
+      picName : DotNetNuke.png
+    - 
+      name : Drupal
+      officialLink : 'https://www.drupal.org/'
+      downloadLink : 'https://www.drupal.org/download'
+      introduce: ''
+      picName : drupal-logo-big.png
+    - 
+      name : eZPublish
+      officialLink : 'https://ez.no/'
+      downloadLink : 'https://ez.no/Forms/Request-a-Consultation'
+      introduce: ''
+      picName : eZPublish.png
+    - 
+      name : GateIn
+      officialLink : 'http://gatein.jboss.org/'
+      downloadLink : 'http://gatein.jboss.org/download'
+      introduce: ''
+      picName : gatein_logo.png
+    - 
+      name : Geeklog
+      officialLink : 'https://www.geeklog.net/'
+      downloadLink : 'https://www.geeklog.net/downloads/index.php'
+      introduce: ''
+      picName : Geeklog.png
+    - 
+      name : Joomla!
+      officialLink : 'https://www.joomla.com/'
+      downloadLink : 'https://www.joomla.com/'
+      introduce: ''
+      picName : Joomla.png
+    - 
+      name : LiferayPortal
+      officialLink : 'https://www.liferay.com/home'
+      downloadLink : 'https://www.liferay.com/zh/downloads'
+      introduce: ''
+      picName : LiferayPortal.png
+    - 
+      name : moodle
+      officialLink : 'https://moodle.org/'
+      downloadLink : 'https://download.moodle.org/releases/latest/'
+      introduce: ''
+      picName : moodle-logo.png
+    - 
+      name : Movable Type Open Source
+      officialLink : 'https://movabletype.com/'
+      downloadLink : 'https://www.sixapart.jp/inquiry/movabletype/personal_download.html'
+      introduce: ''
+      picName : MovableType.png
+    - 
+      name : Plone
+      officialLink : 'https://plone.org/'
+      downloadLink : 'https://plone.org/download'
+      introduce: ''
+      picName : plone.png
+    - 
+      name : PukiWiki
+      officialLink : 'https://pukiwiki.osdn.jp/'
+      downloadLink : 'https://zh-tw.osdn.net/projects/pukiwiki/'
+      introduce: ''
+      picName : pukiwiki-official.png
+    - 
+      name : WordPress
+      officialLink : 'https://zh-tw.wordpress.com/com-vs-org/?sgmt=gb&utm_source=adwords&utm_campaign=G_Search_Brand_Desktop_TW_zh-tw_x_x&utm_medium=cpc&keyword=wordpress&creative=199332587997&campaignid=667463717&adgroupid=30623458221&matchtype=e&device=c&network=g&targetid=aud-309211669636:kwd-313411415&locationid=9040379&gclid=EAIaIQobChMI54Dc3tTC1wIVQh0rCh2v2AbKEAAYASAAEgLjfPD_BwE'
+      downloadLink : 'https://zh-tw.wordpress.com/pricing/'
+      introduce: ''
+      picName : wordpress.png
+    - 
+      name : Xoops
+      officialLink : 'http://www.xoops.org.tw/'
+      downloadLink : 'http://www.xoops.org.tw/modules/wfdownloads/'
+      introduce: ''
+      picName : Xoops_logo.png
+    - 
+      name : XOOPS cube
+      officialLink : 'http://xoopscube.org/'
+      downloadLink : 'https://github.com/xoopscube/legacy/releases'
+      introduce: ''
+      picName : XOOPScube.png
+  電子商務 :
+    - 
+      name : EC-Cube
+      officialLink : 'https://github.com/EC-CUBE/'
+      downloadLink : 'https://github.com/EC-CUBE/'
+      introduce: ''
+      picName : 
+BigData :
+  分佈式處理平台:
+    - 
+      name : Apache Hadoop MapReduce
+      officialLink : 'https://hadoop.apache.org/'
+      downloadLink : 'http://apache.stu.edu.tw/hadoop/common/stable/'
+      introduce: ''
+      picName : hadoop-logo.jpg
+    - 
+      name : Apache Hadoop YARN
+      officialLink : 'https://hadoop.apache.org/'
+      downloadLink : 'http://apache.stu.edu.tw/hadoop/common/stable/'
+      introduce: ''
+      picName : hadoop-logo.jpg
+    - 
+      name : Apache Mesos
+      officialLink : 'http://mesos.apache.org/'
+      downloadLink : 'http://mesos.apache.org/downloads/'
+      introduce: ''
+      picName : Apache-Mesos1.png
+    - 
+      name : Apache Spark
+      officialLink : 'http://spark.apache.org/'
+      downloadLink : 'http://spark.apache.org/downloads.html'
+      introduce: ''
+      picName : spark-logo-trademark.png
+    - 
+      name : ApacheTez
+      officialLink : 'https://tez.apache.org/'
+      downloadLink : 'https://tez.apache.org/releases/index.html'
+      introduce: ''
+      picName : ApacheTez.png
+  履帶(? :
+    - 
+      name : Apache ManifoldCF
+      officialLink : 'http://manifoldcf.apache.org/en_US/index.html'
+      downloadLink : 'http://manifoldcf.apache.org/en_US/download.html'
+      introduce: ''
+      picName : ManifoldCF-logo.PNG
+    - 
+      name : Apache Nutch
+      officialLink : 'http://nutch.apache.org/'
+      downloadLink : 'http://nutch.apache.org/downloads.html'
+      introduce: ''
+      picName : nutch_logo_tm.png
+  數據收集 :
+    - 
+      name : Apache Flume
+      officialLink : 'https://flume.apache.org/'
+      downloadLink : 'https://flume.apache.org/download.html'
+      introduce: ''
+      picName : flume-logo.png
+    - 
+      name : Apache Kafka
+      officialLink : 'http://kafka.apache.org/'
+      downloadLink : 'http://kafka.apache.org/downloads'
+      introduce: ''
+      picName : Kafka.png
+    - 
+      name : Apache Sqoop
+      officialLink : 'http://sqoop.apache.org/'
+      downloadLink : 'http://apache.stu.edu.tw/sqoop/'
+      introduce: ''
+      picName : sqoop-logo.png
+    - 
+      name : Fluentd
+      officialLink : 'https://www.fluentd.org/'
+      downloadLink : 'https://www.fluentd.org/download'
+      introduce: ''
+      picName : fluentd-logo.png
+    - 
+      name : Talend
+      officialLink : 'https://www.talend.com/'
+      downloadLink : 'https://www.talend.com/download/'
+      introduce: ''
+      picName : talend-logo.png
+  數據累積/分佈式文件系統 :
+    - 
+      name : Apache Hadoop HDFS
+      officialLink : 'https://hadoop.apache.org/'
+      downloadLink : 'https://hadoop.apache.org/releases.html'
+      introduce: ''
+      picName : hadoop-logo.jpg
+    - 
+      name : Ceph
+      officialLink : 'http://ceph.com/'
+      downloadLink : 'http://ceph.com/get/'
+      introduce: ''
+      picName : Ceph_Logo_.png
+    - 
+      name : GlusterFS
+      officialLink : 'https://www.gluster.org/'
+      downloadLink : 'https://www.gluster.org/install/'
+      introduce: ''
+      picName : glusterfs-square-logo.png
+    - 
+      name : Lustre
+      officialLink : 'http://lustre.org/'
+      downloadLink : 'http://lustre.org/download/'
+      introduce: ''
+      picName : Lustre.PNG
+  機器學習 :
+    - 
+      name : Hivemall
+      officialLink : 'https://github.com/apache/incubator-hivemall'
+      downloadLink : 'https://github.com/apache/incubator-hivemall'
+      introduce: ''
+      picName : Hivemall.png
+    - 
+      name : Jubatus
+      officialLink : 'https://github.com/jubatus/jubatus'
+      downloadLink : 'https://github.com/jubatus/jubatus'
+      introduce: ''
+      picName : 
+    - 
+      name : MLlib
+      officialLink : 'http://spark.apache.org/mllib/'
+      downloadLink : 'http://spark.apache.org/mllib/'
+      introduce: ''
+      picName : spark-logo-trademark.png
+  深度學習 :
+    - 
+      name : Caffe
+      officialLink : 'http://caffe.berkeleyvision.org/'
+      downloadLink : 'https://github.com/BVLC/caffe'
+      introduce: ''
+      picName : 
+    - 
+      name : Chainer
+      officialLink : 'https://chainer.org/'
+      downloadLink : 'https://github.com/chainer/chainer/'
+      introduce: ''
+      picName : Chainer.png
+    - 
+      name : CNTK
+      officialLink : 'https://www.microsoft.com/en-us/cognitive-toolkit/'
+      downloadLink : 'https://docs.microsoft.com/en-us/cognitive-toolkit/Setup-CNTK-on-your-machine#install-cntk-from-precompiled-binaries'
+      introduce: ''
+      picName : cntk.png
+    - 
+      name : Deeplearning4j
+      officialLink : 'https://deeplearning4j.org/index.html'
+      downloadLink : 'https://github.com/deeplearning4j/deeplearning4j'
+      introduce: ''
+      picName : DL4J-LOGO-2.png
+    - 
+      name : DSSTNE
+      officialLink : 'https://github.com/amzn/amazon-dsstne'
+      downloadLink : 'https://github.com/amzn/amazon-dsstne'
+      introduce: ''
+      picName : 
+    - 
+      name : PredictionIO
+      officialLink : 'http://predictionio.incubator.apache.org/'
+      downloadLink : 'https://github.com/apache/incubator-predictionio/'
+      introduce: ''
+      picName : PredictionIO.png
+    - 
+      name : TensorFlow
+      officialLink : 'http://deeplearning.net/software/theano/'
+      downloadLink : 'https://github.com/apache/incubator-predictionio/'
+      introduce: ''
+      picName : 
+    - 
+      name : Theano
+      officialLink : 'http://deeplearning.net/software/theano/'
+      downloadLink : 'https://github.com/Theano/Theano'
+      introduce: ''
+      picName : Theano.jpeg
+    - 
+      name : Torch7
+      officialLink : 'https://github.com/torch/torch7'
+      downloadLink : 'https://github.com/torch/torch7'
+      introduce: ''
+      picName : Torch7.png
+  CEP :
+    - 
+      name : Apache S4
+      officialLink : 'http://incubator.apache.org/projects/s4.html'
+      downloadLink : 'https://github.com/apache/incubator-s4'
+      introduce: ''
+      picName : apacheIncubator.png
+    - 
+      name : Apache SparkStreaming
+      officialLink : 'https://spark.apache.org/streaming/'
+      downloadLink : 'https://spark.apache.org/streaming/'
+      introduce: ''
+      picName : spark-logo-trademark.png
+    - 
+      name : Apache Storm
+      officialLink : 'http://storm.apache.org/'
+      downloadLink : 'http://storm.apache.org/downloads.html'
+      introduce: ''
+      picName : storm_logo.png
+    - 
+      name : Drools Fusion
+      officialLink : 'http://www.drools.org/'
+      downloadLink : 'http://www.drools.org/download/download.html'
+      introduce: ''
+      picName : DroolsLogo210px.png
+    - 
+      name : Esper
+      officialLink : 'http://www.espertech.com/'
+      downloadLink : 'http://www.espertech.com/downloads/'
+      introduce: ''
+      picName : esper.png
+  BA・BI :
+    -
+      name : Pentaho
+      officialLink : 'http://www.pentaho.com/'
+      downloadLink : 'http://www.pentaho.com/download'
+      introduce: ''
+      picName : pentaho.png
+  內存數據庫/分佈式KVS :
+    - 
+      name : Apache Cassandra
+      officialLink : 'http://cassandra.apache.org/'
+      downloadLink : 'http://cassandra.apache.org/download/'
+      introduce: ''
+      picName : Cassandra.png 
+    - 
+      name : Apache HBase
+      officialLink : 'https://hbase.apache.org/'
+      downloadLink : 'http://apache.stu.edu.tw/hbase/'
+      introduce: ''
+      picName : HBase.png
+    - 
+      name : infinispan
+      officialLink : 'https://github.com/infinispan/infinispan'
+      downloadLink : 'https://github.com/infinispan/infinispan'
+      introduce: ''
+      picName : 
+    - 
+      name : MongoDB
+      officialLink : 'https://www.mongodb.com/'
+      downloadLink : 'https://www.mongodb.com/download-center#community'
+      introduce: ''
+      picName : Mongo-Db-1.png
+    - 
+      name : Redis
+      officialLink : 'https://redis.io/'
+      downloadLink : 'https://redis.io/download'
+      introduce: ''
+      picName : redis-logo.png
+    - 
+      name : Riak
+      officialLink : 'http://docs.basho.com/'
+      downloadLink : 'http://docs.basho.com/riak/ts/1.5.2/downloads/'
+      introduce: ''
+      picName : riak.png
+    - 
+      name : VoltDB
+      officialLink : 'https://www.voltdb.com/'
+      downloadLink : 'https://www.voltdb.com/try-voltdb/'
+      introduce: ''
+      picName : VoltDB.png
+    - 
+      name : Neo4j
+      officialLink : 'https://github.com/neo4j/neo4j'
+      downloadLink : 'https://github.com/neo4j/neo4j'
+      introduce: ''
+      picName : 
+  準實時查詢 :
+    - 
+      name : Apache Drill
+      officialLink : 'https://drill.apache.org/'
+      downloadLink : 'https://drill.apache.org/download/'
+      introduce: ''
+      picName : apache-drill.png
+    - 
+      name : Apache Hive
+      officialLink : 'https://hive.apache.org/'
+      downloadLink : 'http://apache.stu.edu.tw/hive/'
+      introduce: ''
+      picName : hive_logo_medium.jpg
+    - 
+      name : Apache SparkSQL
+      officialLink : 'http://spark.apache.org/sql/'
+      downloadLink : 'http://spark.apache.org/sql/'
+      introduce: ''
+      picName : spark-logo-trademark.png
+    - 
+      name : Impala
+      officialLink : 'https://impala.apache.org/'
+      downloadLink : 'https://impala.apache.org/downloads.html'
+      introduce: ''
+      picName : impala-logo.png
+  數據分析 :
+    - 
+      name : R
+      officialLink : 'https://www.r-project.org/index.html'
+      downloadLink : 'https://ftp.yzu.edu.tw/CRAN/'
+      introduce: ''
+      picName : Rlogo.png
+OS、虛擬化、雲端 :
+  OS :
+    - 
+      name : Android
+      officialLink : 'https://www.android.com/intl/zh-TW_tw/'
+      downloadLink : 'https://developer.android.com/index.html'
+      introduce: ''
+      picName : android.jpg
+    - 
+      name : CentOS
+      officialLink : 'https://www.centos.org/'
+      downloadLink : 'http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-1708.iso'
+      introduce: ''
+      picName : CentOS.png
+    - 
+      name : CoreOS
+      officialLink : 'https://coreos.com/'
+      downloadLink : 'https://coreos.com/os/docs/latest/booting-with-iso.html'
+      introduce: ''
+      picName : CoreOS.png
+    - 
+      name : Debian
+      officialLink : 'https://www.debian.org/'
+      downloadLink : 'https://www.debian.org/distrib/'
+      introduce: ''
+      picName : debian-wheezy-download.jpg
+    - 
+      name : Fedora
+      officialLink : 'https://getfedora.org/'
+      downloadLink : 'https://getfedora.org/'
+      introduce: ''
+      picName : fedora_infinity_140x140.png
+    - 
+      name : FreeBSD
+      officialLink : 'https://www.freebsd.org/'
+      downloadLink : 'https://www.freebsd.org/where.html'
+      introduce: ''
+      picName : FreeBSD.png
+    - 
+      name : openSUSE
+      officialLink : 'https://en.opensuse.org/Main_Page'
+      downloadLink : 'https://software.opensuse.org/'
+      introduce: ''
+      picName : Opensuse-geeko.png
+    - 
+      name : Scientific Linux
+      officialLink : 'https://www.scientificlinux.org/'
+      downloadLink : 'http://ftp1.scientificlinux.org/linux/scientific/7x/x86_64/iso/'
+      introduce: ''
+      picName : ScientificLinux.png
+    - 
+      name : Ubuntu
+      officialLink : 'https://www.ubuntu.com/'
+      downloadLink : 'https://www.ubuntu-tw.org/modules/tinyd0/'
+      introduce: ''
+      picName : ubuntu-logo112.png
+  作業系統層虛擬化 :
+    - 
+      name : Docker
+      officialLink : 'https://www.docker.com/'
+      downloadLink : 'https://store.docker.com/search?offering=community&q=&type=edition'
+      introduce: ''
+      picName : Docker_logo_logotype.png
+    - 
+      name : KVM
+      officialLink : 'http://www.linux-kvm.org/page/Main_Page'
+      downloadLink : 'https://www.linux-kvm.org/page/Downloads'
+      introduce: ''
+      picName : kvmbanner-logo3.png
+    - 
+      name : Virt-Manager
+      officialLink : 'https://virt-manager.org/'
+      downloadLink : 'https://virt-manager.org/download/'
+      introduce: ''
+      picName : Virt-Manager.png
+    - 
+      name : VirtualBox
+      officialLink : 'https://www.virtualbox.org/'
+      downloadLink : 'https://www.virtualbox.org/wiki/Downloads'
+      introduce: ''
+      picName : vbox_logo2_gradient.png
+    - 
+      name : Xen
+      officialLink : 'https://www.xenproject.org/'
+      downloadLink : 'https://www.xenproject.org/downloads.html'
+      introduce: ''
+      picName : xen-logo.png
+  追蹤虛擬化 :
+    - 
+      name : Ceph
+      officialLink : 'http://ceph.com/'
+      downloadLink : 'http://ceph.com/get/'
+      introduce: ''
+      picName : Ceph_Logo_.png
+    - 
+      name : GlusterFS
+      officialLink : 'https://www.gluster.org/'
+      downloadLink : 'https://www.gluster.org/install/'
+      introduce: ''
+      picName : glusterfs-square-logo.png
+    - 
+      name : Lustre
+      officialLink : 'http://lustre.org/'
+      downloadLink : 'http://lustre.org/download/'
+      introduce: ''
+      picName : Lustre.PNG
+  網路虛擬化 :
+    - 
+      name : OF-Patch
+      officialLink : 'https://github.com/okinawaopenlabs/of-patch-manager'
+      downloadLink : 'https://github.com/okinawaopenlabs/of-patch-manager'
+      introduce: ''
+      picName : 
+    - 
+      name : OpenDaylight
+      officialLink : 'https://www.opendaylight.org/'
+      downloadLink : 'https://www.opendaylight.org/technical-community/getting-started-for-developers/downloads-and-documentation'
+      introduce: ''
+      picName : OpenDaylight.jpg
+    - 
+      name : Trema
+      officialLink : 'https://trema.github.io/trema/'
+      downloadLink : 'https://github.com/trema/trema'
+      introduce: ''
+      picName : 
+  IaaS :
+    - 
+      name : Kubernetes
+      officialLink : 'https://kubernetes.io/'
+      downloadLink : 'https://github.com/kubernetes/kubernetes'
+      introduce: ''
+      picName : Kubernetes-logo.png
+    - 
+      name : OpenStack Ironic
+      officialLink : 'https://wiki.openstack.org/wiki/Ironic'
+      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
+      introduce: ''
+      picName : openstack-icon.png
+    - 
+      name : OpenStack Magnum
+      officialLink : 'https://wiki.openstack.org/wiki/Magnum'
+      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
+      introduce: ''
+      picName : openstack-icon.png
+    - 
+      name : Vagrant
+      officialLink : 'https://www.vagrantup.com/'
+      downloadLink : 'https://www.vagrantup.com/downloads.html'
+      introduce: ''
+      picName : Vagrant.png
+  PaaS :
+    - 
+      name : Cloud Foundry
+      officialLink : 'https://www.cloudfoundry.org/'
+      downloadLink : 'https://www.cloudfoundry.org/docs-download/'
+      introduce: ''
+      picName : CloudFoundry.png
+    - 
+      name : Deltacloud
+      officialLink : 'https://deltacloud.apache.org/'
+      downloadLink : 'https://deltacloud.apache.org/download.html'
+      introduce : ''
+      picName : Deltacloud.png 
+    - 
+      name : OpenShift
+      officialLink : 'https://www.openshift.org/'
+      downloadLink : 'https://www.openshift.org/download.html#oc-platforms'
+      introduce: ''
+      picName : OpenShift-LogoType.svg.png
+  SaaS :
+    - 
+      name : OpenStack Murano
+      officialLink : 'https://wiki.openstack.org/wiki/Murano'
+      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
+      introduce: ''
+      picName : openstack-icon.png
+  CompaaS :
+    - 
+      name : OpenStack Nova
+      officialLink : 'https://wiki.openstack.org/wiki/Nova'
+      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
+      introduce: ''
+      picName : openstack-icon.png
+    - 
+      name : OpenStack Glance
+      officialLink : 'https://wiki.openstack.org/wiki/Glance'
+      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
+      introduce: ''
+      picName : openstack-icon.png
+  DSaaS :
+    - 
+      name : OpenStack Cinder
+      officialLink : 'https://wiki.openstack.org/wiki/Cinder'
+      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
+      introduce: ''
+      picName : openstack-icon.png
+    - 
+      name : OpenStack Manila
+      officialLink : 'https://wiki.openstack.org/wiki/Manila'
+      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
+      introduce: ''
+      picName : openstack-icon.png
+    - 
+      name : OpenStack Swift
+      officialLink : 'https://wiki.openstack.org/wiki/Swift'
+      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
+      introduce: ''
+      picName : openstack-icon.png
+  NaaS :
+    - 
+      name : OpenStack Neutron
+      officialLink : 'https://wiki.openstack.org/wiki/Neutron'
+      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
+      introduce: ''
+      picName : openstack-icon.png
+    - 
+      name : OpenStack Designate
+      officialLink : 'https://wiki.openstack.org/wiki/Designate'
+      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
+      introduce: ''
+      picName : openstack-icon.png
+  IDaaS :
+    - 
+      name : OpenStack Keystone
+      officialLink : 'https://wiki.openstack.org/wiki/Keystone'
+      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
+      introduce: ''
+      picName : openstack-icon.png
+檢索與分佈式處理 :
+  搜尋引擎:
+    - 
+      name : Apache Lucene
+      officialLink : 'https://lucene.apache.org/core/'
+      downloadLink : 'http://apache.stu.edu.tw/lucene/java/'
+      introduce: ''
+      picName : lucene_logo_green_300.png
+    - 
+      name : Apache ManifoldCF
+      officialLink : 'http://manifoldcf.apache.org/en_US/index.html'
+      downloadLink : 'http://manifoldcf.apache.org/en_US/download.html'
+      introduce: ''
+      picName : ManifoldCF-logo.PNG
+    - 
+      name : Apache Nutch
+      officialLink : 'http://nutch.apache.org/'
+      downloadLink : 'http://nutch.apache.org/downloads.html'
+      introduce: ''
+      picName : nutch_logo_tm.png
+    - 
+      name : Elasticsearch
+      officialLink : 'https://www.elastic.co/products/elasticsearch'
+      downloadLink : 'https://www.elastic.co/downloads/elasticsearch'
+      introduce: ''
+      picName : Elasticsearch.png
+    - 
+      name : Kibana
+      officialLink : 'https://www.elastic.co/products/kibana'
+      downloadLink : 'https://www.elastic.co/downloads/kibana'
+      introduce: ''
+      picName : Kibana.PNG
+    - 
+      name : Logstash
+      officialLink : 'https://www.elastic.co/products/logstash'
+      downloadLink : 'https://www.elastic.co/downloads/logstash'
+      introduce: ''
+      picName : Logstash.PNG
+  分佈式處理 :
+    - 
+      name : Apache Hadoop
+      officialLink : 'https://hadoop.apache.org/'
+      downloadLink : 'http://apache.stu.edu.tw/hadoop/common/stable/'
+      introduce: ''
+      picName : hadoop-logo.jpg
+    - 
+      name : Apache Spark
+      officialLink : 'http://spark.apache.org/'
+      downloadLink : 'http://spark.apache.org/downloads.html'
+      introduce: ''
+      picName : spark-logo-trademark.png
+    - 
+      name : Apache Sqoop
+      officialLink : 'http://sqoop.apache.org/'
+      downloadLink : 'http://apache.stu.edu.tw/sqoop/'
+      introduce: ''
+      picName : sqoop-logo.png
+    - 
+      name : Apache Storm
+      officialLink : 'http://storm.apache.org/'
+      downloadLink : 'http://storm.apache.org/downloads.html'
+      introduce: ''
+      picName : storm_logo.png
+    - 
+      name : Ganglia
+      officialLink : 'http://ganglia.info/'
+      downloadLink : 'http://ganglia.info/?page_id=66'
+      introduce: ''
+      picName : Ganglia.jpg
+開發支援 :
+  整合開發環境 :
+    - 
+      name : Apache Ant
+      officialLink : 'http://ant.apache.org/'
+      downloadLink : 'http://ant.apache.org/bindownload.cgi'
+      introduce: ''
+      picName : apacheAnt.gif
+    - 
+      name : Apache Maven
+      officialLink : 'https://maven.apache.org/'
+      downloadLink : 'https://maven.apache.org/download.cgi'
+      introduce: ''
+      picName : Maven.png
+    - 
+      name : Cobertura
+      officialLink : 'http://cobertura.github.io/cobertura/'
+      downloadLink : 'https://sourceforge.net/projects/cobertura/files/latest/download?source=files'
+      introduce: ''
+      picName : 
+    - 
+      name : Eclipse
+      officialLink : 'https://eclipse.org/'
+      downloadLink : 'https://eclipse.org/downloads/'
+      introduce: ''
+      picName : eclipse-426x100.png
+    - 
+      name : GerritCode Review
+      officialLink : 'https://www.gerritcodereview.com/'
+      downloadLink : 'https://www.gerritcodereview.com/releases/2.14.md'
+      introduce: ''
+      picName : gerrit-logo-diffy.png
+    - 
+      name : Gitlab
+      officialLink : 'https://about.gitlab.com/'
+      downloadLink : 'https://about.gitlab.com/installation/'
+      introduce: ''
+      picName : Gitlab.png
+    - 
+      name : NetBeans
+      officialLink : 'https://netbeans.org/index_zh_TW.html'
+      downloadLink : 'https://netbeans.org/downloads/'
+      introduce: ''
+      picName : netbeans.png
+  版本控制 :
+    - 
+      name : Apache Subversion
+      officialLink : 'https://subversion.apache.org/'
+      downloadLink : 'https://subversion.apache.org/download.cgi?update=201708081800#recommended-release'
+      introduce: ''
+      picName : svn-square.jpg
+    - 
+      name : CVS
+      officialLink : 'http://www.nongnu.org/cvs/'
+      downloadLink : 'http://ftp.gnu.org/non-gnu/cvs/'
+      introduce: ''
+      picName : 
+    - 
+      name : Git
+      officialLink : 'https://git-scm.com/'
+      downloadLink : 'https://git-scm.com/downloads'
+      introduce: ''
+      picName : Git.png
+    - 
+      name : Mercurial
+      officialLink : 'https://www.mercurial-scm.org/'
+      downloadLink : 'https://www.mercurial-scm.org/downloads'
+      introduce: ''
+      picName : mercurial-640x448.jpg
+  開發語言 :
+    - 
+      name : GCC
+      officialLink : 'https://gcc.gnu.org/'
+      downloadLink : 'https://gcc.gnu.org/install/binaries.html'
+      introduce: ''
+      picName : gccegg-65.png
+    - 
+      name : OpenJDK
+      officialLink : 'http://openjdk.java.net/'
+      downloadLink : 'http://openjdk.java.net/install/index.html'
+      introduce: ''
+      picName : openjdk.png
+    - 
+      name : Perl
+      officialLink : 'https://www.perl.org/'
+      downloadLink : 'https://www.perl.org/get.html'
+      introduce: ''
+      picName : perl-card.png
+    - 
+      name : PHP
+      officialLink : 'http://php.net/'
+      downloadLink : 'http://php.net/downloads.php'
+      introduce: ''
+      picName : php-logo.png
+    - 
+      name : PowerShell
+      officialLink : 'https://github.com/PowerShell'
+      downloadLink : 'https://github.com/PowerShell'
+      introduce: ''
+      picName : 
+    - 
+      name : Python
+      officialLink : 'https://www.python.org/'
+      downloadLink : 'https://www.python.org/downloads/'
+      introduce: ''
+      picName : python-logo.png
+    - 
+      name : Ruby
+      officialLink : 'https://www.ruby-lang.org/zh_tw/'
+      downloadLink : 'https://www.ruby-lang.org/zh_tw/downloads/'
+      introduce: ''
+      picName : ruby-card.png
+    - 
+      name : Scala
+      officialLink : 'http://www.scala-lang.org/'
+      downloadLink : 'http://www.scala-lang.org/download/'
+      introduce: ''
+      picName : Scala.jpg
+    - 
+      name : typescript
+      officialLink : 'https://www.typescriptlang.org/'
+      downloadLink : 'https://www.typescriptlang.org/#download-links'
+      introduce: ''
+      picName : typescript.png
+  開發框架 :
+    - 
+      name : Apache ActiveMQ
+      officialLink : 'http://activemq.apache.org/'
+      downloadLink : 'http://activemq.apache.org/download.html'
+      introduce: ''
+      picName : Apache-activemq-logo.png
+    - 
+      name : Apache Drill
+      officialLink : 'https://drill.apache.org/'
+      downloadLink : 'https://drill.apache.org/download/'
+      introduce: ''
+      picName : apache-drill.png
+    - 
+      name : Apache Logging Log4j
+      officialLink : 'https://logging.apache.org/log4j/2.x/'
+      downloadLink : 'https://logging.apache.org/log4j/2.x/download.html'
+      introduce: ''
+      picName : Log4j.png
+    - 
+      name : Apache S4
+      officialLink : 'http://incubator.apache.org/projects/s4.html'
+      downloadLink : 'https://github.com/apache/incubator-s4'
+      introduce: ''
+      picName : apacheIncubator.png
+    - 
+      name : Apache Struts
+      officialLink : 'https://struts.apache.org/'
+      downloadLink : 'https://struts.apache.org/download.cgi#struts2513'
+      introduce: ''
+      picName : Struts.jpeg
+    - 
+      name : Dojo Toolkit
+      officialLink : 'https://dojotoolkit.org/'
+      downloadLink : 'https://dojotoolkit.org/download/'
+      introduce: ''
+      picName : DojoToolkit.png
+    - 
+      name : Eclipse TPTP
+      officialLink : 'https://projects.eclipse.org/projects/tptp.platform'
+      downloadLink : 'http://www.eclipse.org/projects/archives.php'
+      introduce: ''
+      picName : eclipse-426x100.png
+    - 
+      name : Ehcache
+      officialLink : 'http://www.ehcache.org/'
+      downloadLink : 'http://www.ehcache.org/downloads/'
+      introduce: ''
+      picName : Ehcache.png
+    - 
+      name : EMMA
+      officialLink : 'http://emma.sourceforge.net/'
+      downloadLink : 'https://sourceforge.net/projects/emma/files/'
+      introduce: ''
+      picName : emma.png
+    - 
+      name : Hibernate
+      officialLink : 'http://hibernate.org/'
+      downloadLink : 'https://sourceforge.net/projects/hibernate/'
+      introduce: ''
+      picName : hibernate2.png
+    - 
+      name : JBossSeam
+      officialLink : 'http://www.seamframework.org/'
+      downloadLink : 'http://www.seamframework.org/Seam2/Downloads.html'
+      introduce: ''
+      picName : seam_logo_blue.png
+    - 
+      name : Jetspeed
+      officialLink : 'https://portals.apache.org/jetspeed-1/'
+      downloadLink : 'https://portals.apache.org/jetspeed-1/install.html'
+      introduce: ''
+      picName : Jetspeed.gif
+    - 
+      name : jQuery
+      officialLink : 'https://jquery.com/'
+      downloadLink : 'https://jquery.com/download/'
+      introduce: ''
+      picName : jquery1.png
+    - 
+      name : MyBatis
+      officialLink : 'http://www.mybatis.org/'
+      downloadLink : 'https://github.com/mybatis/mybatis-3/releases'
+      introduce: ''
+      picName : MyBatis.jpg
+    - 
+      name : Node.js
+      officialLink : 'https://nodejs.org/en/'
+      downloadLink : 'https://nodejs.org/en/download/'
+      introduce: ''
+      picName : nodeJs.png
+    - 
+      name : Ruby on Rails
+      officialLink : 'http://rubyonrails.org/'
+      downloadLink : 'http://railsinstaller.org/en'
+      introduce: ''
+      picName : rubyonrails.png
+    - 
+      name : Spring
+      officialLink : 'http://spring.io/'
+      downloadLink : 'https://projects.spring.io/spring-framework/#quick-start'
+      introduce: ''
+      picName : Spring.png
+    - 
+      name : Zope
+      officialLink : 'http://www.zope.org/en/latest/'
+      downloadLink : 'http://old.zope.org/Products/'
+      introduce: ''
+      picName : zope-logo.png
+  項目管理 :
+    - 
+      name : .net.core
+      officialLink : 'https://www.microsoft.com/net/learn/what-is-dotnet'
+      downloadLink : 'https://www.microsoft.com/net/download/windows'
+      introduce: ''
+      picName : netCore.png
+    - 
+      name : Bugzilla
+      officialLink : 'https://www.bugzilla.org/'
+      downloadLink : 'https://github.com/repeat/bugzilla-tw'
+      introduce: ''
+      picName : Bugzilla.png
+    - 
+      name : mantis
+      officialLink : 'https://www.mantisbt.org/'
+      downloadLink : 'https://www.mantisbt.org/download.php'
+      introduce: ''
+      picName : mantis_logo_262x90.png
+    - 
+      name : OpenProj
+      officialLink : 'https://zh-tw.osdn.net/projects/sfnet_openproj/'
+      downloadLink : 'https://zh-tw.osdn.net/projects/sfnet_openproj/releases/'
+      introduce: ''
+      picName : 
+    - 
+      name : Redmine
+      officialLink : 'http://www.redmine.org/'
+      downloadLink : 'http://www.redmine.org/projects/redmine/wiki/Download'
+      introduce: ''
+      picName : 
+    - 
+      name : Trac
+      officialLink : 'https://trac.edgewall.org/wiki/TracDownload#LatestStableRelease'
+      downloadLink : 'https://trac.edgewall.org/wiki/TracDownload'
+      introduce: ''
+      picName : trac_logo.png
+  測試工具 :
+    - 
+      name : Apache JMeter
+      officialLink : 'http://jmeter.apache.org/'
+      downloadLink : 'http://jmeter.apache.org/download_jmeter.cgi'
+      introduce: ''
+      picName : apachejmeter.jpg
+    - 
+      name : ab(ApacheBench)
+      officialLink : 'https://httpd.apache.org/docs/2.4/programs/ab.html'
+      downloadLink : 'http://httpd.apache.org/download.cgi'
+      introduce: ''
+      picName : SupportApache-small.png
+    - 
+      name : FindBugs
+      officialLink : 'http://findbugs.sourceforge.net/'
+      downloadLink : 'http://findbugs.sourceforge.net/downloads.html'
+      introduce: ''
+      picName : umdFindbugs.png
+    - 
+      name : Gdb
+      officialLink : 'https://www.gnu.org/software/gdb/'
+      downloadLink : 'https://www.gnu.org/software/gdb/download/'
+      introduce: ''
+      picName : Gdb.jpg
+    - 
+      name : Jenkins
+      officialLink : 'https://jenkins.io/'
+      downloadLink : 'https://jenkins.io/download/'
+      introduce: ''
+      picName : Jenkins.png
+    - 
+      name : JUnit
+      officialLink : 'http://junit.org/'
+      downloadLink : 'https://sourceforge.net/projects/junit/'
+      introduce: ''
+      picName : JUnit.png
+    - 
+      name : PasTmon
+      officialLink : 'http://pastmon.sourceforge.net/wp/'
+      downloadLink : 'https://sourceforge.net/projects/pastmon/files/'
+      introduce: ''
+      picName : 
+    - 
+      name : Selenium
+      officialLink : 'http://www.seleniumhq.org/'
+      downloadLink : 'http://www.seleniumhq.org/download/'
+      introduce: ''
+      picName : Seleniumlogo.png
+    - 
+      name : TestNG
+      officialLink : 'http://testng.org/doc/index.html'
+      downloadLink : 'http://testng.org/doc/download.html'
+      introduce: ''
+      picName : 
+    - 
+      name : Valgrind
+      officialLink : 'http://valgrind.org/'
+      downloadLink : 'http://valgrind.org/downloads/current.html'
+      introduce: ''
+      picName : valgrind.jpg
+  表單工具 :
+    - 
+      name : JasperReportsOpen Source Edition
+      officialLink : 'https://community.jaspersoft.com/project/ireport-designer'
+      downloadLink : 'https://community.jaspersoft.com/project/ireport-designer/releases'
+      introduce: ''
+      picName : js_ireport-designer_rg3_0.png
+資訊安全 :
+  病毒防禦與漏洞管理 :
+    - 
+      name : Apache SpamAssasin
+      officialLink : 'http://spamassassin.apache.org/'
+      downloadLink : 'http://spamassassin.apache.org/downloads.cgi?update=201504291720'
+      introduce: ''
+      picName : SpamAssassin_logo.png
+    - 
+      name : ClamAV
+      officialLink : 'http://www.clamav.net/'
+      downloadLink : 'http://www.clamav.net/downloads'
+      introduce: ''
+      picName : ClamAV_Logo.png
+    - 
+      name : openSCAP
+      officialLink : 'https://www.open-scap.org/'
+      downloadLink : 'https://www.open-scap.org/download/'
+      introduce: ''
+      picName : vertical-logo.png
+    - 
+      name : openVAS
+      officialLink : 'http://www.openvas.org/'
+      downloadLink : 'http://www.openvas.org/download.html'
+      introduce: ''
+      picName : openvas.png
+    - 
+      name : OWASP ZAP
+      officialLink : 'https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project'
+      downloadLink : 'https://github.com/zaproxy/zaproxy/wiki/Downloads'
+      introduce: ''
+      picName : Zap128x128.png
+    - 
+      name : swatch
+      officialLink : 'https://sourceforge.net/projects/swatch/'
+      downloadLink : 'https://sourceforge.net/projects/swatch/'
+      introduce: ''
+      picName : 
+  目錄服務 :
+    - 
+      name : 389 Directory Server
+      officialLink : 'http://directory.fedoraproject.org/'
+      downloadLink : 'http://directory.fedoraproject.org/docs/389ds/download.html'
+      introduce: ''
+      picName : 389DirectoryServer.png
+    - 
+      name : Apache Directory server
+      officialLink : 'https://directory.apache.org/'
+      downloadLink : 'https://directory.apache.org/'
+      introduce: ''
+      picName : directory_400x400.png
+    - 
+      name : OpenDJ
+      officialLink : 'https://www.forgerock.com/platform/directory-services/'
+      downloadLink : 'https://www.forgerock.com/downloads/download-opendj-trial/'
+      introduce: ''
+      picName : 
+    - 
+      name : OpenLDAP
+      officialLink : 'http://www.openldap.org/'
+      downloadLink : 'http://www.openldap.org/software/download/'
+      introduce: ''
+      picName : OpenLDAP.gif
+  SSL/VPN/SSH :
+    - 
+      name : OpenSSH
+      officialLink : 'http://www.openssh.com/'
+      downloadLink : 'https://www.openssh.com/ftp.html'
+      introduce: ''
+      picName : OpenSSH_logo.png
+    - 
+      name : OpenSSL
+      officialLink : 'https://www.openssl.org/'
+      downloadLink : 'https://www.openssl.org/source/'
+      introduce: ''
+      picName : OpenSSL.png
+    - 
+      name : OpenVPN
+      officialLink : 'https://openvpn.net/'
+      downloadLink : 'https://openvpn.net/index.php/open-source/downloads.html'
+      introduce: ''
+      picName : openvpn.png
+    - 
+      name : Tor
+      officialLink : 'https://www.torproject.org/'
+      downloadLink : 'https://www.torproject.org/download/download-easy.html.en'
+      introduce: ''
+      picName : tor_logo.png
+  代理伺服器、防火牆 :
+    - 
+      name : iptables
+      officialLink : 'https://git.netfilter.org/iptables/'
+      downloadLink : 'https://git.netfilter.org/iptables/'
+      introduce: ''
+      picName : 
+    - 
+      name : nginx
+      officialLink : 'http://nginx.org/'
+      downloadLink : 'http://nginx.org/en/download.html'
+      introduce: ''
+      picName : nginx.png
+    - 
+      name : Squid
+      officialLink : 'http://www.squid-cache.org/'
+      downloadLink : 'http://www.squid-cache.org/Versions/v3/3.5/'
+      introduce: ''
+      picName : Squid.png
+  IDS/IPS/SIEM :
+    - 
+      name : Snort
+      officialLink : 'https://www.snort.org/'
+      downloadLink : 'https://www.snort.org/downloads'
+      introduce: ''
+      picName : Snort.png
+  身份驗證和訪問管理 :
+    - 
+      name : Apparmor
+      officialLink : 'http://wiki.apparmor.net/index.php/Main_Page'
+      downloadLink : 'https://wiki.debian.org/AppArmor/HowToUse'
+      introduce: ''
+      picName : 
+    - 
+      name : CAS
+      officialLink : 'https://github.com/apereo/cas'
+      downloadLink : 'https://github.com/apereo/cas'
+      introduce: ''
+      picName : 
+    - 
+      name : FreeRADIUS
+      officialLink : 'http://freeradius.org/'
+      downloadLink : 'http://freeradius.org/releases/'
+      introduce: ''
+      picName : FreeRADIUS.png
+    - 
+      name : GnuPG
+      officialLink : 'https://www.gnupg.org/'
+      downloadLink : 'https://www.gnupg.org/download/index.html'
+      introduce: ''
+      picName : GnuPG.png
+    - 
+      name : Kerberos
+      officialLink : 'http://web.mit.edu/kerberos/'
+      downloadLink : 'http://web.mit.edu/kerberos/dist/index.html'
+      introduce: ''
+      picName : 
+    - 
+      name : Keycloak
+      officialLink : 'http://www.keycloak.org/'
+      downloadLink : 'http://www.keycloak.org/downloads.html'
+      introduce: ''
+      picName : Keycloak.jpg
+    - 
+      name : OpenAM
+      officialLink : 'https://backstage.forgerock.com/docs/am'
+      downloadLink : 'https://backstage.forgerock.com/downloads'
+      introduce: ''
+      picName : 
+    - 
+      name : PAM
+      officialLink : 'http://www.linux-pam.org/'
+      downloadLink : 'http://www.linux-pam.org/library/'
+      introduce: ''
+      picName : 
+    - 
+      name : SELinux
+      officialLink : 'https://github.com/SELinuxProject'
+      downloadLink : 'https://github.com/SELinuxProject/selinux'
+      introduce: ''
+      picName : SELinux.png
+    - 
+      name : usermin
+      officialLink : 'http://www.webmin.com/usermin.html'
+      downloadLink : 'http://www.webmin.com/ustandard.html'
+      introduce: ''
+      picName : usermin.jpg
+    - 
+      name : webmin
+      officialLink : 'http://www.webmin.com/index.html'
+      downloadLink : 'http://www.webmin.com/download.html'
+      introduce: ''
+      picName : webmin.png
+  ID管理 :
+    - 
+      name : FreeIPA
+      officialLink : 'https://www.freeipa.org/page/Main_Page'
+      downloadLink : 'https://www.freeipa.org/page/Downloads'
+      introduce: ''
+      picName : freeipa.png
+    - 
+      name : OpenIDM
+      officialLink : 'https://backstage.forgerock.com/docs/idm'
+      downloadLink : 'https://backstage.forgerock.com/docs/openidm/4.5/install-guide/'
+      introduce: ''
+      picName : 
+各類伺服器 :
+  DNS/DHCP :
+    - 
+      name : BIND
+      officialLink : 'https://www.isc.org/downloads/bind/'
+      downloadLink : 'https://www.isc.org/downloads/bind/'
+      introduce: ''
+      picName : 
+    - 
+      name : djbdns
+      officialLink : 'http://cr.yp.to/djbdns.html'
+      downloadLink : 'http://cr.yp.to/djbdns/install.html'
+      introduce: ''
+      picName : 
+    - 
+      name : ISC-DHCP
+      officialLink : 'https://www.isc.org/downloads/dhcp/'
+      downloadLink : 'https://www.isc.org/downloads/dhcp/'
+      introduce: ''
+      picName : 
+    - 
+      name : NSD
+      officialLink : 'https://www.nlnetlabs.nl/projects/nsd/'
+      downloadLink : 'https://www.nlnetlabs.nl/projects/nsd/'
+      introduce: ''
+      picName : 
+    - 
+      name : Unbound
+      officialLink : 'https://www.unbound.net/'
+      downloadLink : 'https://www.unbound.net/download.html'
+      introduce: ''
+      picName : unbound-250.png
+  文件服務器 :
+    - 
+      name : NFS
+      officialLink : 'https://sourceforge.net/projects/nfs/'
+      downloadLink : 'https://sourceforge.net/projects/nfs/'
+      introduce: ''
+      picName : 
+    - 
+      name : Samba
+      officialLink : 'https://www.samba.org/'
+      downloadLink : 'https://www.samba.org/samba/download/'
+      introduce: ''
+      picName : Samba.PNG
+    - 
+      name : OwnCloud
+      officialLink : 'https://owncloud.org/'
+      downloadLink : 'https://owncloud.org/install/'
+      introduce: ''
+      picName : owncloud-square-logo.png
+  FTP Server :
+    - 
+      name : FileZilla
+      officialLink : 'https://filezilla-project.org/'
+      downloadLink : 'https://filezilla-project.org/'
+      introduce: ''
+      picName : filezilla.png
+    - 
+      name : ProFTPD
+      officialLink : 'http://www.proftpd.org/'
+      downloadLink : 'ftp://ftp.proftpd.org/distrib/source/proftpd-1.3.6.tar.gz'
+      introduce: ''
+      picName : proftpd.png
+    - 
+      name : vsftpd
+      officialLink : 'https://security.appspot.com/vsftpd.html'
+      downloadLink : 'https://security.appspot.com/vsftpd.html#download'
+      introduce: ''
+      picName : 
+    - 
+      name : WU-FTPD
+      officialLink : 'http://wu-ftpd.therockgarden.ca/'
+      downloadLink : 'http://www.wfms.org/wu-ftpd/'
+      introduce: ''
+      picName : 
+  POP/IMAP/MTA :
+    - 
+      name : Courier-IMAP
+      officialLink : 'http://www.courier-mta.org/imap/'
+      downloadLink : 'http://www.courier-mta.org/imap/download.html'
+      introduce: ''
+      picName : courier-imap.png
+    - 
+      name : Courier-MTA
+      officialLink : 'http://www.courier-mta.org/'
+      downloadLink : 'http://www.courier-mta.org/install.html'
+      introduce: ''
+      picName : 
+    - 
+      name : Cyrus IMAP
+      officialLink : 'https://cyrusimap.org/'
+      downloadLink : 'https://cyrusimap.org/download.html'
+      introduce: ''
+      picName : Cyrus.gif
+    - 
+      name : Dovecot
+      officialLink : 'https://www.dovecot.org/'
+      downloadLink : 'https://www.dovecot.org/download.html'
+      introduce: ''
+      picName : dovecot.gif
+    - 
+      name : Exim
+      officialLink : 'http://www.exim.org/'
+      downloadLink : 'http://www.exim.org/mirrors.html'
+      introduce: ''
+      picName : exim-blue-ld-87x65.png
+    - 
+      name : fml
+      officialLink : 'http://www.fml.org/'
+      downloadLink : 'ftp://ftp.fml.org/pub/fml8/'
+      introduce: ''
+      picName : fml.jpg
+    - 
+      name : Postfix
+      officialLink : 'http://www.postfix.org/'
+      downloadLink : 'ftp://ftp.cuhk.edu.hk/pub/packages/mail-server/postfix/index.html'
+      introduce: ''
+      picName : Postfix.gif
+    - 
+      name : qmail
+      officialLink : 'http://www.qmail.org/top.html'
+      downloadLink : 'http://www.qmail.org/netqmail/'
+      introduce: ''
+      picName : qmail.jpg
+    - 
+      name : Qpopper
+      officialLink : 'http://ftp.inf.utfsm.cl/pub/Mail/qpopper/GUIDE.pdf'
+      downloadLink : 'http://www.filewatcher.com/m/qpopper4.1.0.tar.gz.1239530-0.html'
+      introduce: ''
+      picName : 
+    - 
+      name : sendmail
+      officialLink : 'https://www.proofpoint.com/us/open-source-email-solution'
+      downloadLink : 'ftp://ftp.sendmail.org/'
+      introduce: ''
+      picName : 
+    - 
+      name : SquirrelMail
+      officialLink : 'http://squirrelmail.org/'
+      downloadLink : 'http://squirrelmail.org/download.php'
+      introduce: ''
+      picName : SquirrelMail.jpg

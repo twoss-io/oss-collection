@@ -42,6 +42,11 @@
       </div>
     </div>
   </div>
+  <footer class="footer ">
+    <div class="container ">
+      <span class="text-muted" style="float:right">本網站內之連結、圖片、文字等所屬著作權皆不屬本網站之擁有 </span>
+    </div>
+  </footer>
 </body>
 
 <script src="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"></script>
@@ -51,22 +56,21 @@
 
 <script>  
 
+$.get('./ossData.yaml', function (res) {
+  var dataset = jsyaml.load(res);
   
-  
-  
-$.getJSON("./ossData.json", function (json) {
   var cols = ['#cl1', '#cl2', '#cl3'];
-  var averageNum = Math.floor(Object.keys(json).length / 3) ; 
+  var averageNum = Math.floor(Object.keys(dataset).length / 3) ; 
   // 三列下去均分
   var objCol = 0 ;
-  var lTitles_a = Object.keys(json) ;
+  var lTitles_a = Object.keys(dataset) ;
   
   for( i = 0 ; i < lTitles_a.length ; i++  ) {
     var lTitle_s = lTitles_a[i] ;
     $(cols[objCol]).append( '<h3><b><a href= "content.html?cl='+ i +'" class = "text-warning">' + lTitle_s + '</a></b></h3>' ) ; // 新增大標
     
-    if ( json[lTitles_a[i]] != null ) {
-      var mTitles_a = Object.keys( json[lTitle_s] ) ;
+    if ( dataset[lTitles_a[i]] != null ) {
+      var mTitles_a = Object.keys( dataset[lTitle_s] ) ;
       
       for ( h = 0 ; h < mTitles_a.length ; h++ ) {
         var mTitle_s = mTitles_a[h] ;
@@ -79,7 +83,10 @@ $.getJSON("./ossData.json", function (json) {
       objCol++ ; 
      
   } // for
-}) 
+});
+
+
+  
 
 
 window.onload=runPic;
