@@ -4,174 +4,175 @@
       name : Chromium
       officialLink : 'https://www.chromium.org/'
       downloadLink : 'https://download-chromium.appspot.com/'
-      introduce : ''
+      introduce : 'Chromium是一個由Google主導開發的網頁瀏覽器，以BSD授權條款等多重自由版權發行並開放原始碼。</br></br>Chromium是Google為發展自家的瀏覽器Google Chrome而開啟的計畫，所以Chromium相當於Google Chrome的工程版或實驗版，新功能會率先在Chromium上開放，待驗證後才會應用在Google Chrome上，故Google Chrome的功能會相對落後但較穩定。'
+      installGuide : null
       picName : chromium.png
     - 
       name : Firefox
       officialLink : 'https://www.mozilla.org/zh-TW/firefox/new/'
       downloadLink : 'https://www.mozilla.org/zh-TW/firefox/new/?scene=2'
-      introduce : ''
+      introduce : 'Mozilla Firefox（簡稱Firefox），中文俗稱火狐，是一個自由及開放原始碼的網頁瀏覽器。</br></br>Firefox支援Windows、OS X及Linux，其行動版支援Android及Firefox OS，這些版本的Firefox使用Gecko來排版網頁，Gecko是一個執行當前與預期之網頁標準的排版引擎。'
       picName : firefox.png
     -
       name : Evolution
       officialLink : 'https://wiki.gnome.org/Apps/Evolution'
       downloadLink : 'https://wiki.gnome.org/Apps/Evolution'
-      introduce: ''
+      introduce: 'Evolution或Novell Evolution是GNOME官方的個人資訊管理員，亦是工作群組資訊管理工具。它集合電郵，行事曆，位址簿與工作排程等功能於一身。自GNOME2.8以後，它是GNOME的官方套件。</br></br>它的用戶介面及功能非常類似於Microsoft Outlook。但它亦有一些獨特的特色，例如：對於所接收的郵件有全面的文字索引，以及一個「虛擬資料夾」功能。'
     -
       name : KDE
       officialLink : 'https://www.kde.org/'
       downloadLink : 'https://www.kde.org/download/'
-      introduce: ''
+      introduce: 'KDE，是一個國際性的自由軟體社群，開發執行在Linux、BSD、Solaris、Microsoft Windows與macOS[1]等平台上的一系列跨平台應用程式。</br></br>它最著名的產品是Plasma桌面，是許多Linux發行版的預設桌面環境，例如openSUSE、Mageia、Linux Mint、Kubuntu、PCLinuxOS與Chakra GNU/Linux'
       picName : kde.jpg
     -
       name : Kopete
       officialLink : 'https://userbase.kde.org/Kopete'
       downloadLink : 'https://sourceforge.net/projects/kopete/'
-      introduce: ''
+      introduce: 'Kopete是KDE的一個子項目，支持多協議的即時通信，包括ICQ、AIM、Gadu-Gadu、IRC、.NET Messenger Service、Yahoo! Messenger等協議。</br></br>同時也給開發人員提供編寫新插件支持新協議的便利。所有協議都是通過插件來支持，在主程序無需知道插件載入情況下允許模塊化的安裝、配置和適用'
       picName : kopete.png
     -
       name : Pidgin
       officialLink : 'https://www.pidgin.im/'
       downloadLink : 'https://www.pidgin.im/download/'
-      introduce: ''
+      introduce: 'Pidgin（前稱Gaim）是一個跨平台的即時通訊用戶端，使用GNU通用公眾授權條款發布。這款軟體支援多個現時常用的即時通訊協定，讓使用者可以用同一個軟體登入不同的即時通訊服務。</br></br> Pidgin支援多個作業系統，包括Windows和其他類Unix系統，例如Linux、BSD和AmigaOS。軟體本身支援NSS，為支援客戶端和伺服器之間加密通訊的協定提供基礎。除此之外，使用者可以安裝外掛程式來得到更多功能。'
       picName : pidgin.png
     -
       name : RealVNC
       officialLink : 'https://www.realvnc.com/en/'
       downloadLink : 'https://www.realvnc.com/en/connect/download/vnc/'
-      introduce: ''
+      introduce: 'Simple and secure remote access and support software for a wide range of applications, platforms and industries. “Connect &amp; take control”.'
       picName : realvnc.png
     -
       name : Sylpheed
       officialLink : 'https://sylpheed.sraoss.jp/en/'
       downloadLink : 'https://sylpheed.sraoss.jp/en/download.html'
-      introduce: ''
+      introduce: 'Sylpheed is a simple, lightweight but featureful, and easy-to-use e-mail client. </br></br>Sylpheed provides intuitive user-interface. Sylpheed is also designed for keyboard-oriented operation, so Sylpheed can be widely used from beginners to power users.'
       picName : Sylpheed.jpg
     -
       name : Thunderbird
       officialLink : 'https://www.thunderbird.net/zh-TW/?lang=zh-TW'
       downloadLink : 'https://www.thunderbird.net/zh-TW/'
-      introduce: ''
+      introduce: 'Mozilla Thunderbird，非正式中文名稱雷鳥，是從Mozilla Application Suite獨立出來的電子郵件用戶端軟體。支援POP3和IMAP收信方式，支援新聞群組，並有強大的垃圾郵件過濾和位址簿功能。'
       picName : Thunderbird.png
   專業軟體(CAD等..):
     -
       name : Blender
       officialLink : 'https://www.blender.org/'
       downloadLink : 'https://www.blender.org/download/'
-      introduce: ''
+      introduce: 'Blender是一套三維繪圖及彩現軟體。它具有跨平台的特性，支援FreeBSD，IRIX，GNU/Linux，Microsoft Windows，Mac OS X，Solaris，及SkyOS。'
       picName : blender.jpg
     -
       name : osCommerce
       officialLink : 'https://www.oscommerce.com/'
       downloadLink : 'https://www.oscommerce.com/Products'
-      introduce: ''
+      introduce: 'osCommerce（for 「Open Source Commerce」）是一套電子商務與線上 store-management 軟體程式。 它能夠被使用在任何的web server，因為它是使用PHP與MySQL架構而成。 它是採用GNU General Public License授權的自由軟體。'
       picName : oscommerce.png
     -
       name : 'Quantum GIS'
       officialLink : 'http://www.qgis.org/en/site/'
       downloadLink : 'http://www.qgis.org/en/site/forusers/download.html'
-      introduce: ''
+      introduce: 'QGIS（原稱Quantum GIS）是一個自由軟體的桌面GIS軟體。它提供資料的顯示、編輯、和地理空間數據的分析。</br></br>可利用QGIS製作:地形分析、人口統計、雨量計算...'
       picName : qgis.png
     -
       name : SAS
       officialLink : 'https://www.sas.com/zh_tw/home.html'
       downloadLink : 'https://www.sas.com/en_us/software/university-edition/download-software.html'
-      introduce: ''
+      introduce: '統計分析系統（英文：Statistical Analysis System），由北卡羅來納州立大學兩位生物統計學研究生所編寫及製定，最早只是一個數學統計軟體，於1976年由Jim Goodnight及John Sall博士等人成立統計分析系統公司，並且正式推出相關軟體。'
       picName : sas.png
     -
       name : WEKA
       officialLink : 'https://www.cs.waikato.ac.nz/ml/weka/index.html'
       downloadLink : 'https://sourceforge.net/projects/weka/files/'
-      introduce: ''  
+      introduce: 'Weka是由紐西蘭懷卡托大學用Java開發的數據挖掘常用軟體，Weka是懷卡托智能分析系統的縮寫。Weka限制在GNU通用公眾證書的條件下發布，它幾乎可以運行在所有作業系統平台上，包括Linux、Windows、OS X等。</br></br>Weka包含數據預處理，分類，回歸，聚類，關聯規則和可視化的工具。'  
       picName : weka.png
   BI商業智能:
     -
       name : Pentaho
       officialLink : 'http://www.pentaho.com/'
       downloadLink : 'http://www.pentaho.com/download'
-      introduce: ''
+      introduce: 'simplifies preparing and blending any data and includes a spectrum of tools to easily analyze, visualize, explore, report and predict.'
       picName : pentaho.png
     -
       name : SpagoBI
       officialLink : 'http://www.spagobi.org/'
       downloadLink : 'https://forge.ow2.org/projects/spagobi'
-      introduce: '' 
+      introduce: 'SpagoBI is an Open Source Business Intelligence suite. It offers a large range of analytical functions, a highly functional semantic layer often absent in other open source platforms and projects, and a respectable set of advanced data visualization features including geospatial analytics' 
       picName : spagoBI.png
   辦公軟體:
     -
       name : 'Apache OpenOffice'
       officialLink : 'http://www.openoffice.org/zh-tw/'
       downloadLink : 'http://www.openoffice.org/zh-tw/download/index.html'
-      introduce: ''
+      introduce: 'Apache OpenOffice，又稱OpenOffice、AOO，原稱為OpenOffice.org，是一套開放源代碼的辦公室軟體，可以在多種作業系統上運作。預設的檔案交換格式是已經成為ISO標準的開放檔案格式（ODF，OpenDocument Format）。</br></br>Apache OpenOffice專案近期指出，因缺乏足夠的人力維護，考慮關閉OpenOffice專案，建議用戶使用 LibreOffice'
       picName : apacheOpenOffice.png
     -
       name : LibreOffice
       officialLink : 'https://zh-tw.libreoffice.org/'
       downloadLink : 'https://zh-tw.libreoffice.org/download/libreoffice-still/'
-      introduce: ''
+      introduce: 'LibreOffice是由文件基金會開發的自由及開放原始碼的辦公室套件。LibreOffice套件包含文書處理器、電子試算表、演示文稿程式、向量圖形編輯器和圖表工具、資料庫管理程式及建立和編輯數學公式的應用程式。'
       picName : libreOffice.png
-  群件:
+  協同作業軟體:
     -
       name : eGroupware
       officialLink : 'https://www.egroupware.org/en/'
       downloadLink : 'https://www.egroupware.org/en/'
-      introduce: ''
+      introduce: 'EGroupware is free open source groupware software intended for businesses from small to enterprises. Its primary functions allow users to manage contacts, appointments, projects and to-do lists. EGroupware is based on PHP. '
       picName : egroup.jpg
     -
       name : Zimbra
       officialLink : 'https://www.zimbra.com/'
       downloadLink : 'https://www.zimbra.com/downloads/'
-      introduce: ''
+      introduce: 'Zimbra Collaboration Suite (ZCS) is a collaborative software suite, that includes an email server and web client.'
       picName : zimbra-logo.png
   CRM客戶關係管理:
     -
       name : OpenPSA
-      officialLink : 'https://sourceforge.net/projects/openpsa/'
-      downloadLink : 'https://sourceforge.net/projects/openpsa/'
-      introduce: ''
+      officialLink : 'http://openpsa2.org/'
+      downloadLink : 'https://github.com/flack/openpsa'
+      introduce: 'an open source web application designed specifically to meet the needs of web agencies and consultants. </br>a framework for developing web applications</br>a set of components to build CMS based websites'
     -
       name : SugarCRM
       officialLink : 'https://www.sugarcrm.com/'
       downloadLink : 'https://info.sugarcrm.com/trial?_ga=2.221301272.1843140277.1510566915-1785159136.1510566915'
-      introduce: ''
+      introduce: 'SugarCRM是一套開源的客戶關聯管理軟體。</br>SugarCRM用PHP語言開發，主要應用在LAMP環境，但也支援其他的作業系統 （如Windows、Solaris、Mac OS X）和其他的資料庫管理系統（如Microsoft SQL Server、Oracle資料庫）。'
       picName : sugarCrm.png
   ERP企業資源規劃系統:
     -
       name : ADempiere
       officialLink : 'http://www.adempiere.net/web/guest/welcome'
       downloadLink : 'http://www.adempiere.net/web/guest/download'
-      introduce: ''
+      introduce: 'Enterprise Resource Planning (ERP)</br>Supply Chain Management (SCM) </b r>Customer Relationship Management (CRM) </br>Financial Performance Analysis</br>Integrated Point of sale (POS) solution</br>Cost Engine for different Cost types</br>Two different Productions (light and complex) which include Order batch and Material Requirements Planning (or Manufacturing Resource Planning).'
       picName : ADempiere.png
     -
       name : Compiere
       officialLink : 'http://www.compiere.com/'
       downloadLink : 'http://www.compiere.com/products/download/index.php'
-      introduce: ''
+      introduce: 'Compiere ERP & CRM 為全球範圍內的中小型企業提供綜合型解決方案，覆蓋從客戶管理、供應鏈到財務管理的全部領域，支援多組織、多幣種、多會計模式、多成本計算、多語種、多稅制等全球特性。'
       picName : Compiere.png
     -
       name : ERP5
       officialLink : 'http://www.erp5.org/'
       downloadLink : 'http://www.erp5.org/Download'
-      introduce: ''
+      introduce: 'ERP5 is an open source ERP based on Python and Zope. It has the particularity of being based on a unified Model to describe its implementation.'
       picName : erp5.png
     -
       name : Openbravo
       officialLink : 'http://www.openbravo.com/'
       downloadLink : 'https://sourceforge.net/projects/openbravo/'
-      introduce: ''
+      introduce: 'It is a web-based ERP business solution for small and medium-sized companies that is released under the Openbravo Public License, based on the Mozilla Public License. The model for the program was originally based on the Compiere ERP program.'
       picName : Openbravo.png
   製造控制與執行系統:
     -
       name : Asterisk
       officialLink : 'https://www.asterisk.org/'
       downloadLink : 'https://www.asterisk.org/downloads'
-      introduce: ''
+      introduce: 'Asterisk 是第一套以開放原始碼軟體實作的 用戶交換機 (PBX) 系統</br></br>Asterisk 包含許多昂貴的商用交換機系統才具有的功能，例如： 語音信箱、多方語音會議、互動式語音應答(IVR)、電話選單與電話客服中心等機制。'
       picName : Asterisk.png
     -
       name : OTRS
       officialLink : 'https://www.otrs.com/'
       downloadLink : 'https://www.otrs.com/download-open-source-help-desk-software-otrs-free/'
-      introduce: ''
+      introduce: '這是一個開源的缺陷跟蹤管理系統軟體。OTRS將電話，郵件等各種渠道提交進來的服務請求歸類為不同的隊列，服務級別，服務人員通過OTRS系統來跟蹤和回復客戶，相對傳統的處理流程來而言，OTRS提供了一個部門或團隊的協調環境，以更有效率的方式處理，查詢和跟蹤。'
       picName : otrs.png
 Web/AP伺服器與資料庫 :
   Web/AP伺服器 :
@@ -179,56 +180,56 @@ Web/AP伺服器與資料庫 :
       name : Apache HTTP Server
       officialLink : 'http://httpd.apache.org/'
       downloadLink : 'http://httpd.apache.org/download.cgi'
-      introduce: ''
+      introduce: 'Apache HTTP Server（簡稱Apache）是Apache軟體基金會的一個開放原始碼的網頁伺服器軟體，可以在大多數電腦作業系統中運行，由於其跨平台和安全性。被廣泛使用，是最流行的Web伺服器軟體之一。它快速、可靠並且可通過簡單的API擴充，將Perl／Python等直譯器編譯到伺服器中。'
       picName : appacheHttpServer.PNG
     -
       name : Apache Tomcat
       officialLink : 'http://tomcat.apache.org/'
       downloadLink : 'https://tomcat.apache.org/download-90.cgi'
-      introduce: ''
+      introduce: 'Tomcat是由Apache軟體基金會下屬的Jakarta專案開發的一個Servlet容器，按照Sun Microsystems提供的技術規範，實現了對Servlet和JavaServer Page（JSP）的支援，並提供了作為Web伺服器的一些特有功能，如Tomcat管理和控制平台、安全域管理和Tomcat閥等。</br></br>它也可以被視作一個單獨的Web伺服器。但是，不能將Tomcat和Apache HTTP伺服器混淆，Apache HTTP伺服器是一個用C語言實現的HTTPWeb伺服器；這兩個HTTP web server不是捆綁在一起的。'
       picName : tomcat.png
     - 
       name : AppWeb
       officialLink : 'https://embedthis.com/'
       downloadLink : 'https://embedthis.com/appweb/download.html'
-      introduce: ''
+      introduce: 'Appweb is the fastest embedded web server for securely hosting embedded web applications. It is blazing fast and has extensive security controls, sandboxing and defensive counter-measures.'
       picName : appweb.png
     - 
       name : GlassFish
       officialLink : 'https://javaee.github.io/glassfish/'
       downloadLink : 'https://javaee.github.io/glassfish/download'
-      introduce: ''
+      introduce: 'GlassFish是昇陽電腦公司（Sun Microsystems）所研發的開放原始碼應用伺服器，GlassFish以Java編寫以增加跨平台性。'
       picName : glassFish.PNG
     - 
       name : Jetty
       officialLink : 'http://www.eclipse.org/jetty/'
       downloadLink : 'http://www.eclipse.org/jetty/download.html'
-      introduce: ''
+      introduce: 'Jetty是一個純粹的基於Java的網頁伺服器和Java Servlet容器。儘管網頁伺服器通常用來為人們呈現文件，但是Jetty通常在較大的軟體框架中用於電腦與電腦之間的通訊。Jetty作為Eclipse基金會的一部分，是一個自由和開源專案。</br></br> Jetty支援最新的Java Servlet API（帶JSP的支援），支援SPDY和WebSocket協定。'
       picName : jetty.png
     - 
       name : lighttpd
       officialLink : 'https://www.lighttpd.net/'
       downloadLink : 'https://www.lighttpd.net/download/'
-      introduce: ''
+      introduce: 'lighttpd（發音為lighty）是一套開放原始碼的網頁伺服器。相較於其他的網頁伺服器，lighttpd僅需少量的記憶體及CPU資源即可達到同樣的效能。</br></br>Lighttpd是眾多開源輕量級的網頁伺服器中較為優秀的一個。支援FastCGI、CGI、Auth、輸出壓縮（output compress）、URL重寫、別名等重要功能；'
       picName : lighttpd.PNG
     - 
       name : WildFly
       officialLink : 'http://wildfly.org/'
       downloadLink : 'http://wildfly.org/downloads/'
-      introduce: ''
+      introduce: 'WildFly，原名JBoss AS或者JBoss，是一套應用程式伺服器，屬於開源的企業級Java中介軟體軟體，用於實現基於SOA架構的web應用和服務。'
       picName : wildfly.png
   EAI/ESB :
     - 
       name : Apache Axis2
       officialLink : 'http://axis.apache.org/axis2/java/core/'
       downloadLink : 'http://axis.apache.org/axis2/java/core/download.html'
-      introduce: ''
+      introduce: 'Apache Axis2是一個Web服務的核心支援引擎。AXIS2對舊有的AXIS重新設計及重寫，並提供兩種語言Java及C的開發版本。'
       picName : axis.jpg
     - 
       name : Apache ServiceMIX
       officialLink : 'http://servicemix.apache.org/'
       downloadLink : 'http://servicemix.apache.org/downloads.html'
-      introduce: ''
+      introduce: 'Apache ServiceMix is a flexible, open-source integration container that unifies the features and functionality of Apache ActiveMQ, Camel, CXF, and Karaf into a powerful runtime platform you can use to build your own integrations solutions. It provides a complete, enterprise ready ESB exclusively powered by OSGi.'
       picName : servicemix-logo.png
     - 
       name : Talend
@@ -242,7 +243,7 @@ Web/AP伺服器與資料庫 :
       downloadLink : 'https://www.talend.com/products/talend-open-studio/'
       introduce: ''
       picName : talend-logo.png
-  資料庫 :
+  SQL資料庫 :
     - 
       name : Apache Derby
       officialLink : 'https://db.apache.org/derby/'
@@ -449,7 +450,7 @@ Web/AP伺服器與資料庫 :
       name : Nagios
       officialLink : 'https://www.nagios.org/'
       downloadLink : 'https://www.nagios.org/downloads/'
-      introduce: ''
+      introduce: 'Nagios是一個流行的電腦系統和網絡監控程序，它檢測主機和服務，當異常發生和解除時能提醒用戶。'
       picName : Nagios-Logo.jpg
     - 
       name : OpenNMS
