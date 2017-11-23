@@ -85,6 +85,10 @@
   z-index:99;
 }
 
+.cl_Tips{
+  text-align:right;
+}
+
 
 .intro_text p::-webkit-scrollbar-track
 {

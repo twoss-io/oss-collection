@@ -58,7 +58,7 @@
       
       for ( h = 0 ; h < mTitles_a.length ; h++ ) {
         var mTitle_s = mTitles_a[h] ; // 小標題字串
-        $('#row' ).append('<div class="row" id = "cl' + h +'"><span class="text-muted fontMJ" style="float:right">( 專案介紹之內容來自WikiPedia與其官方網站 )</span></div>' ) ;
+        $('#row' ).append('<div class="row" id = "cl' + h +'"><h6 class="text-muted fontMJ cl_Tips">( 專案介紹之內容來自WikiPedia與其官方網站 )</h6></div>' ) ;
         $('#cl'+ h ).append( '<h3 class= "fontMJ fontBold text-warning" >' + mTitle_s + '</h3>' ) ;
         $( '#row' ).prepend( '<button type="button" class="hashTag btn btn-success" onclick="changeScrollbarPosition('+ h +')">#'+ mTitle_s +'</button>' ) ;
         
@@ -84,10 +84,10 @@
           + Btn_InstallGuide ) ;
           
         } // for 
-
       } // for
       
-    } // if
+      
+      } // if
     
     
     if( 'object-fit' in document.body.style){
