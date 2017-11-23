@@ -235,109 +235,109 @@ Web/AP伺服器與資料庫 :
       name : Talend
       officialLink : 'https://www.talend.com/'
       downloadLink : 'https://www.talend.com/download/'
-      introduce: ''
+      introduce: 'Talend is a software integration vendor. The company provides big data, cloud storage, data integration, data management, master data management, data quality, data preparation and enterprise application integration software and services.'
       picName : talend-logo.png
     - 
       name : TalendOpen Studio
       officialLink : 'https://www.talend.com/products/talend-open-studio/'
       downloadLink : 'https://www.talend.com/products/talend-open-studio/'
-      introduce: ''
+      introduce: 'Build the foundation of your MDM project with the market-leading open source master data management tool. Profile data from customers, products, suppliers, assets, employees and beyond to create models and speed planning'
       picName : talend-logo.png
   SQL資料庫 :
     - 
       name : Apache Derby
       officialLink : 'https://db.apache.org/derby/'
       downloadLink : 'https://db.apache.org/derby/derby_downloads.html'
-      introduce: ''
+      introduce: 'Apache Derby是Apache軟體基金會所研發的開放源碼資料庫管理系統；由於Derby是一個純Java程式，因此只需要操作系統支援Java虛擬機，Derby便可執行。</br></br>支援主從架構或 嵌入環境多線程 ACID Java資料庫連接（JDBC） 低系統需求：約佔2 MB的硬盤空間，壓縮後更只是600KB '
       picName : derby-logo-web.png
     - 
       name : Firebird
       officialLink : 'http://www.firebirdsql.org/'
       downloadLink : 'http://www.firebirdsql.org/en/server-packages/'
-      introduce: ''
+      introduce: 'Firebird，是一個跨平台的關聯式資料庫系統，目前能夠執行在Windows、linux和各種Unix作業系統上。</br></br>支援多版本並發控制（Multiversion Concurrency Control，MVCC）、Stored Procedure、Trigger、自定義方法（User-defined function，UDF）等商用資料庫行為程式。'
       picName : firebird.jpg
     - 
       name : MariaDB
       officialLink : 'https://mariadb.org/'
       downloadLink : 'https://downloads.mariadb.org/'
-      introduce: ''
+      introduce: 'MariaDB資料庫管理系統是MySQL的一個分支，MariaDB的API和協定相容MySQL，另外又新增了一些功能，以支援原生的非阻塞操作和進度報告。這意味著，所有使用MySQL的連結器、程式庫和應用程式也將可以在MariaDB下工作。</br></br>在此基礎上，由於擔心甲骨文MySQL的一個更加封閉的軟體專案，Fedora的計劃在Fedora 19中的以MariaDB取代MySQL'
       picName : MariaDB.png
     - 
       name : MySQL
       officialLink : 'https://www.mysql.com/'
       downloadLink : 'https://dev.mysql.com/downloads/'
-      introduce: ''
+      introduce: 'MySQL在過去由於效能高、成本低、可靠性好，已經成為最流行的開源資料庫，因此被廣泛地應用在Internet上的中小型網站中較適合一般的個人使用者和中小型企業。</br></br>非常流行的開源軟體組合LAMP中的「M」指的就是MySQL。'
       picName : logo-mysql.png
     - 
       name : PostgreSQL
       officialLink : 'https://www.postgresql.org/'
       downloadLink : 'https://www.postgresql.org/ftp/source/'
-      introduce: ''
+      introduce: 'PostgreSQL是自由的物件-關係型資料庫伺服器（資料庫管理系統），在靈活的BSD風格授權條款下發行。它在其他開放原始碼資料庫系統（比如MySQL和Firebird），和專有系統比如Oracle、Sybase、IBM的DB2和Microsoft SQL Server之外，為用戶又提供了一種選擇。'
       picName : PostgreSQL.png
     - 
       name : SQLite
       officialLink : 'https://www.sqlite.org/'
       downloadLink : 'https://www.sqlite.org/download.html'
-      introduce: ''
+      introduce: 'SQLite 是遵守ACID的關聯式資料庫管理系統，它包含在一個相對小的C程式庫中。與許多其它資料庫管理系統不同，SQLite不是一個用戶端/伺服器結構的資料庫引擎，而是被整合在用戶程式中。</br></br>SQLite遵守ACID，實現了大多數SQL標準。它使用動態的、弱類型的SQL語法。[4]它作為嵌入式資料庫，是應用程式，如網頁瀏覽器，在本地/用戶端儲存資料的常見選擇。它可能是最廣泛部署的資料庫引擎，因為它正在被一些流行的瀏覽器、作業系統、嵌入式系統所使用。同時，它有許多程式設計語言的語言繫結。'
       picName : sqlite370_banner.gif
   資料庫集群 :
     - 
       name : Esper
       officialLink : 'http://www.espertech.com/'
       downloadLink : 'http://www.espertech.com/downloads/'
-      introduce: ''
+      introduce: 'Esper and Event Processing Language (EPL) provide a highly scalable, memory-efficient, in-memory computing, SQL-standard, minimal latency, real-time streaming-capable Big Data processing engine for any-velocity online and real-time arriving data and high-variety data, as well as for historical event analysis.'
       picName : esper.png
   資料庫管理 :
     - 
       name : phpMyAdmin
       officialLink : 'https://www.phpmyadmin.net/'
       downloadLink : 'https://www.phpmyadmin.net/downloads/'
-      introduce: ''
+      introduce: 'phpMyAdmin 是一個以PHP為基礎，以Web-Base方式架構在網站主機上的MySQL的資料庫管理工具，讓管理者可用Web介面管理MySQL資料庫。</br></br>藉由此Web介面可以成為一個簡易方式輸入繁雜SQL語法的較佳途徑，尤其要處理大量資料的匯入及匯出更為方便。</br></br>其中一個更大的優勢在於由於phpMyAdmin跟其他PHP程式一樣在網頁伺服器上執行，但是您可以在任何地方使用這些程式產生的HTML頁面，也就是於遠端管理MySQL資料庫，方便的建立、修改、刪除資料庫及資料表。也可藉由phpMyAdmin建立常用的php語法，方便編寫網頁時所需要的sql語法正確性。'
       picName : phpMyAdmin.png
     - 
       name : phpPgAdmin
       officialLink : 'http://phppgadmin.sourceforge.net/doku.php'
       downloadLink : 'http://phppgadmin.sourceforge.net/doku.php?id=download'
-      introduce: ''
+      introduce: 'phpPgAdmin is a web-based administration tool for PostgreSQL. It is perfect for PostgreSQL DBAs, newbies, and hosting services.'
       picName : phpPgAdmin.gif
   BPM :
     - 
       name : JBossjBPM
       officialLink : 'http://www.jbpm.org/'
       downloadLink : 'http://www.jbpm.org/download/download.html'
-      introduce: ''
+      introduce: 'jBPM is a flexible Business Process Management (BPM) Suite. It makes the bridge between business analysts and developers. Traditional BPM engines have a focus that is limited to non-technical people only. jBPM has a dual focus: it offers process management features in a way that both business users and developers like it.'
       picName : JBossjBPM.png
   KVS :
     - 
       name : Apache Cassandra
       officialLink : 'http://cassandra.apache.org/'
       downloadLink : 'http://cassandra.apache.org/download/'
-      introduce: ''
+      introduce: 'Apache Cassandra（社群內一般簡稱為C*）是一套開源分散式NoSQL資料庫系統。它最初由Facebook開發，用於儲存收件箱等簡單格式資料，集Google BigTable的資料模型與Amazon Dynamo的完全分散式架構於一身。'
       picName : Cassandra.png
   NoSQL資料庫 :
     - 
       name : memcached
       officialLink : 'http://memcached.org/'
       downloadLink : 'http://memcached.org/downloads'
-      introduce: ''
+      introduce: 'Memcached  is a general-purpose distributed memory caching system. It is often used to speed up dynamic database-driven websites by caching data and objects in RAM to reduce the number of times an external data source (such as a database or API) must be read.'
       picName : memcached.png
     - 
       name : MongoDB
       officialLink : 'https://www.mongodb.com/'
       downloadLink : 'https://www.mongodb.com/download-center#community'
-      introduce: ''
+      introduce : 'MongoDB是一種文件導向的資料庫管理系統，由C++撰寫而成，以此來解決應用程式開發社群中的大量現實問題。</br></br>MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need'
       picName : Mongo-Db-1.png
     - 
       name : Riak
       officialLink : 'http://docs.basho.com/'
       downloadLink : 'http://docs.basho.com/riak/ts/1.5.2/downloads/'
-      introduce: ''
+      introduce: 'Riak is a distributed NoSQL key-value data store that offers high availability, fault tolerance, operational simplicity, and scalability. In addition to the open-source version, it comes in a supported enterprise version and a cloud storage version.'
       picName : riak.png
     - 
       name : VoltDB
       officialLink : 'https://www.voltdb.com/'
       downloadLink : 'https://www.voltdb.com/try-voltdb/'
-      introduce: ''
+      introduce: 'VoltDB allows you to apply more sophisticated models and analytics to real-time actions. '
       picName : VoltDB.png
 運營管理 :
   存儲備份 :
@@ -345,106 +345,106 @@ Web/AP伺服器與資料庫 :
       name : Amanda
       officialLink : 'http://www.amanda.org/'
       downloadLink : 'http://www.amanda.org/download.php'
-      introduce: ''
+      introduce: 'AMANDA, the Advanced Maryland Automatic Network Disk Archiver, is a backup solution that allows the IT administrator to set up a single master backup server to back up multiple hosts over network to tape drives/changers or disks or optical media. Amanda uses native utilities and formats (e.g. dump and/or GNU tar) and can back up a large number of servers and workstations running multiple versions of Linux or Unix. '
       picName : logo_amanda.png
     - 
       name : Bacula
       officialLink : 'http://blog.bacula.org/'
       downloadLink : 'http://blog.bacula.org/source-download-center/'
-      introduce: ''
+      introduce: 'Bacula is an open-source, enterprise-level computer backup system for heterogeneous networks. It is designed to automate backup tasks that had often required intervention from a systems administrator or computer operator. </br></br>Bacula supports Linux, UNIX, Windows, and macOS backup clients, and a range of professional backup devices including tape libraries. Administrators and operators can configure the system via a command line console, GUI or web interface; its back-end is a catalog of information stored by MySQL, PostgreSQL, or SQLite.'
       picName : logo_bacula.png
     - 
       name : Clonezilla
-      officialLink : 'http://clonezilla.org/'
-      downloadLink : 'http://clonezilla.org/downloads.php'
-      introduce: ''
+      officialLink : 'https://clonezilla.nchc.org.tw/news/'
+      downloadLink : 'https://clonezilla.nchc.org.tw/clonezilla-live/download/'
+      introduce: '再生龍（Clonezilla）是一個免費的災難恢復、硬碟克隆、硬碟映像檔製作的部署和解決方案，由台灣的國家高速網路與計算中心（國網中心）所開發，以GNU通用公眾授權條款（GPL）發布。'
       picName : clonezilla_logo_small.png
     - 
       name : Mondo Rescue
       officialLink : 'http://www.mondorescue.org/'
       downloadLink : 'http://www.mondorescue.org/downloads.shtml'
-      introduce: ''
+      introduce: 'It supports tapes, disks, USB devices, network and CD/DVD as backup media, multiple filesystems, LVM, software and hardware RAID. Restoration may be done from a physical media including OBDR tape support, or CD/DVD/USB media, or from the network through PXE.'
       picName : MondoRescue.png
   配置管理 :
     - 
       name : Ansible
       officialLink : 'https://www.ansible.com/'
       downloadLink : 'https://www.ansible.com/tower-trial'
-      introduce: ''
+      introduce: 'Ansible is software that automates software provisioning, configuration management, and application deployment.'
       picName : Ansible_Logo.png
     - 
       name : Chef
       officialLink : 'https://www.chef.io/'
       downloadLink : 'https://downloads.chef.io/'
-      introduce: ''
+      introduce: 'Chef是由Ruby與Erlang寫成的配置管理軟體，它以一種純Ruby的領域專用語言（DSL）儲存系統配置「烹飪法（recipes）」或「食譜（cookbooks）」。'
       picName : chef-logo.jpg
     - 
       name : oVirt
       officialLink : 'https://www.ovirt.org/'
       downloadLink : 'https://www.ovirt.org/download/'
-      introduce: ''
+      introduce: 'oVirt is free, open-source virtualization management platform. It was founded by Red Hat as a community project on which Red Hat Enterprise Virtualization is based. It allows centralized management of virtual machines, compute, storage and networking resources, from an easy-to-use web-based front-end with platform independent access.'
       picName : ovirt_logo.png
     - 
       name : Puppet
       officialLink : 'https://puppet.com/'
       downloadLink : 'https://puppet.com/download-open-source-puppet'
-      introduce: ''
+      introduce: 'Puppet’s products gives you continuous discovery and automation across your entire software delivery lifecycle.'
       picName : puppet.png
   HA集群 :
     - 
       name : DRBD
       officialLink : 'https://docs.linbit.com/'
       downloadLink : 'https://www.linbit.com/en/drbd-community/drbd-download/'
-      introduce: ''
+      introduce: 'DRBD (Distributed Replicated Block Device) 是 Linux 平台上的分散式儲存系統。其中包含了核心模組，數個使用者空間管理程式及 shell scripts，通常用於高可用性（high availability, HA）叢集。DRBD 類似磁碟陣列的RAID 1（鏡像），只不過 RAID 1 是在同一台電腦內，而 DRBD 是透過網路。'
       picName : DRBD_Logo.png
     - 
       name : Heartbeat
       officialLink : 'http://www.linux-ha.org/w/index.php?title=Heartbeat&setlang=zh'
       downloadLink : 'http://www.linux-ha.org/wiki/Downloads'
-      introduce: ''
+      introduce: 'Heartbeat is a daemon that provides cluster infrastructure (communication and membership) services to its clients. This allows clients to know about the presence (or disappearance!) of peer processes on other machines and to easily exchange messages with them.'
       picName : Heartbeat.PNG
   負載平衡 :
     - 
       name : Linux Virtual Server
       officialLink : 'http://www.linuxvirtualserver.org/'
       downloadLink : 'http://www.linuxvirtualserver.org/software/index.html'
-      introduce: ''
+      introduce: 'The Linux Virtual Server is a highly scalable and highly available server built on a cluster of real servers, with the load balancer running on the Linux operating system. The architecture of the server cluster is fully transparent to end users, and the users interact as if it were a single high-performance virtual server.'
       picName : Linux.png
     - 
       name : Pound
       officialLink : 'http://www.apsis.ch/pound/'
-      downloadLink : ''
-      introduce: ''
+      downloadLink : 'http://www.apsis.ch/pound/'
+      introduce : The Pound program is a reverse proxy, load balancer and HTTPS front-end for Web server(s). Pound was developed to enable distributing the load among several Web-servers and to allow for a convenient SSL wrapper for those Web servers that do not offer it natively. Pound is distributed under the GPL - no warranty, it's free to use, copy and give away.
     - 
       name : Ultra Monkey
       officialLink : 'http://www.ultramonkey.org/'
       downloadLink : 'http://www.apsis.ch/pound/'
-      introduce: ''
+      introduce: 'Ultra Monkey is a project to create load balanced and highly available network services. For example a cluster of web servers that appear as a single web server to end-users. The service may be for end-users across the world connected via the internet, or for enterprise users connected via an intranet.'
       picName : monkey_wht.jpg
   運行監控 :
     - 
       name : GNetWatch
       officialLink : 'http://gnetwatch.sourceforge.net/'
       downloadLink : 'http://gnetwatch.sourceforge.net/download.html'
-      introduce: ''
+      introduce: GNetWatch is a free open source Java application that offers real-time graphical monitoring and analysis of network performance through SNMP and ICMP.
       picName : GNetWatch.PNG
     - 
       name : Groundwork
       officialLink : 'https://www.gwos.com/'
       downloadLink : 'https://www.gwos.com/download/'
-      introduce: ''
+      introduce: Groundwork Monitor is a powerful IT monitoring software for physical, virtual, and cloud-based infrastructures. GroundWork can monitor your entire IT environment, if you use it we can monitor it.
       picName : Groundwork.png
     - 
       name : Hinemos
       officialLink : 'https://zh-tw.osdn.net/projects/hinemos/'
       downloadLink : 'https://zh-tw.osdn.net/projects/hinemos/releases/'
-      introduce: ''
+      introduce: 'Hinemos是一款開源軟件，使您能夠使用一台計算機映像操作和管理多台計算機。用戶具有為各種操作目的而對計算機進行組登記的功能，並對組執行狀態監視，作業管理，性能管理，批量控制。'
       picName : Hinemos.png
     - 
       name : Monit
       officialLink : 'https://mmonit.com/monit/'
       downloadLink : 'https://mmonit.com/monit/#download'
-      introduce: ''
+      introduce: 'Monit is a free, open source process supervision tool for Unix and Linux. With Monit, system status can be viewed directly from the command line, or via the native HTTP(S) web server. Monit rose to popularity with Ruby on Rails and the Mongrel web server,[citation needed] because a tool was needed that could manage the many identical Mongrel processes that needed to be run to support a scalable Ruby on Rails site, and Monit was fairly uniquely suited for the needs of the Ruby on Rails community.'
       picName : monit-logo.png
     - 
       name : Nagios
@@ -456,173 +456,175 @@ Web/AP伺服器與資料庫 :
       name : OpenNMS
       officialLink : 'https://www.opennms.org/en'
       downloadLink : 'https://www.opennms.org/en/install'
-      introduce: ''
+      introduce: 'OpenNMS is a free and open-source enterprise grade network monitoring and network management platform.
+
+The goal is for OpenNMS to be a truly distributed, scalable management application platform for all aspects of the FCAPS network management model while remaining 100% free and open source. Currently the focus is on Fault and Performance Management.'
       picName : opennms.png
     - 
       name : Syslog NG
       officialLink : 'https://syslog-ng.org/'
       downloadLink : 'https://github.com/balabit/syslog-ng'
-      introduce: ''
+      introduce: 'syslog-ng is an open-source implementation of the syslog protocol for Unix and Unix-like systems. It extends the original syslogd model with content-based filtering, rich filtering capabilities, flexible configuration options and adds important features to syslog, like using TCP for transport.'
       picName : syslog-256.png
     - 
       name : Zabbix
       officialLink : 'https://www.zabbix.com/'
       downloadLink : 'https://www.zabbix.com/download'
-      introduce: ''
+      introduce: 'Zabbix 是由 Alexei Vladishev 開發的一種網路監視、管理系統，基於 Server-Client 架構。可用於監視各種網路服務、伺服器和網路機器等狀態。</br></br>使用各種 Database-end 如 MySQL, PostgreSQL, SQLite, Oracle 或 IBM DB2 儲存資料。Server 端基於 C語言、Web 管理端 frontend 則是基於 PHP 所製作的。Zabbix 可以使用多種方式監視。可以只使用 Simple Check 不需要安裝 Client 端，亦可基於 SMTP 或 HTTP ... 各種協定做死活監視。在客戶端如 UNIX, Windows 中安裝 Zabbix Agent 之後，可監視 CPU Load、網路使用狀況、硬碟容量等各種狀態。而就算沒有安裝 Agent 在監視對象中，Zabbix 也可以經由 SNMP、TCP、ICMP、利用 IPMI、SSH、telnet 對目標進行監視。另外，Zabbix 包含 XMPP 等各種 Item 警示功能。'
       picName : zabbix_logo.png
   網絡監控 :
     - 
       name : CACTI
       officialLink : 'https://www.cacti.net/index.php'
       downloadLink : 'https://www.cacti.net/download_cacti.php'
-      introduce: ''
+      introduce: 'Cacti is an open-source, web-based network monitoring and graphing tool designed as a front-end application for the open-source, industry-standard data logging tool RRDtool. Cacti allows a user to poll services at predetermined intervals and graph the resulting data. It is generally used to graph time-series data of metrics such as CPU load and network bandwidth utilization. A common usage is to monitor network traffic by polling a network switch or router interface via Simple Network Management Protocol (SNMP).'
       picName : cacti.png
     - 
       name : MRTG
       officialLink : 'https://oss.oetiker.ch/mrtg/'
       downloadLink : 'https://oss.oetiker.ch/mrtg/pub/?M=D'
-      introduce: ''
+      introduce: 'MRTG（Multi Router Traffic Grapher）是一套可用來繪出網路流量圖的軟體。它利用了SNMP送出帶有物件識別碼（OIDs）的請求給要查詢的網路設備，因此設備本身需支援SNMP。MRTG再以所收集到的資料產生HTML檔案並以GIF或PNG格式繪製出圖形，並可以日、週、月等單位分別繪出。它也可產生出最大值最小值的資料供統計用。'
       picName : MRTG.png
     - 
       name : Munin
       officialLink : 'http://munin-monitoring.org/'
       downloadLink : 'http://downloads.munin-monitoring.org/munin/stable/?C=N;O=D'
-      introduce: ''
+      introduce: 'Munin is a networked resource monitoring tool that can help analyze resource trends and "what just happened to kill our performance?" problems. It is designed to be very plug and play. A default installation provides a lot of graphs with almost no work.'
       picName : munin.png
     - 
       name : NetHogs
       officialLink : 'https://github.com/raboof/nethogs#readme'
       downloadLink : 'https://github.com/raboof/nethogs#readme'
-      introduce: ''
+      introduce: NetHogs is a small 'net top' tool. Instead of breaking the traffic down per protocol or per subnet, like most tools do, it groups bandwidth by process.
       picName : 
     - 
       name : RRDTool
       officialLink : 'https://oss.oetiker.ch/rrdtool/'
       downloadLink : 'https://oss.oetiker.ch/rrdtool/pub/?M=D'
-      introduce: ''
+      introduce: 'RDtool (輪替型資料庫工具, round-robin database tool) 旨在處理時間序列資料，例如網路頻寬、溫度或CPU負載。 資料儲存在環形緩衝區為基底的資料庫中，因此系統儲存佔用量隨時間保持恆定。不同於循環制的計算機科學概念。</br></br>也包括以圖形格式提取循環資料的工具。 綁定程式語言Perl、Python、Ruby、Tcl、PHP和Lua。有一個獨立且完整的Java實施稱為rrd4j。'
       picName : rrdtool-logo.png
     - 
       name : VyattaCore Software
       officialLink : 'https://wiki.vyos.net/wiki/Main_Page'
       downloadLink : 'https://downloads.vyos.io/?dir=release'
-      introduce: ''
+      introduce: 'Vyatta provides software-based virtual router, virtual firewall and VPN products for Internet Protocol networks (IPv4 and IPv6).</br></br>The system is a specialized Debian-based Linux distribution with networking applications such as Quagga, OpenVPN, and many others.'
       picName : Vyos_logo_half.png
     - 
       name : Wireshark
       officialLink : 'https://www.wireshark.org/'
       downloadLink : 'https://www.wireshark.org/#download'
-      introduce: ''
+      introduce: 'Wireshark（前稱Ethereal）是一個免費開源的網路封包分析軟體。網路封包分析軟體的功能是截取網路封包，並盡可能顯示出最為詳細的網路封包資料。'
       picName : wireshark_logo.png
     - 
       name : Zenoss
       officialLink : 'https://community.zenoss.com/home'
       downloadLink : 'https://www.zenoss.com/get-started'
-      introduce: ''
+      introduce: 'Zenoss Core is a free and open-source application, server, and network management platform based on the Zope application server.'
       picName : Zenoss.png
 網站建設 :
-  CMS :
+  CMS內容管理系統 :
     - 
       name : Alfresco
       officialLink : 'https://www.alfresco.com/?sl_redir=1'
       downloadLink : 'https://www.alfresco.com/try-alfresco'
-      introduce: ''
+      introduce: 'Alfresco is a collection of information management software products for Microsoft Windows and Unix-like operating systems developed using Java technology.'
       picName : Alfresco.png
     - 
       name : Apache Lenya
       officialLink : 'https://lenya.apache.org/'
       downloadLink : 'https://lenya.apache.org/docu20/installation20/download20.html'
-      introduce: ''
+      introduce: 'Apache Lenya is a Java/XML open-source content management system based on the Apache Cocoon content management framework. Features include revision control, scheduling, search capabilities, workflow support, and browser-based WYSIWYG editors.'
       picName : Lenya.png
     - 
       name : DotNetNuke
       officialLink : 'http://www.dnnsoftware.com/'
       downloadLink : 'http://www.dnnsoftware.com/community/download'
-      introduce: ''
+      introduce: 'DNN (formerly DotNetNuke) is a web content management system based on Microsoft .NET. The DNN Platform Edition is open source.</br></br>DNN is written in C#, though it existed for many years as a VB.NET project.'
       picName : DotNetNuke.png
     - 
       name : Drupal
       officialLink : 'https://www.drupal.org/'
       downloadLink : 'https://www.drupal.org/download'
-      introduce: ''
+      introduce: 'Drupal 是一個由Dries Buytaert創立的自由開源的內容管理系統，用PHP語言寫成。在業界Drupal常被視為內容管理框架（CMF），而非一般意義上的內容管理系統（CMS）。</br></br>整套平台把所有內容視為一個「節點」 (node)，背後由大量「模組」 (module) 控制其顯示、修改、排列、分類等方式。'
       picName : drupal-logo-big.png
     - 
       name : eZPublish
       officialLink : 'https://ez.no/'
       downloadLink : 'https://ez.no/Forms/Request-a-Consultation'
-      introduce: ''
+      introduce: 'eZ Publish supports the development of customized web applications. Typical applications range from brand sites, news sites and intranets to e-commerce, collaboration portals and iOS/Android apps. eZ Publish provides role-based multi-user access, multi-site management and multi-device delivery to desktops, tablets, phones and the Internet of Things (IoT) such as Smart TVs and digital kiosks.'
       picName : eZPublish.png
     - 
       name : GateIn
       officialLink : 'http://gatein.jboss.org/'
       downloadLink : 'http://gatein.jboss.org/download'
-      introduce: ''
+      introduce: 'The Opensource Website Framework, gives you more than a web framework by letting you use your preferred one.'
       picName : gatein_logo.png
     - 
       name : Geeklog
       officialLink : 'https://www.geeklog.net/'
       downloadLink : 'https://www.geeklog.net/downloads/index.php'
-      introduce: ''
+      introduce: 'Geeklog is "Open-Source software that works as a Weblog, CMS or Web Portal. It is written in PHP and supports MySQL, PostgreSQL, or Microsoft SQL Server as a database backend.'
       picName : Geeklog.png
     - 
       name : Joomla!
-      officialLink : 'https://www.joomla.com/'
-      downloadLink : 'https://www.joomla.com/'
-      introduce: ''
+      officialLink : 'https://www.joomla.org.tw/features'
+      downloadLink : 'https://www.joomla.org.tw/download'
+      introduce: 'Joomla!是一套相當知名的內容管理系統（Content Management System, CMS），內容管理系統是一種用來管理網站上的內容的應用程式，什麼是網站上的內容？文字、照片、影片、音樂、檔案文件都得上是，網站上的內容是非常多元且豐富。一般人對這類型的內容管理系統可能會有以下的其他名稱： 架站程式（架站軟體） 網站應用程式 網站管理系統'
       picName : Joomla.png
     - 
       name : LiferayPortal
       officialLink : 'https://www.liferay.com/home'
       downloadLink : 'https://www.liferay.com/zh/downloads'
-      introduce: ''
+      introduce: Written in Java, Liferay Portal is a web platform with features commonly required for the development of websites and portals. Liferay includes a built-in web content management system allowing users to build websites and portals as an assembly of themes, pages, portlets/gadgets and a common navigation.[5] Liferay is sometimes described as a content management framework or a web application framework. Liferay's support for plugins extends into multiple programming languages, including support for PHP and Ruby portlets.
       picName : LiferayPortal.png
     - 
       name : moodle
       officialLink : 'https://moodle.org/'
       downloadLink : 'https://download.moodle.org/releases/latest/'
-      introduce: ''
+      introduce: 'Moodle是一個開源及自由的電子學習軟體平台，亦稱為課程管理系統、學習管理系統或虛擬學習環境。</br></br>Moodle 的軟體最低安裝要求為 PHP 5.6.5 及 MariaDB 5.5.31 / MySQL 5.5.31 / Postgres 9.3 / MSSQL 2008 / Oracle 10.2。'
       picName : moodle-logo.png
     - 
       name : Movable Type Open Source
       officialLink : 'https://movabletype.com/'
       downloadLink : 'https://www.sixapart.jp/inquiry/movabletype/personal_download.html'
-      introduce: ''
+      introduce: 'Movable Type，簡稱MT，是由位於美國加州的Six Apart公司推出的網誌（blog）發布系統。它是全球最受歡迎的網誌系統之一，包含多用戶，評論，引用（TrackBack），主題等功能，並廣泛的支持各種第三方插件。'
       picName : MovableType.png
     - 
       name : Plone
       officialLink : 'https://plone.org/'
       downloadLink : 'https://plone.org/download'
-      introduce: ''
+      introduce: 'Plone是一種建立在Zope應用伺服器之上的開源內容管理系統。Plone是自由軟體並且設計為可延伸的。它可以使用於內網和外網伺服器，文件發布系統，並且可以作為位置分享的實體協作軟體工具。'
       picName : plone.png
     - 
       name : PukiWiki
       officialLink : 'https://pukiwiki.osdn.jp/'
       downloadLink : 'https://zh-tw.osdn.net/projects/pukiwiki/'
-      introduce: ''
+      introduce: 'PukiWiki是一套Wiki軟體，以PHP寫成，為日文的Wiki網站所普遍使用。由於PukiWiki原自於日本，因此對於雙位元字（DBCS）的支援較許多由英語系所開發的Wiki軟體為佳。另外日本國內使用手機上網十分普遍，因此PukiWiki也支援了手機網頁功能。</br></br>PukiWiki 基於PHP+TXT的方式實現，不需要任何資料庫程序支援，原生程序也未支援任何資料庫系統，但是可以藉助名為PukiWiki+DB的修改補丁來得到對MySQL、SQLite、ORACLE Oci8、PostgreSQL的支援。'
       picName : pukiwiki-official.png
     - 
       name : WordPress
       officialLink : 'https://zh-tw.wordpress.com/com-vs-org/?sgmt=gb&utm_source=adwords&utm_campaign=G_Search_Brand_Desktop_TW_zh-tw_x_x&utm_medium=cpc&keyword=wordpress&creative=199332587997&campaignid=667463717&adgroupid=30623458221&matchtype=e&device=c&network=g&targetid=aud-309211669636:kwd-313411415&locationid=9040379&gclid=EAIaIQobChMI54Dc3tTC1wIVQh0rCh2v2AbKEAAYASAAEgLjfPD_BwE'
       downloadLink : 'https://zh-tw.wordpress.com/pricing/'
-      introduce: ''
+      introduce: 'WordPress是一個以PHP和MySQL為平台的自由開源的部落格軟體和內容管理系統。WordPress具有外掛模組架構和模板系統。Alexa排行前100萬的網站中有超過16.7%的網站使用WordPress。到了2011年8月，約22%的新網站採用了WordPress。WordPress是目前網際網路上最流行的部落格系統。'
       picName : wordpress.png
     - 
       name : Xoops
       officialLink : 'http://www.xoops.org.tw/'
       downloadLink : 'http://www.xoops.org.tw/modules/wfdownloads/'
-      introduce: ''
+      introduce: 'XOOPS是一種開放原始碼的內容管理系統，衍生自PHP-Nuke，採用PHP語言跟MySQL資料庫。功能、界面全部模組化設計，可用於建構各種網路社區。</br></br>XOOPS的用途很廣泛，對於個人使用者，可以啟用XPress模組（針對XOOPS的WordPress），作為個人的網誌。對於較大規模的網站，可以根據需要，安裝更多的模組，如新聞發布、論壇、資源下載、友情連結，以及線上購物、廣告管理等，對於Wiki、RSS，XOOPS也有相應的模組。'
       picName : Xoops_logo.png
     - 
       name : XOOPS cube
       officialLink : 'http://xoopscube.org/'
       downloadLink : 'https://github.com/xoopscube/legacy/releases'
-      introduce: ''
+      introduce: '這是一套可擴充的物件導向架設網站系統，利用 PHP 程式撰寫搭配 MySQL 資料庫來管理網站的一套架站程式。</br></br>由於雙位元語系（multi-byte）和英文語系的著重點不同，以及日本人注重程式的完整與安全性，造成原主導的日本人與開發團隊有些爭議，甚至還被無故的刪除管理權限。經過日本國內的官方網站討論，終於在2005年5月28日發表新一代系統的發展藍圖以及正式由日本團隊重新出發的新版本，正式宣布脫離XOOPS的開發團隊。同年七月在日本官方網站舉行新名稱的投票活動，而後正式制定新名稱為XOOPS Cube。'
       picName : XOOPScube.png
   電子商務 :
     - 
       name : EC-Cube
       officialLink : 'https://github.com/EC-CUBE/'
       downloadLink : 'https://github.com/EC-CUBE/'
-      introduce: ''
+      introduce: 'EC-CUBE is the most popular e-commerce solution in Japan'
       picName : 
 BigData :
   分佈式處理平台:
@@ -630,293 +632,293 @@ BigData :
       name : Apache Hadoop MapReduce
       officialLink : 'https://hadoop.apache.org/'
       downloadLink : 'http://apache.stu.edu.tw/hadoop/common/stable/'
-      introduce: ''
+      introduce: 'Hadoop MapReduce is a software framework for easily writing applications which process vast amounts of data (multi-terabyte data-sets) in-parallel on large clusters (thousands of nodes) of commodity hardware in a reliable, fault-tolerant manner.'
       picName : hadoop-logo.jpg
     - 
       name : Apache Hadoop YARN
-      officialLink : 'https://hadoop.apache.org/'
+      officialLink : 'https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html'
       downloadLink : 'http://apache.stu.edu.tw/hadoop/common/stable/'
-      introduce: ''
+      introduce: 'The fundamental idea of YARN is to split up the functionalities of resource management and job scheduling/monitoring into separate daemons. The idea is to have a global ResourceManager (RM) and per-application ApplicationMaster (AM). An application is either a single job or a DAG of jobs.'
       picName : hadoop-logo.jpg
     - 
       name : Apache Mesos
       officialLink : 'http://mesos.apache.org/'
       downloadLink : 'http://mesos.apache.org/downloads/'
-      introduce: ''
+      introduce: 'Apache Mesos，一個開放原始碼軟體專案，是一種叢集電腦管理工具，由加州大學柏克萊分校開發。能夠將資料中心電腦系統中的CPU、記憶體、儲存裝置以及其他運算資源，全部加以虛擬化，並進行管理。在2013年，Apache Mesos成為Apache計劃中的首要開發目標。</br></br>包括Twitter、Airbnb的伺服器及蘋果電腦的Siri資料庫都是以Apache Mesos進行管理。'
       picName : Apache-Mesos1.png
     - 
       name : Apache Spark
       officialLink : 'http://spark.apache.org/'
       downloadLink : 'http://spark.apache.org/downloads.html'
-      introduce: ''
+      introduce: 'Apache Spark是一個開源叢集運算框架，最初是由加州大學柏克萊分校AMPLab所開發。相對於Hadoop的MapReduce會在執行完工作後將中介資料存放到磁碟中，Spark使用了記憶體內運算技術，能在資料尚未寫入硬碟時即在記憶體內分析運算。</br></br>Spark在記憶體內執行程式的運算速度能做到比Hadoop MapReduce的運算速度快上100倍，即便是執行程式於硬碟時，Spark也能快上10倍速度。Spark允許用戶將資料加載至叢集記憶體，並多次對其進行查詢，非常適合用於機器學習演算法。'
       picName : spark-logo-trademark.png
     - 
       name : ApacheTez
       officialLink : 'https://tez.apache.org/'
       downloadLink : 'https://tez.apache.org/releases/index.html'
-      introduce: ''
+      introduce: 'The Apache Tez™ project is aimed at building an application framework which allows for a complex directed-acyclic-graph of tasks for processing data. It is currently built atop Apache Hadoop YARN.'
       picName : ApacheTez.png
-  履帶(? :
+  爬蟲 :
     - 
       name : Apache ManifoldCF
       officialLink : 'http://manifoldcf.apache.org/en_US/index.html'
       downloadLink : 'http://manifoldcf.apache.org/en_US/download.html'
-      introduce: ''
+      introduce: 'ManifoldCF由Java程序實現，它可以蒐集保存在互聯網或企業網上各種服務器裡的文檔或Web網頁，並將其發送到搜索引擎。在蒐集文檔的同時還在ActiveDirectory等認證系統的協同下蒐集文檔的權限信息，並利用這些權限信息對其搜索結果加以限制。比如，人事檔案僅限由人事部搜索時才加以顯示。'
       picName : ManifoldCF-logo.PNG
     - 
       name : Apache Nutch
       officialLink : 'http://nutch.apache.org/'
       downloadLink : 'http://nutch.apache.org/downloads.html'
-      introduce: ''
+      introduce: 'Nutch is a well matured, production ready Web crawler. Nutch 1.x enables fine grained configuration, relying on Apache Hadoop™ data structures, which are great for batch processing.'
       picName : nutch_logo_tm.png
   數據收集 :
     - 
       name : Apache Flume
       officialLink : 'https://flume.apache.org/'
       downloadLink : 'https://flume.apache.org/download.html'
-      introduce: ''
+      introduce: 'Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows. It is robust and fault tolerant with tunable reliability mechanisms and many failover and recovery mechanisms. It uses a simple extensible data model that allows for online analytic application.'
       picName : flume-logo.png
     - 
       name : Apache Kafka
       officialLink : 'http://kafka.apache.org/'
       downloadLink : 'http://kafka.apache.org/downloads'
-      introduce: ''
+      introduce: 'Apache Kafka是由Apache軟體基金會開發的一個開源訊息中介軟體專案，由Scala寫成。該專案的目標是為處理實時資料提供一個統一、高吞吐、低延遲的平台。'
       picName : Kafka.png
     - 
       name : Apache Sqoop
       officialLink : 'http://sqoop.apache.org/'
       downloadLink : 'http://apache.stu.edu.tw/sqoop/'
-      introduce: ''
+      introduce: 'Apache Sqoop(TM) is a tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases.'
       picName : sqoop-logo.png
     - 
       name : Fluentd
       officialLink : 'https://www.fluentd.org/'
       downloadLink : 'https://www.fluentd.org/download'
-      introduce: ''
+      introduce: 'Fluentd is a cross platform open source data collection software project originally developed at Treasure Data. It is written primarily in the Ruby programming language.'
       picName : fluentd-logo.png
     - 
       name : Talend
       officialLink : 'https://www.talend.com/'
       downloadLink : 'https://www.talend.com/download/'
-      introduce: ''
+      introduce: 'Talend is a software integration vendor. The company provides big data, cloud storage, data integration, data management, master data management, data quality, data preparation and enterprise application integration software and services.'
       picName : talend-logo.png
-  數據累積/分佈式文件系統 :
+  數據累積/分散式檔案系統 :
     - 
       name : Apache Hadoop HDFS
       officialLink : 'https://hadoop.apache.org/'
       downloadLink : 'https://hadoop.apache.org/releases.html'
-      introduce: ''
+      introduce: 'Hadoop Distributed File System (HDFS™): A distributed file system that provides high-throughput access to application data.'
       picName : hadoop-logo.jpg
     - 
       name : Ceph
       officialLink : 'http://ceph.com/'
       downloadLink : 'http://ceph.com/get/'
-      introduce: ''
+      introduce: 'In computing, Ceph , a free-software storage platform, implements object storage on a single distributed computer cluster, and provides interfaces for object-, block- and file-level storage. Ceph aims primarily for completely distributed operation without a single point of failure, scalable to the exabyte level, and freely available.'
       picName : Ceph_Logo_.png
     - 
       name : GlusterFS
       officialLink : 'https://www.gluster.org/'
       downloadLink : 'https://www.gluster.org/install/'
-      introduce: ''
+      introduce: 'Gluster是一個大尺度檔案系統。它是各種不同的儲存伺服器之上的組合，這些伺服器由乙太網或無限頻寬技術Infiniband以及遠端直接記憶體存取RDMA互相融匯，最終所形成的一個大的並列檔案系統網路。它有包括雲端運算在內的多重應用，諸如：生物醫藥科學，文件儲存。'
       picName : glusterfs-square-logo.png
     - 
       name : Lustre
       officialLink : 'http://lustre.org/'
       downloadLink : 'http://lustre.org/download/'
-      introduce: ''
+      introduce: 'Lustre，一種平行分散式檔案系統，通常用於大型計算機叢集和超級電腦。Lustre是源自Linux和Cluster的混成詞。'
       picName : Lustre.PNG
   機器學習 :
     - 
       name : Hivemall
       officialLink : 'https://github.com/apache/incubator-hivemall'
       downloadLink : 'https://github.com/apache/incubator-hivemall'
-      introduce: ''
+      introduce: 'Apache Hivemall is a scalable machine learning library that runs on Apache Hive, Apache Spark, and Apache Pig. Hivemall is designed to be scalable to the number of training instances as well as the number of training features.'
       picName : Hivemall.png
     - 
       name : Jubatus
       officialLink : 'https://github.com/jubatus/jubatus'
       downloadLink : 'https://github.com/jubatus/jubatus'
-      introduce: ''
+      introduce: 'The Jubatus library is an online machine learning framework which runs in distributed environment.'
       picName : 
     - 
       name : MLlib
       officialLink : 'http://spark.apache.org/mllib/'
       downloadLink : 'http://spark.apache.org/mllib/'
-      introduce: ''
+      introduce: 'MLlib是Spark上分散式機器學習框架。Spark分散式記憶體式的架構比Hadoop磁碟式的Apache Mahout快上10倍，擴充性甚至比Vowpal Wabbit要好。[9] MLlib可使用許多常見的機器學習和統計演算法，簡化大規模機器學習時間。'
       picName : spark-logo-trademark.png
   深度學習 :
     - 
       name : Caffe
       officialLink : 'http://caffe.berkeleyvision.org/'
       downloadLink : 'https://github.com/BVLC/caffe'
-      introduce: ''
+      introduce: 'Caffe is a deep learning framework made with expression, speed, and modularity in mind. '
       picName : 
     - 
       name : Chainer
       officialLink : 'https://chainer.org/'
       downloadLink : 'https://github.com/chainer/chainer/'
-      introduce: ''
+      introduce: 'Chainer is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (a.k.a. dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using CuPy for high performance training and inference. '
       picName : Chainer.png
     - 
       name : CNTK
       officialLink : 'https://www.microsoft.com/en-us/cognitive-toolkit/'
-      downloadLink : 'https://docs.microsoft.com/en-us/cognitive-toolkit/Setup-CNTK-on-your-machine#install-cntk-from-precompiled-binaries'
-      introduce: ''
+      downloadLink : 'https://github.com/Microsoft/CNTK/'
+      introduce: 'The Microsoft Cognitive Toolkit - CNTK - is a unified deep-learning toolkit by Microsoft.</br></br>CNTK can be included as a library in your Python, C#, or C++ programs, or used as a standalone machine learning tool through its own model description language (BrainScript). In addition you can use the CNTK model evaluation functionality from your Java program.'
       picName : cntk.png
     - 
       name : Deeplearning4j
       officialLink : 'https://deeplearning4j.org/index.html'
       downloadLink : 'https://github.com/deeplearning4j/deeplearning4j'
-      introduce: ''
+      introduce: 'Deeplearning4j是為Java和Java虛擬機器編寫的開源深度學習庫，是廣泛支援各種深度學習演算法的運算框架。</br></br>Deeplearning4j可以實施的技術包括受限玻爾茲曼機、深度置信網路、深度自動編碼器、堆疊式降噪自動編碼器、迴圈神經張量網路，以及word2vec、doc2vec和GloVe。這些演算法全部包括分散式並列版本，與Hadoop和Spark整合。'
       picName : DL4J-LOGO-2.png
     - 
       name : DSSTNE
       officialLink : 'https://github.com/amzn/amazon-dsstne'
       downloadLink : 'https://github.com/amzn/amazon-dsstne'
-      introduce: ''
+      introduce: 'DSSTNE is an open source software library for training and deploying recommendation models with sparse inputs, fully connected hidden layers, and sparse outputs. Models with weight matrices that are too large for a single GPU can still be trained on a single host. '
       picName : 
     - 
       name : PredictionIO
       officialLink : 'http://predictionio.incubator.apache.org/'
       downloadLink : 'https://github.com/apache/incubator-predictionio/'
-      introduce: ''
+      introduce: 'Apache PredictionIO is an open source machine learning framework for developers, data scientists, and end users. It supports event collection, deployment of algorithms, evaluation, querying predictive results via REST APIs. It is based on scalable open source services like Hadoop, HBase (and other DBs), Elasticsearch, Spark and implements what is called a Lambda Architecture.'
       picName : PredictionIO.png
     - 
       name : TensorFlow
-      officialLink : 'http://deeplearning.net/software/theano/'
-      downloadLink : 'https://github.com/apache/incubator-predictionio/'
-      introduce: ''
-      picName : 
+      officialLink : 'https://www.tensorflow.org/'
+      downloadLink : 'https://www.tensorflow.org/install/'
+      introduce: 'tensorFlow是一個開源軟體庫，用於各種感知和語言理解任務的機器學習。目前被50個團隊用於研究和生產許多Google商業產品，如語音識別、Gmail、Google 相冊和搜索，其中許多產品曾使用過其前任軟體DistBelief。'
+      picName : Tensor-Flow.png
     - 
       name : Theano
       officialLink : 'http://deeplearning.net/software/theano/'
       downloadLink : 'https://github.com/Theano/Theano'
-      introduce: ''
+      introduce: 'Theano is a numerical computation library for Python.In Theano, computations are expressed using a NumPy-esque syntax and compiled to run efficiently on either CPU or GPU architectures.'
       picName : Theano.jpeg
     - 
       name : Torch7
       officialLink : 'https://github.com/torch/torch7'
       downloadLink : 'https://github.com/torch/torch7'
-      introduce: ''
+      introduce: 'Torch is the main package in Torch7 where data structures for multi-dimensional tensors and mathematical operations over these are defined. Additionally, it provides many utilities for accessing files, serializing objects of arbitrary types and other useful utilities.'
       picName : Torch7.png
   CEP :
     - 
       name : Apache S4
       officialLink : 'http://incubator.apache.org/projects/s4.html'
       downloadLink : 'https://github.com/apache/incubator-s4'
-      introduce: ''
+      introduce: 'S4 is a general-purpose,near real-time, distributed, decentralized, scalable, event-driven, modular platform that allows programmers to easily implement applications for processing continuous unbounded streams of data.'
       picName : apacheIncubator.png
     - 
       name : Apache SparkStreaming
       officialLink : 'https://spark.apache.org/streaming/'
       downloadLink : 'https://spark.apache.org/streaming/'
-      introduce: ''
+      introduce: 'Spark Streaming充分利用Spark核心的快速排程能力來執行串流分析。它擷取小批次的資料並對之執行RDD轉換。這種設計使串流分析可在同一個引擎內使用同一組為批次分析編寫而撰寫的應用程式代碼。'
       picName : spark-logo-trademark.png
     - 
       name : Apache Storm
       officialLink : 'http://storm.apache.org/'
       downloadLink : 'http://storm.apache.org/downloads.html'
-      introduce: ''
+      introduce: 'Storm是一個分布式計算框架，主要由Clojure程式語言編寫。最初是由Nathan Marz及其團隊創建於BackType，該項目在被Twitter取得後開源。[3]它使用用戶創建的「管（spouts）」和「螺栓（bolts）」來定義信息源和操作來允許批量、分布式處理流式數據。'
       picName : storm_logo.png
     - 
       name : Drools Fusion
       officialLink : 'http://www.drools.org/'
       downloadLink : 'http://www.drools.org/download/download.html'
-      introduce: ''
+      introduce: 'Drools is a Business Rules Management System (BRMS) solution. It provides a core Business Rules Engine (BRE), a web authoring and rules management application (Drools Workbench) and an Eclipse IDE plugin for core development.</br></br>Drools Fusion (complex event processing features)'
       picName : DroolsLogo210px.png
     - 
       name : Esper
       officialLink : 'http://www.espertech.com/'
       downloadLink : 'http://www.espertech.com/downloads/'
-      introduce: ''
+      introduce: 'Esper and Event Processing Language (EPL) provide a highly scalable, memory-efficient, in-memory computing, SQL-standard, minimal latency, real-time streaming-capable Big Data processing engine for any-velocity online and real-time arriving data and high-variety data, as well as for historical event analysis.'
       picName : esper.png
   BA・BI :
     -
       name : Pentaho
       officialLink : 'http://www.pentaho.com/'
       downloadLink : 'http://www.pentaho.com/download'
-      introduce: ''
+      introduce: 'simplifies preparing and blending any data and includes a spectrum of tools to easily analyze, visualize, explore, report and predict.'
       picName : pentaho.png
   內存數據庫/分佈式KVS :
     - 
       name : Apache Cassandra
       officialLink : 'http://cassandra.apache.org/'
       downloadLink : 'http://cassandra.apache.org/download/'
-      introduce: ''
-      picName : Cassandra.png 
+      introduce: 'Apache Cassandra（社群內一般簡稱為C*）是一套開源分散式NoSQL資料庫系統。它最初由Facebook開發，用於儲存收件箱等簡單格式資料，集Google BigTable的資料模型與Amazon Dynamo的完全分散式架構於一身。'
+      picName : Cassandra.png
     - 
       name : Apache HBase
       officialLink : 'https://hbase.apache.org/'
       downloadLink : 'http://apache.stu.edu.tw/hbase/'
-      introduce: ''
+      introduce: 'Apache HBase™ is the Hadoop database, a distributed, scalable, big data store.'
       picName : HBase.png
     - 
       name : infinispan
-      officialLink : 'https://github.com/infinispan/infinispan'
+      officialLink : 'http://www.infinispan.org/'
       downloadLink : 'https://github.com/infinispan/infinispan'
-      introduce: ''
-      picName : 
+      introduce: 'Infinispan is a distributed in-memory key/value data store with optional schema, available under the Apache License 2.0.'
+      picName : infinispan_logo_140.png
     - 
       name : MongoDB
       officialLink : 'https://www.mongodb.com/'
       downloadLink : 'https://www.mongodb.com/download-center#community'
-      introduce: ''
+      introduce : 'MongoDB是一種文件導向的資料庫管理系統，由C++撰寫而成，以此來解決應用程式開發社群中的大量現實問題。</br></br>MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need'
       picName : Mongo-Db-1.png
     - 
       name : Redis
       officialLink : 'https://redis.io/'
       downloadLink : 'https://redis.io/download'
-      introduce: ''
+      introduce: 'Redis是一個使用ANSI C編寫的開源、支援網路、基於記憶體、可選永續性的鍵值對儲存資料庫。</br></br>根據月度排行網站DB-Engines.com的資料顯示，Redis是最流行的鍵值對儲存資料庫。'
       picName : redis-logo.png
     - 
       name : Riak
       officialLink : 'http://docs.basho.com/'
       downloadLink : 'http://docs.basho.com/riak/ts/1.5.2/downloads/'
-      introduce: ''
+      introduce: 'Riak is a distributed NoSQL key-value data store that offers high availability, fault tolerance, operational simplicity, and scalability. In addition to the open-source version, it comes in a supported enterprise version and a cloud storage version.'
       picName : riak.png
     - 
       name : VoltDB
       officialLink : 'https://www.voltdb.com/'
       downloadLink : 'https://www.voltdb.com/try-voltdb/'
-      introduce: ''
+      introduce: 'VoltDB allows you to apply more sophisticated models and analytics to real-time actions. '
       picName : VoltDB.png
     - 
       name : Neo4j
       officialLink : 'https://github.com/neo4j/neo4j'
       downloadLink : 'https://github.com/neo4j/neo4j'
-      introduce: ''
+      introduce: 'Neo4j is a graph database management system developed by Neo4j, Inc. Described by its developers as an ACID-compliant transactional database with native graph storage and processing,Neo4j is the most popular graph database according to DB-Engines ranking.'
       picName : 
-  準實時查詢 :
+  Near real time :
     - 
       name : Apache Drill
       officialLink : 'https://drill.apache.org/'
       downloadLink : 'https://drill.apache.org/download/'
-      introduce: ''
+      introduce: Apache Drill is an open-source software framework that supports data-intensive distributed applications for interactive analysis of large-scale datasets. Drill is the open source version of Google's Dremel system which is available as an infrastructure service called Google BigQuery.<br><br> One explicitly stated design goal is that Drill is able to scale to 10,000 servers or more and to be able to process petabytes of data and trillions of records in seconds. Drill is an Apache top-level project.
       picName : apache-drill.png
     - 
       name : Apache Hive
       officialLink : 'https://hive.apache.org/'
       downloadLink : 'http://apache.stu.edu.tw/hive/'
-      introduce: ''
+      introduce: 'Apache Hive是一個建立在Hadoop架構之上的數據倉庫。它能夠提供數據的精煉，查詢和分析。'
       picName : hive_logo_medium.jpg
     - 
       name : Apache SparkSQL
       officialLink : 'http://spark.apache.org/sql/'
       downloadLink : 'http://spark.apache.org/sql/'
-      introduce: ''
+      introduce: Spark SQL is Apache Spark's module for working with structured data.
       picName : spark-logo-trademark.png
     - 
       name : Impala
       officialLink : 'https://impala.apache.org/'
       downloadLink : 'https://impala.apache.org/downloads.html'
-      introduce: ''
+      introduce: 'Apache Impala is the open source, native analytic database for Apache Hadoop. Impala is shipped by Cloudera, MapR, Oracle, and Amazon.'
       picName : impala-logo.png
   數據分析 :
     - 
       name : R
       officialLink : 'https://www.r-project.org/index.html'
       downloadLink : 'https://ftp.yzu.edu.tw/CRAN/'
-      introduce: ''
+      introduce: 'R語言，一種自由軟體程式語言與操作環境，主要用於統計分析、繪圖、資料探勘。</br></br>R內建多種統計學及數字分析功能。R的功能也可以透過安裝套件（Packages，用戶撰寫的功能）增強。因為S的血緣，R比其他統計學或數學專用的編程語言有更強的物件導向（物件導向程式設計, S3, S4等）功能。'
       picName : Rlogo.png
 OS、虛擬化、雲端 :
   OS :
@@ -924,227 +926,227 @@ OS、虛擬化、雲端 :
       name : Android
       officialLink : 'https://www.android.com/intl/zh-TW_tw/'
       downloadLink : 'https://developer.android.com/index.html'
-      introduce: ''
+      introduce: '常見的非官方中文名稱為安卓，是一個基於Linux核心的開放原始碼行動作業系統，由Google成立的Open Handset Alliance（OHA，開放手機聯盟）持續領導與開發，主要設計用於觸控螢幕行動裝置如智慧型手機和平板電腦與其他可攜式裝置。'
       picName : android.jpg
     - 
       name : CentOS
       officialLink : 'https://www.centos.org/'
       downloadLink : 'http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-1708.iso'
-      introduce: ''
+      introduce: '是Linux發行版之一，它是來自於Red Hat Enterprise Linux依照開放原始碼規定釋出的原始碼所編譯而成。由於出自同樣的原始碼，因此有些要求高度穩定性的伺服器以CentOS替代商業版的Red Hat Enterprise Linux使用</br></br>兩者的不同，在於CentOS並不包含封閉原始碼軟體。CentOS 對上游代碼的主要修改是為了移除不能自由使用的商標。'
       picName : CentOS.png
     - 
       name : CoreOS
       officialLink : 'https://coreos.com/'
       downloadLink : 'https://coreos.com/os/docs/latest/booting-with-iso.html'
-      introduce: ''
+      introduce: 'CoreOS 是一個基於Linux 內核的輕量級作業系統，為了電腦集群的基礎設施建設而生，專注於自動化，輕鬆部署，安全，可靠，規模化。作為一個作業系統，CoreOS 提供了在應用容器內部署應用所需要的基礎功能環境以及一系列用於服務發現和配置共享的內建工具。'
       picName : CoreOS.png
     - 
       name : Debian
       officialLink : 'https://www.debian.org/'
       downloadLink : 'https://www.debian.org/distrib/'
-      introduce: ''
+      introduce: 'Debian作為最早的Linux發行版之一是完全由自由軟體組成的類UNIX作業系統。'
       picName : debian-wheezy-download.jpg
     - 
       name : Fedora
       officialLink : 'https://getfedora.org/'
       downloadLink : 'https://getfedora.org/'
-      introduce: ''
+      introduce: 'Fedora基於Red Hat Linux。在Red Hat Linux終止發行後，紅帽公司計畫以Fedora來取代Red Hat Linux在個人領域的應用，而另外發行的Red Hat Enterprise Linux（Red Hat企業版Linux）則取代Red Hat Linux在商業應用的領域。'
       picName : fedora_infinity_140x140.png
     - 
       name : FreeBSD
       officialLink : 'https://www.freebsd.org/'
       downloadLink : 'https://www.freebsd.org/where.html'
-      introduce: ''
+      introduce: 'FreeBSD被認為是自由作業系統中的不知名的巨人。它不是Unix，但如Unix一樣執行，相容POSIX。作為一個作業系統，FreeBSD被認為相當穩健可靠。</br></br>FreeBSD預設是無桌面環境的命令列介面，想要使用桌面環境必須自行安裝，或是使用PC-BSD之類的桌面發行版。'
       picName : FreeBSD.png
     - 
       name : openSUSE
       officialLink : 'https://en.opensuse.org/Main_Page'
       downloadLink : 'https://software.opensuse.org/'
-      introduce: ''
+      introduce: 'openSUSE Project由SUSE公司贊助，開發和維護著SUSE Linux發行版部件。openSUSE是SUSE Linux Professional的接替者。</br></br>openSUSE預設提供圖形使用者介面及命令列介面，在安裝過程中，使用者可以選擇KDE SC、GNOME和Xfce作為桌面環境。'
       picName : Opensuse-geeko.png
     - 
       name : Scientific Linux
       officialLink : 'https://www.scientificlinux.org/'
       downloadLink : 'http://ftp1.scientificlinux.org/linux/scientific/7x/x86_64/iso/'
-      introduce: ''
+      introduce: 'Scientific Linux is a Fermilab sponsored project.  Our primary user base is within the High Energy and High Intensity Physics community.  However, our users come from a wide variety of industries with various use cases all over the globe – and sometimes off of it!'
       picName : ScientificLinux.png
     - 
       name : Ubuntu
       officialLink : 'https://www.ubuntu.com/'
       downloadLink : 'https://www.ubuntu-tw.org/modules/tinyd0/'
-      introduce: ''
+      introduce: 'Ubuntu是基於Debian發行版和GNOME桌面環境，與Debian的不同在於它每6個月會發布一個新版本（即每年的四月與十月），每2年發布一個LTS長期支援版本。 普通的桌面版可以獲得發布後18個月內的支援，標為LTS（長期支援）的桌面版可以獲得更長時間的支援。</br></br>Ubuntu的目標在於為一般用戶提供一個最新同時又相當穩定，主要以自由軟體建構而成的作業系統。Ubuntu目前具有龐大的社群力量支援，用戶可以方便地從社群獲得幫助。'
       picName : ubuntu-logo112.png
   作業系統層虛擬化 :
     - 
       name : Docker
       officialLink : 'https://www.docker.com/'
       downloadLink : 'https://store.docker.com/search?offering=community&q=&type=edition'
-      introduce: ''
+      introduce: 'Docker是一個開放原始碼軟體專案，讓應用程式布署在軟體容器下的工作可以自動化進行，藉此在Linux作業系統上，提供一個額外的軟體抽象層，以及作業系統層虛擬化的自動管理機制。</br></br>Docker利用Linux核心中的資源分離機制，例如cgroups，以及Linux核心命名空間（name space），來建立獨立的軟體容器（containers）。這可以在單一Linux實體下運作，避免啟動一個虛擬機器造成的額外負擔。'
       picName : Docker_logo_logotype.png
     - 
       name : KVM
       officialLink : 'http://www.linux-kvm.org/page/Main_Page'
       downloadLink : 'https://www.linux-kvm.org/page/Downloads'
-      introduce: ''
+      introduce: KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). It consists of a loadable kernel module, kvm.ko, that provides the core virtualization infrastructure and a processor specific module, kvm-intel.ko or kvm-amd.ko.
       picName : kvmbanner-logo3.png
     - 
       name : Virt-Manager
       officialLink : 'https://virt-manager.org/'
       downloadLink : 'https://virt-manager.org/download/'
-      introduce: ''
+      introduce: '在電腦運算中，紅帽公司的Virtual Machine Manager是一個虛擬機器管理員，可以讓使用者管理多個虛擬機器。'
       picName : Virt-Manager.png
     - 
       name : VirtualBox
       officialLink : 'https://www.virtualbox.org/'
       downloadLink : 'https://www.virtualbox.org/wiki/Downloads'
-      introduce: ''
+      introduce: '它提供使用者在32位元或64位元的Windows、Solaris及Linux 作業系統上虛擬其它x86的作業系統。使用者可以在VirtualBox上安裝並且執行Solaris、Windows、DOS、Linux、OS/2 Warp、OpenBSD及FreeBSD等系統作為客戶端作業系統。'
       picName : vbox_logo2_gradient.png
     - 
       name : Xen
       officialLink : 'https://www.xenproject.org/'
       downloadLink : 'https://www.xenproject.org/downloads.html'
-      introduce: ''
+      introduce: 'The Xen ProjectTM is the leading open source virtualization platform that is powering some of the largest clouds in production today. Amazon Web Services, Aliyun, Rackspace Public Cloud, Verizon Cloud and many hosting services use Xen Project software. Plus, it is integrated into multiple cloud orchestration projects like OpenStack.'
       picName : xen-logo.png
   追蹤虛擬化 :
     - 
       name : Ceph
       officialLink : 'http://ceph.com/'
       downloadLink : 'http://ceph.com/get/'
-      introduce: ''
+      introduce: 'In computing, Ceph , a free-software storage platform, implements object storage on a single distributed computer cluster, and provides interfaces for object-, block- and file-level storage. Ceph aims primarily for completely distributed operation without a single point of failure, scalable to the exabyte level, and freely available.'
       picName : Ceph_Logo_.png
     - 
       name : GlusterFS
       officialLink : 'https://www.gluster.org/'
       downloadLink : 'https://www.gluster.org/install/'
-      introduce: ''
+      introduce: 'Gluster是一個大尺度檔案系統。它是各種不同的儲存伺服器之上的組合，這些伺服器由乙太網或無限頻寬技術Infiniband以及遠端直接記憶體存取RDMA互相融匯，最終所形成的一個大的並列檔案系統網路。它有包括雲端運算在內的多重應用，諸如：生物醫藥科學，文件儲存。'
       picName : glusterfs-square-logo.png
     - 
       name : Lustre
       officialLink : 'http://lustre.org/'
       downloadLink : 'http://lustre.org/download/'
-      introduce: ''
+      introduce: 'Lustre，一種平行分散式檔案系統，通常用於大型計算機叢集和超級電腦。Lustre是源自Linux和Cluster的混成詞。'
       picName : Lustre.PNG
-  網路虛擬化 :
+  網路功能虛擬化 :
     - 
       name : OF-Patch
       officialLink : 'https://github.com/okinawaopenlabs/of-patch-manager'
       downloadLink : 'https://github.com/okinawaopenlabs/of-patch-manager'
-      introduce: ''
+      introduce: 'OF-Patch is a SDN application to realize conventional patch panel by use of OpenFlow switch.</br></br>We can build a single large switch by combining plural OpenFlow switch.'
       picName : 
     - 
       name : OpenDaylight
       officialLink : 'https://www.opendaylight.org/'
       downloadLink : 'https://www.opendaylight.org/technical-community/getting-started-for-developers/downloads-and-documentation'
-      introduce: ''
+      introduce: 'OpenDaylight專案（英語：OpenDaylight Project）是一個開放原始碼軟體專案，由Linux基金會支持。 Linux基金會在2013年4月8日公布了這項專案，其目標在於開發支援軟體定義網路（SDN）的各種軟體工具，建立網路功能虛擬化的基礎。主要開發語言為Java。'
       picName : OpenDaylight.jpg
     - 
       name : Trema
       officialLink : 'https://trema.github.io/trema/'
       downloadLink : 'https://github.com/trema/trema'
-      introduce: ''
+      introduce: 'Trema is an OpenFlow controller programming framework that provides everything needed to create OpenFlow controllers in Ruby. It provides a high-level OpenFlow library and also a network emulator that can create OpenFlow-based networks for testing on your PC. This self-contained environment helps streamlines the entire process of development and testing.'
       picName : 
   IaaS :
     - 
       name : Kubernetes
       officialLink : 'https://kubernetes.io/'
       downloadLink : 'https://github.com/kubernetes/kubernetes'
-      introduce: ''
+      introduce: 'Kubernetes (通常稱為K8s) 是用於自動部署、擴展和管理容器化（containerized）應用程式的開源系統。</br></br>它旨在提供「跨主機集群的自動部署、擴展以及運行應用程式容器的平台」。它支持一系列容器工具, 包括Docker等。'
       picName : Kubernetes-logo.png
     - 
       name : OpenStack Ironic
       officialLink : 'https://wiki.openstack.org/wiki/Ironic'
-      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
-      introduce: ''
+      downloadLink : 'https://github.com/openstack/ironic'
+      introduce: 'OpenStack bare metal provisioning a.k.a Ironic is an integrated OpenStack program which aims to provision bare metal machines instead of virtual machines, forked from the Nova baremetal driver. It is best thought of as a bare metal hypervisor API and a set of plugins which interact with the bare metal hypervisors. By default, it will use PXE and IPMI in order to provision and turn on/off machines, but Ironic also supports vendor-specific plugins which may implement additional functionality.'
       picName : openstack-icon.png
     - 
       name : OpenStack Magnum
       officialLink : 'https://wiki.openstack.org/wiki/Magnum'
       downloadLink : 'https://docs.openstack.org/pike/#install-guides'
-      introduce: ''
+      introduce: 'Magnum is an OpenStack API service developed by the OpenStack Containers Team making container orchestration engines such as Docker Swarm, Kubernetes, and Apache Mesos available as first class resources in OpenStack.</br></br> Magnum uses Heat to orchestrate an OS image which contains Docker and Kubernetes and runs that image in either virtual machines or bare metal in a cluster configuration.'
       picName : openstack-icon.png
     - 
       name : Vagrant
       officialLink : 'https://www.vagrantup.com/'
       downloadLink : 'https://www.vagrantup.com/downloads.html'
-      introduce: ''
+      introduce: Vagrant是一款用於構建及配置虛擬開發環境的軟體，基於Ruby,主要以命令行的方式運行。</br></br>主要使用Oracle的開源VirtualBox虛擬化系統，與Chef，Salt，Puppet等環境配置管理軟體搭配使用， 可以實行快速虛擬開發環境的構建。
       picName : Vagrant.png
   PaaS :
     - 
       name : Cloud Foundry
       officialLink : 'https://www.cloudfoundry.org/'
       downloadLink : 'https://www.cloudfoundry.org/docs-download/'
-      introduce: ''
+      introduce: 'Cloud Foundry is an open source, multi cloud application platform as a service (PaaS) governed by the Cloud Foundry Foundation, a 501(c)(6) organization. The software was originally developed by VMware and then transferred to Pivotal Software, a joint venture by EMC, VMware and General Electric.'
       picName : CloudFoundry.png
     - 
       name : Deltacloud
       officialLink : 'https://deltacloud.apache.org/'
       downloadLink : 'https://deltacloud.apache.org/download.html'
-      introduce : ''
+      introduce : Deltacloud provides the API server and drivers necessary for connecting to cloud providers.</br></br>Deltacloud maintains long-term stability for scripts, tools and applications and backward compatibility across different versions.
       picName : Deltacloud.png 
     - 
       name : OpenShift
       officialLink : 'https://www.openshift.org/'
       downloadLink : 'https://www.openshift.org/download.html#oc-platforms'
-      introduce: ''
+      introduce: 'OpenShift 是由紅帽公司推出的 PaaS 雲端運算平台，供用戶建立網路應用（App、網站）。OpenShift Enterprise是其私有雲版本這是一個開源軟體，由 OpenShift Origin管理，支援GitHub，開發者可以使用Git來發布自己的web應用程式到平台上。'
       picName : OpenShift-LogoType.svg.png
   SaaS :
     - 
       name : OpenStack Murano
       officialLink : 'https://wiki.openstack.org/wiki/Murano'
-      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
-      introduce: ''
+      downloadLink : 'https://github.com/openstack/murano'
+      introduce: 'The Murano Project introduces an application catalog to OpenStack, enabling application developers and cloud administrators to publish various cloud-ready applications in a browsable categorized catalog. </br></br>Cloud users -- including inexperienced ones -- can then use the catalog to compose reliable application environments with the push of a button.'
       picName : openstack-icon.png
   CompaaS :
     - 
       name : OpenStack Nova
       officialLink : 'https://wiki.openstack.org/wiki/Nova'
-      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
-      introduce: ''
+      downloadLink : 'https://github.com/openstack/nova'
+      introduce: 'OpenStack Nova provides a cloud computing fabric controller, supporting a wide variety of compute technologies, including: libvirt (KVM, Xen, LXC and more), Hyper-V, VMware, XenServer, OpenStack Ironic and PowerVM.'
       picName : openstack-icon.png
     - 
       name : OpenStack Glance
       officialLink : 'https://wiki.openstack.org/wiki/Glance'
-      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
-      introduce: ''
+      downloadLink : 'https://github.com/openstack/glance'
+      introduce: 'Glance is a project that provides services and associated libraries to store, browse, share, distribute and manage bootable disk images, other data closely associated with initializing compute resources, and metadata definitions.'
       picName : openstack-icon.png
   DSaaS :
     - 
       name : OpenStack Cinder
       officialLink : 'https://wiki.openstack.org/wiki/Cinder'
-      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
-      introduce: ''
+      downloadLink : 'https://github.com/openstack/cinder'
+      introduce: 'To implement services and libraries to provide on demand, self-service access to Block Storage resources. Provide Software Defined Block Storage via abstraction and automation on top of various traditional backend block storage devices.'
       picName : openstack-icon.png
     - 
       name : OpenStack Manila
       officialLink : 'https://wiki.openstack.org/wiki/Manila'
-      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
-      introduce: ''
+      downloadLink : 'https://github.com/openstack/manila'
+      introduce: 'Manila is the file share service project for OpenStack. Manila provides the management of file shares for example, NFS and CIFS as a core service to OpenStack. </br></br>Manila works with a variety of proprietary backend storage arrays and appliances, with open source distributed filesystems, as well as with a base Linux NFS or Samba server. '
       picName : openstack-icon.png
     - 
       name : OpenStack Swift
       officialLink : 'https://wiki.openstack.org/wiki/Swift'
-      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
-      introduce: ''
+      downloadLink : 'https://github.com/openstack/swift'
+      introduce: 'A distributed object storage system designed to scale from a single machine to thousands of servers. Swift is optimized for multi-tenancy and high concurrency. Swift is ideal for backups, web and mobile content, and any other unstructured data that can grow without bound.'
       picName : openstack-icon.png
   NaaS :
     - 
       name : OpenStack Neutron
       officialLink : 'https://wiki.openstack.org/wiki/Neutron'
       downloadLink : 'https://docs.openstack.org/pike/#install-guides'
-      introduce: ''
+      introduce: 'Neutron is an OpenStack project to provide "networking as a service" between interface devices (e.g., vNICs) managed by other Openstack services (e.g., nova).'
       picName : openstack-icon.png
     - 
       name : OpenStack Designate
       officialLink : 'https://wiki.openstack.org/wiki/Designate'
-      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
-      introduce: ''
+      downloadLink : 'https://github.com/openstack/designate'
+      introduce: 'Designate is a multi-tenant DNSaaS service for OpenStack. It provides a REST API with integrated Keystone authentication. It can be configured to auto-generate records based on Nova and Neutron actions.</br></br>Designate supports a variety of DNS servers including Bind9 and PowerDNS.'
       picName : openstack-icon.png
   IDaaS :
     - 
       name : OpenStack Keystone
       officialLink : 'https://wiki.openstack.org/wiki/Keystone'
-      downloadLink : 'https://docs.openstack.org/pike/#install-guides'
-      introduce: ''
+      downloadLink : 'https://github.com/openstack/keystone'
+      introduce: 'Keystone provides authentication, authorization and service discovery mechanisms via HTTP primarily for use by projects in the OpenStack family. It is most commonly deployed as an HTTP interface to existing identity systems, such as LDAP.'
       picName : openstack-icon.png
 檢索與分佈式處理 :
   搜尋引擎:
@@ -1152,68 +1154,68 @@ OS、虛擬化、雲端 :
       name : Apache Lucene
       officialLink : 'https://lucene.apache.org/core/'
       downloadLink : 'http://apache.stu.edu.tw/lucene/java/'
-      introduce: ''
+      introduce: 'Lucene提供了一個簡單卻強大的應用程式介面，能夠做全文索引和搜尋，在Java開發環境裡Lucene是一個成熟的免費開放原始碼工具；就其本身而論，Lucene是現在並且是這幾年，最受歡迎的免費Java資訊檢索程式庫。'
       picName : lucene_logo_green_300.png
     - 
       name : Apache ManifoldCF
       officialLink : 'http://manifoldcf.apache.org/en_US/index.html'
       downloadLink : 'http://manifoldcf.apache.org/en_US/download.html'
-      introduce: ''
+      introduce: 'ManifoldCF由Java程序實現，它可以蒐集保存在互聯網或企業網上各種服務器裡的文檔或Web網頁，並將其發送到搜索引擎。在蒐集文檔的同時還在ActiveDirectory等認證系統的協同下蒐集文檔的權限信息，並利用這些權限信息對其搜索結果加以限制。比如，人事檔案僅限由人事部搜索時才加以顯示。'
       picName : ManifoldCF-logo.PNG
     - 
       name : Apache Nutch
       officialLink : 'http://nutch.apache.org/'
       downloadLink : 'http://nutch.apache.org/downloads.html'
-      introduce: ''
+      introduce: 'Nutch is a well matured, production ready Web crawler. Nutch 1.x enables fine grained configuration, relying on Apache Hadoop™ data structures, which are great for batch processing.'
       picName : nutch_logo_tm.png
     - 
       name : Elasticsearch
       officialLink : 'https://www.elastic.co/products/elasticsearch'
       downloadLink : 'https://www.elastic.co/downloads/elasticsearch'
-      introduce: ''
+      introduce: 'Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data so you can discover the expected and uncover the unexpected.'
       picName : Elasticsearch.png
     - 
       name : Kibana
       officialLink : 'https://www.elastic.co/products/kibana'
       downloadLink : 'https://www.elastic.co/downloads/kibana'
-      introduce: ''
+      introduce: Kibana lets you visualize your Elasticsearch data and navigate the Elastic Stack, so you can do anything from learning why you're getting paged at 2:00 a.m. to understanding the impact rain might have on your quarterly numbers.
       picName : Kibana.PNG
     - 
       name : Logstash
       officialLink : 'https://www.elastic.co/products/logstash'
       downloadLink : 'https://www.elastic.co/downloads/logstash'
-      introduce: ''
+      introduce: Logstash is an open source, server-side data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite "stash".
       picName : Logstash.PNG
   分佈式處理 :
     - 
       name : Apache Hadoop
       officialLink : 'https://hadoop.apache.org/'
       downloadLink : 'http://apache.stu.edu.tw/hadoop/common/stable/'
-      introduce: ''
+      introduce: 'Apache Hadoop是一款支援資料密集型分布式應用程式並以Apache 2.0許可協議發布的開源軟體框架。它支援在商品硬體構建的大型集群上運行的應用程式。Hadoop是根據Google公司發表的MapReduce和Google檔案系統的論文自行實作而成。</br></br>所有的Hadoop模組都有一個基本假設，即硬體故障是常見情況，應該由框架自動處理。'
       picName : hadoop-logo.jpg
     - 
       name : Apache Spark
       officialLink : 'http://spark.apache.org/'
       downloadLink : 'http://spark.apache.org/downloads.html'
-      introduce: ''
+      introduce: 'Apache Spark是一個開源叢集運算框架，最初是由加州大學柏克萊分校AMPLab所開發。相對於Hadoop的MapReduce會在執行完工作後將中介資料存放到磁碟中，Spark使用了記憶體內運算技術，能在資料尚未寫入硬碟時即在記憶體內分析運算。</br></br>Spark在記憶體內執行程式的運算速度能做到比Hadoop MapReduce的運算速度快上100倍，即便是執行程式於硬碟時，Spark也能快上10倍速度。Spark允許用戶將資料加載至叢集記憶體，並多次對其進行查詢，非常適合用於機器學習演算法。'
       picName : spark-logo-trademark.png
     - 
       name : Apache Sqoop
       officialLink : 'http://sqoop.apache.org/'
       downloadLink : 'http://apache.stu.edu.tw/sqoop/'
-      introduce: ''
+      introduce: 'Apache Sqoop(TM) is a tool designed for efficiently transferring bulk data between Apache Hadoop and structured datastores such as relational databases.'
       picName : sqoop-logo.png
     - 
       name : Apache Storm
       officialLink : 'http://storm.apache.org/'
       downloadLink : 'http://storm.apache.org/downloads.html'
-      introduce: ''
+      introduce: 'Storm是一個分布式計算框架，主要由Clojure程式語言編寫。最初是由Nathan Marz及其團隊創建於BackType，該項目在被Twitter取得後開源。[3]它使用用戶創建的「管（spouts）」和「螺栓（bolts）」來定義信息源和操作來允許批量、分布式處理流式數據。'
       picName : storm_logo.png
     - 
       name : Ganglia
       officialLink : 'http://ganglia.info/'
       downloadLink : 'http://ganglia.info/?page_id=66'
-      introduce: ''
+      introduce: 'Ganglia is a scalable distributed monitoring system for high-performance computing systems such as clusters and Grids. It is based on a hierarchical design targeted at federations of clusters.</br></br>It leverages widely used technologies such as XML for data representation, XDR for compact, portable data transport, and RRDtool for data storage and visualization. '
       picName : Ganglia.jpg
 開發支援 :
   整合開發環境 :
@@ -1221,337 +1223,337 @@ OS、虛擬化、雲端 :
       name : Apache Ant
       officialLink : 'http://ant.apache.org/'
       downloadLink : 'http://ant.apache.org/bindownload.cgi'
-      introduce: ''
+      introduce: 'Apache Ant，是一個將軟體編譯、測試、部署等步驟聯繫在一起加以自動化的一個工具，大多用於Java環境中的軟體開發。'
       picName : apacheAnt.gif
     - 
       name : Apache Maven
       officialLink : 'https://maven.apache.org/'
       downloadLink : 'https://maven.apache.org/download.cgi'
-      introduce: ''
+      introduce: 'Apache Maven，是一個軟體（特別是Java軟體）專案管理及自動構建工具，由Apache軟體基金會所提供。基於專案物件模型（縮寫：POM）概念，Maven利用一個中央資訊片斷能管理一個專案的構建、報告和文件等步驟。'
       picName : Maven.png
     - 
       name : Cobertura
       officialLink : 'http://cobertura.github.io/cobertura/'
       downloadLink : 'https://sourceforge.net/projects/cobertura/files/latest/download?source=files'
-      introduce: ''
+      introduce: 'Cobertura is a free Java tool that calculates the percentage of code accessed by tests. It can be used to identify which parts of your Java program are lacking test coverage. It is based on jcoverage.'
       picName : 
     - 
       name : Eclipse
       officialLink : 'https://eclipse.org/'
       downloadLink : 'https://eclipse.org/downloads/'
-      introduce: ''
+      introduce: 'Eclipse是著名的跨平台開源整合式開發環境（IDE）。最初主要用來Java語言開發，目前亦有人通過外掛模組使其作為C++、Python、PHP等其他語言的開發工具。</br></br>Eclipse的本身只是一個框架平台，但是眾多外掛模組的支援，使得Eclipse擁有較佳的靈活性，所以許多軟體開發商以Eclipse為框架開發自己的IDE。'
       picName : eclipse-426x100.png
     - 
       name : GerritCode Review
       officialLink : 'https://www.gerritcodereview.com/'
       downloadLink : 'https://www.gerritcodereview.com/releases/2.14.md'
-      introduce: ''
+      introduce: 'Gerrit provides web based code review and repository management for the Git version control system.'
       picName : gerrit-logo-diffy.png
     - 
       name : Gitlab
       officialLink : 'https://about.gitlab.com/'
       downloadLink : 'https://about.gitlab.com/installation/'
-      introduce: ''
+      introduce: 'itLab是一個利用Ruby on Rails開發的開源應用程式，實現一個自代管的Git專案倉庫，可通過Web介面進行存取公開的或者私人專案。</br></br>它擁有與GitHub類似的功能，能夠瀏覽原始碼，管理缺陷和注釋。可以管理團隊對倉庫的存取，它非常易於瀏覽提交過的版本並提供一個檔案歷史庫。團隊成員可以利用內建的簡單聊天程式（Wall）進行交流。</br></br>它還提供一個代碼片段收集功能可以輕鬆實現代碼復用，便於日後有需要的時候進行尋找。'
       picName : Gitlab.png
     - 
       name : NetBeans
       officialLink : 'https://netbeans.org/index_zh_TW.html'
       downloadLink : 'https://netbeans.org/downloads/'
-      introduce: ''
+      introduce: 'NetBeans是由昇陽電腦（Sun Microsystems）建立的開放原始碼的軟體開發工具，是一個開發框架，可擴展的開發平台，可以用於Java，C語言／C++，PHP，HTML5等程式的開發，本身是一個開發平台，可以通過擴展外掛模組來擴展功能。'
       picName : netbeans.png
   版本控制 :
     - 
       name : Apache Subversion
       officialLink : 'https://subversion.apache.org/'
       downloadLink : 'https://subversion.apache.org/download.cgi?update=201708081800#recommended-release'
-      introduce: ''
+      introduce: 'Apache Subversion（簡稱SVN，svn），一個開放原始碼的版本控制系統，相較於RCS、CVS，它採用了分支管理系統，它的設計目標就是取代CVS。網際網路上很多版本控制服務已從CVS轉移到Subversion。'
       picName : svn-square.jpg
     - 
       name : CVS
       officialLink : 'http://www.nongnu.org/cvs/'
       downloadLink : 'http://ftp.gnu.org/non-gnu/cvs/'
-      introduce: ''
+      introduce: 'CVS（英語：Concurrent Versions System，或Concurrent Versioning System）代表協作版本系統或者並行版本系統，是一種版本控制系統，方便軟體的開發和使用者協同工作。</br></br>很多開源或者自由軟體專案都使用CVS作為其程式設計師之間的中心點，以便能夠綜合各程式設計師的改進和更改。'
       picName : 
     - 
       name : Git
       officialLink : 'https://git-scm.com/'
       downloadLink : 'https://git-scm.com/downloads'
-      introduce: ''
+      introduce: 'git是用於Linux內核開發的版本控制工具。與CVS、Subversion一類的集中式版本控制工具不同，它採用了分散式版本庫的作法，不需要伺服器端軟體，就可以運作版本控制，使得原始碼的釋出和交流極其方便。'
       picName : Git.png
     - 
       name : Mercurial
       officialLink : 'https://www.mercurial-scm.org/'
       downloadLink : 'https://www.mercurial-scm.org/downloads'
-      introduce: ''
+      introduce: Mercurial是一個跨平台的分散式版本控制軟體，主要由Python語言實現，但也包含一個用C語言實現的二進位比較工具。</br></br>Mercurial一開始的主要執行平台是Linux，現在Mercurial已經被移植到Windows、Mac OS X和大多數的類Unix系統中。Mercurial主要由一個命令列程式組成，現在也有了圖形化使用者介面。
       picName : mercurial-640x448.jpg
   開發語言 :
     - 
       name : GCC
       officialLink : 'https://gcc.gnu.org/'
       downloadLink : 'https://gcc.gnu.org/install/binaries.html'
-      introduce: ''
+      introduce: The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Ada, and Go, as well as libraries for these languages (libstdc++,...). GCC was originally written as the compiler for the GNU operating system. 
       picName : gccegg-65.png
     - 
       name : OpenJDK
       officialLink : 'http://openjdk.java.net/'
       downloadLink : 'http://openjdk.java.net/install/index.html'
-      introduce: ''
+      introduce: OpenJDK原是Sun Microsystems公司為Java平台構建的Java開發環境（JDK）的開源版本，完全自由，開放原始碼。
       picName : openjdk.png
     - 
       name : Perl
       officialLink : 'https://www.perl.org/'
       downloadLink : 'https://www.perl.org/get.html'
-      introduce: ''
+      introduce: 'Perl是高階、通用、直譯式、動態的程式語言家族。Perl借用了C、sed、awk、shell指令碼以及很多其他程式語言的特性。其中最重要的特性是Perl內部整合了正規表示式的功能，以及巨大的第三方代碼庫CPAN。'
       picName : perl-card.png
     - 
       name : PHP
       officialLink : 'http://php.net/'
       downloadLink : 'http://php.net/downloads.php'
-      introduce: ''
+      introduce: PHP 是一種開源的通用電腦手稿語言，尤其適用於網路開發並可嵌入HTML中使用。</br></br>PHP的語法借鑑吸收C語言、Java和Perl等流行電腦語言的特點，易於一般程式設計師學習。</br></br>PHP的主要目標是允許網路開發人員快速編寫動態頁面，但PHP也被用於其他很多領域。
       picName : php-logo.png
     - 
       name : PowerShell
       officialLink : 'https://github.com/PowerShell'
       downloadLink : 'https://github.com/PowerShell'
-      introduce: ''
+      introduce: PowerShell（包括Windows PowerShell and PowerShell Core）是微軟公司開發的任務自動化和組態管理框架，由.NET Framework和.NET Core是構建的命令列介面殼層相關手稿語言組成，最初僅Windows元件，後於2016年8月18日開源並跨平台支援。
       picName : 
     - 
       name : Python
       officialLink : 'https://www.python.org/'
       downloadLink : 'https://www.python.org/downloads/'
-      introduce: ''
+      introduce: 'Python，是一種廣泛使用的高階程式語言，作為一種直譯式語言，Python 的設計哲學強調代碼的可讀性和簡潔的語法（尤其是使用空格縮排劃分代碼塊，而非使用大括弧或者關鍵詞）。</br></br>與 Scheme、Ruby、Perl、Tcl 等動態型別程式語言一樣，Python 擁有動態型別系統和垃圾回收功能，能夠自動管理記憶體使用，並且支援多種編程範式，包括物件導向、命令式、函數式和程序式編程。其本身擁有一個巨大而廣泛的標準庫。'
       picName : python-logo.png
     - 
       name : Ruby
       officialLink : 'https://www.ruby-lang.org/zh_tw/'
       downloadLink : 'https://www.ruby-lang.org/zh_tw/downloads/'
-      introduce: ''
+      introduce: Ruby 是一種物件導向、命令式、函數式、動態的通用程式語言。它的靈感與特性來自於Perl、Smalltalk、Eiffel、Ada以及Lisp語言。由Ruby語言本身還發展出了JRuby（Java平台）、IronRuby（.NET平台）等其他平台的Ruby語言替代品。
       picName : ruby-card.png
     - 
       name : Scala
       officialLink : 'http://www.scala-lang.org/'
       downloadLink : 'http://www.scala-lang.org/download/'
-      introduce: ''
+      introduce: Scala是一門多範式的程式語言，設計初衷是要整合物件導向編程和函數語言程式設計的各種特性。</br></br>Scala執行於Java平台（Java虛擬機器），併兼容現有的Java程式。它也能執行於CLDC配置的Java ME中。
       picName : Scala.jpg
     - 
       name : typescript
       officialLink : 'https://www.typescriptlang.org/'
       downloadLink : 'https://www.typescriptlang.org/#download-links'
-      introduce: ''
+      introduce: 'TypeScript是一種由微軟開發的自由和開源的編程語言。它是JavaScript的一個嚴格超集，並添加了可選的靜態型別和類別基礎的物件導向編程。</br></br>TypeScript設計目標是開發大型應用，然後轉譯成JavaScript。由於TypeScript是JavaScript的嚴格超集，任何現有的JavaScript程式都是合法的TypeScript程式。'
       picName : typescript.png
   開發框架 :
     - 
       name : Apache ActiveMQ
       officialLink : 'http://activemq.apache.org/'
       downloadLink : 'http://activemq.apache.org/download.html'
-      introduce: ''
+      introduce: 'Apache ActiveMQ是Apache軟體基金會所研發的開放原始碼訊息中間件；由於ActiveMQ是一個純Java程式，因此只需要作業系統支援Java虛擬機，ActiveMQ便可執行。'
       picName : Apache-activemq-logo.png
     - 
       name : Apache Drill
       officialLink : 'https://drill.apache.org/'
       downloadLink : 'https://drill.apache.org/download/'
-      introduce: ''
+      introduce: Apache Drill is an open-source software framework that supports data-intensive distributed applications for interactive analysis of large-scale datasets. Drill is the open source version of Google's Dremel system which is available as an infrastructure service called Google BigQuery.<br><br> One explicitly stated design goal is that Drill is able to scale to 10,000 servers or more and to be able to process petabytes of data and trillions of records in seconds. Drill is an Apache top-level project.
       picName : apache-drill.png
     - 
       name : Apache Logging Log4j
       officialLink : 'https://logging.apache.org/log4j/2.x/'
       downloadLink : 'https://logging.apache.org/log4j/2.x/download.html'
-      introduce: ''
+      introduce: 'Apache Log4j是一個基於Java的記錄檔記錄工具。它是由Ceki Gülcü首創的，現在則是Apache軟體基金會的一個專案。 log4j是幾種Java記錄檔框架之一。'
       picName : Log4j.png
     - 
       name : Apache S4
       officialLink : 'http://incubator.apache.org/projects/s4.html'
       downloadLink : 'https://github.com/apache/incubator-s4'
-      introduce: ''
+      introduce: 'S4 is a general-purpose,near real-time, distributed, decentralized, scalable, event-driven, modular platform that allows programmers to easily implement applications for processing continuous unbounded streams of data.'
       picName : apacheIncubator.png
     - 
       name : Apache Struts
       officialLink : 'https://struts.apache.org/'
       downloadLink : 'https://struts.apache.org/download.cgi#struts2513'
-      introduce: ''
+      introduce: Struts是Apache軟體基金會（ASF）贊助的一個開源項目。</br></br>它通過採用Java Servlet／JSP技術，實現了基於Java EE Web應用的Model-View-Controller（MVC）設計模式的應用框架，是MVC經典設計模式中的一個經典產品。
       picName : Struts.jpeg
     - 
       name : Dojo Toolkit
       officialLink : 'https://dojotoolkit.org/'
       downloadLink : 'https://dojotoolkit.org/download/'
-      introduce: ''
+      introduce: 'Dojo Toolkit is an open source modular JavaScript library (or more specifically JavaScript toolkit) designed to ease the rapid development of cross-platform, JavaScript/Ajax-based applications and web sites. '
       picName : DojoToolkit.png
     - 
       name : Eclipse TPTP
       officialLink : 'https://projects.eclipse.org/projects/tptp.platform'
       downloadLink : 'http://www.eclipse.org/projects/archives.php'
-      introduce: ''
+      introduce: TPTP addresses the entire test and performance life cycle, from early testing to production application monitoring, including test editing and execution, monitoring, tracing and profiling, and log analysis capabilities. </br></br>The platform supports a broad spectrum of computing systems including embedded, standalone, enterprise, and high-performance and will continue to expand support to encompass the widest possible range of systems.
       picName : eclipse-426x100.png
     - 
       name : Ehcache
       officialLink : 'http://www.ehcache.org/'
       downloadLink : 'http://www.ehcache.org/downloads/'
-      introduce: ''
+      introduce: 'Ehcache is a widely used open source Java distributed cache for general purpose caching, Java EE and light-weight containers. It features memory and disk stores, replicate by copy and invalidate, listeners, cache loaders, cache extensions, cache exception handlers, a gzip caching servlet filter, RESTful and SOAP APIs.Ehcache is available under an Apache open source license and is actively supported.'
       picName : Ehcache.png
     - 
       name : EMMA
       officialLink : 'http://emma.sourceforge.net/'
       downloadLink : 'https://sourceforge.net/projects/emma/files/'
-      introduce: ''
+      introduce: "EMMA is an open-source toolkit for measuring and reporting Java code coverage. </br></br>EMMA distinguishes itself from other tools by going after a unique feature combination: support for large-scale enterprise software development while keeping individual developer's work fast and iterative. Every developer on your team can now get code coverage for free and they can get it fast!"
       picName : emma.png
     - 
       name : Hibernate
       officialLink : 'http://hibernate.org/'
       downloadLink : 'https://sourceforge.net/projects/hibernate/'
-      introduce: ''
+      introduce: 'Hibernate是一種Java語言下的物件關係對映解決方案。它是使用GNU寬通用公共許可證發行的自由、開源的軟體。它為物件導向的領域模型到傳統的關係型資料庫的對映，提供了一個使用方便的框架。'
       picName : hibernate2.png
     - 
       name : JBossSeam
       officialLink : 'http://www.seamframework.org/'
       downloadLink : 'http://www.seamframework.org/Seam2/Downloads.html'
-      introduce: ''
+      introduce: Seam was a web application framework developed by JBoss, a division of Red Hat.
       picName : seam_logo_blue.png
     - 
       name : Jetspeed
       officialLink : 'https://portals.apache.org/jetspeed-1/'
       downloadLink : 'https://portals.apache.org/jetspeed-1/install.html'
-      introduce: ''
+      introduce: Jetspeed is an Open Source implementation of an Enterprise Information Portal, using Java and XML. A portal makes network resources (applications, databases and so forth) available to end-users. </br></br>The user can access the portal via a web browser, WAP-phone, pager or any other device. Jetspeed acts as the central hub where information from multiple sources are made available in an easy to use manner.
       picName : Jetspeed.gif
     - 
       name : jQuery
       officialLink : 'https://jquery.com/'
       downloadLink : 'https://jquery.com/download/'
-      introduce: ''
+      introduce: jQuery是一套跨瀏覽器的JavaScript函式庫，簡化HTML與JavaScript之間的操作。全球前10,000個存取最高的網站中，有65%使用了jQuery，是目前最受歡迎的JavaScript函式庫。</br></br>jQuery的語法設計使得許多操作變得容易，如操作文件（document）、選擇文件物件模型（DOM）元素、建立動畫效果、處理事件、以及開發Ajax程式。jQuery也提供了給開發人員在其上建立外掛模組的能力。
       picName : jquery1.png
     - 
       name : MyBatis
       officialLink : 'http://www.mybatis.org/'
       downloadLink : 'https://github.com/mybatis/mybatis-3/releases'
-      introduce: ''
+      introduce: MyBatis是一個Java持久化框架，它通過XML描述符或註解把物件與儲存過程或SQL語句關聯起來。</br></br>與其他的物件關係對映框架不同，MyBatis並沒有將Java物件與資料庫表關聯起來，而是將Java方法與SQL語句關聯。MyBatis允許用戶充分利用資料庫的各種功能，例如儲存過程、視圖、各種複雜的查詢以及某資料庫的專有特性。如果要對遺留資料庫、不規範的資料庫進行操作，或者要完全控制SQL的執行，MyBatis是一個不錯的選擇。
       picName : MyBatis.jpg
     - 
       name : Node.js
       officialLink : 'https://nodejs.org/en/'
       downloadLink : 'https://nodejs.org/en/download/'
-      introduce: ''
+      introduce: Node.js是一個能夠在伺服器端運行JavaScript的開放原始碼、跨平台JavaScript執行環境。</br></br>Node.js大部分基本模組都用JavaScript語言編寫。在Node.js出現之前，JavaScript通常作為用戶端程式設計語言使用，以JavaScript寫出的程式常在用戶的瀏覽器上執行。</br></br>Node.js的出現使JavaScript也能用於伺服器端編程。Node.js含有一系列內置模組，使得程式可以脫離Apache HTTP Server或IIS，作為獨立伺服器執行。
       picName : nodeJs.png
     - 
       name : Ruby on Rails
       officialLink : 'http://rubyonrails.org/'
       downloadLink : 'http://railsinstaller.org/en'
-      introduce: ''
+      introduce: Ruby on Rails（官方簡稱為Rails，亦被簡稱為RoR），是一個使用Ruby語言寫的開源Web應用框架，它是嚴格按照MVC結構開發的。它努力使自身保持簡單，來使實際的應用開發時的代碼更少，使用最少的配置。</br></br>Rails的設計原則包括「不做重複的事」（Don't Repeat Yourself）和「慣例優於設定」（Convention Over Configuration）
       picName : rubyonrails.png
     - 
       name : Spring
       officialLink : 'http://spring.io/'
       downloadLink : 'https://projects.spring.io/spring-framework/#quick-start'
-      introduce: ''
+      introduce: Spring Framework 是一個開源的Java／Java EE全功能棧（full-stack）的應用程式框架，以Apache許可證形式發布，也有.NET平台上的移植版本。</br></br>Spring Framework提供了一個簡易的開發方式，這種開發方式，將避免那些可能致使底層代碼變得繁雜混亂的大量的屬性檔案和幫助類。
       picName : Spring.png
     - 
       name : Zope
       officialLink : 'http://www.zope.org/en/latest/'
       downloadLink : 'http://old.zope.org/Products/'
-      introduce: ''
+      introduce: Zope是一個以Python編寫的開源、物件導向的Web應用伺服器。Zope代表著「Z對象發布環境（Z Object Publishing Environment）」，並且是第一個系統使用了新的通用對象發布方法的框架。</br></br>Zope已經被認為是一個Python的殺手級應用，一個幫助Python走到聚光燈下的應用。</br></br>它是一個事務型的對象資料庫平台。Zope除了能儲存內容，數據外，還能存放動態的HTML模板、腳本、搜尋引擎、關係資料庫管理系統（RDBMS）接口和代碼。Zope裡的一切都是物件。
       picName : zope-logo.png
   項目管理 :
     - 
       name : .net.core
       officialLink : 'https://www.microsoft.com/net/learn/what-is-dotnet'
       downloadLink : 'https://www.microsoft.com/net/download/windows'
-      introduce: ''
+      introduce: '.NET Core 是.NET Framework的新一代版本，是微軟開發的第一個跨平台 (Windows、Mac OSX、Linux) 的應用程式開發框架</br></br>是由許多專案所組成，除了基本的類別庫 (Core FX) 之外，也包含採用 RyuJIT 編譯的執行平台 Core CLR、編譯器平台 .NET Compiler Platform、採用 AOT 編譯技術運行最佳化的套件 Core RT (.NET Core Runtime)，以及跨平台的 MSIL 編譯器 LLILC (LLVM-based MSIL Compiler) 等專案'
       picName : netCore.png
     - 
       name : Bugzilla
       officialLink : 'https://www.bugzilla.org/'
       downloadLink : 'https://github.com/repeat/bugzilla-tw'
-      introduce: ''
+      introduce: 'Bugzilla是一款用於軟體缺陷的追蹤管理網路程式，由Mozilla計劃開發和應用。'
       picName : Bugzilla.png
     - 
       name : mantis
       officialLink : 'https://www.mantisbt.org/'
       downloadLink : 'https://www.mantisbt.org/download.php'
-      introduce: ''
+      introduce: 'Mantis Bug Tracker是在GNU通用公共許可證第2版下發布的一個自由、開源的基於Web的缺陷跟蹤管理系統。MantisBT最常見的用途是用來追蹤軟體缺陷。然而，MantisBT經常被用戶配置成為一個更通用的問題跟蹤系統和專案管理工具。'
       picName : mantis_logo_262x90.png
     - 
       name : OpenProj
       officialLink : 'https://zh-tw.osdn.net/projects/sfnet_openproj/'
       downloadLink : 'https://zh-tw.osdn.net/projects/sfnet_openproj/releases/'
-      introduce: ''
+      introduce: 'OpenProj is an open-source desktop project management application similar to Microsoft Project.</br></br>OpenProj has a familiar user interface and even opens existing MS Project files. OpenProj is interoperable with Project, Gantt Charts and PERT charts.'
       picName : 
     - 
       name : Redmine
       officialLink : 'http://www.redmine.org/'
       downloadLink : 'http://www.redmine.org/projects/redmine/wiki/Download'
-      introduce: ''
+      introduce: 'Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.'
       picName : 
     - 
       name : Trac
-      officialLink : 'https://trac.edgewall.org/wiki/TracDownload#LatestStableRelease'
-      downloadLink : 'https://trac.edgewall.org/wiki/TracDownload'
-      introduce: ''
+      officialLink : 'https://trac.edgewall.org/'
+      downloadLink : 'https://trac.edgewall.org/wiki/TracDownload#LatestStableRelease'
+      introduce: 'Trac是Edgewall公司使用Python程式語言開發並維護的開放原始碼網頁介面專案管理、缺陷追蹤軟體。</br></br>Trac使用超連結方式把軟體缺陷資料庫、版本控制系統和wiki內容結合起來，並作為版本控制系統的web介面，支援的版本控制系統包括Subversion, Git, Mercurial, Bazaar, Perforce, Darcs.在0.11版本之前，Trac的web展示前端由ClearSilver web模板系統提供，自0.11開始，由其自行開發的Genshi模板系統提供，但保持了對ClearSilver及其外掛模組的相容。'
       picName : trac_logo.png
   測試工具 :
     - 
       name : Apache JMeter
       officialLink : 'http://jmeter.apache.org/'
       downloadLink : 'http://jmeter.apache.org/download_jmeter.cgi'
-      introduce: ''
+      introduce: Apache JMeter is an Apache project that can be used as a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.</br></br>JMeter can be used as a unit-test tool for JDBC database connections,FTP,LDAP, Webservices, JMS, HTTP, generic TCP connections and OS native processes.</br></br>JMeter supports variable parameterization, assertions (response validation), per-thread cookies, configuration variables and a variety of reports.</br></br>JMeter architecture is based on plugins. Most of its "out of the box" features are implemented with plugins. Off-site developers can easily extend JMeter with custom plugins.
       picName : apachejmeter.jpg
     - 
       name : ab(ApacheBench)
       officialLink : 'https://httpd.apache.org/docs/2.4/programs/ab.html'
       downloadLink : 'http://httpd.apache.org/download.cgi'
-      introduce: ''
+      introduce: 'ApacheBench 是一個指令列程式，專門用來執行網站伺服器的運行效能，特別是針對Apache 網站伺服器。這原本是用來檢測 Apache 網站伺服器能夠提供的效能，特別是可以看出Apache能提供每秒能送出多少網頁。</br></br>ApacheBench( ab )工具程式是標準 Apache 網站伺服器發布的一部份，跟 Apache 網站伺服器一樣，也是免費軟體，並可以用 Apache許可證 的規範下散布此軟體。'
       picName : SupportApache-small.png
     - 
       name : FindBugs
       officialLink : 'http://findbugs.sourceforge.net/'
       downloadLink : 'http://findbugs.sourceforge.net/downloads.html'
-      introduce: ''
+      introduce: 'FindBugs是由Bill Pugh和David Hovemeyer建立的開源程式，用來尋找Java代碼中的程式錯誤。</br></br>它使用靜態分析來識別Java程式中上百種不同類型的潛在錯誤。潛在錯誤可分為四個等級：恐怖的（scariest）、嚇人的（scary）、令人困擾的（troubling）和值得關注的（of concern），這是根據其可能產生的影響或嚴重程度，而對開發者的提示。</br></br>FindBugs操作的是Java位元組碼，而非原始碼。軟體作為一個獨立的圖形化應用程式分發。 Eclipse、NetBeans、IntelliJ IDEA、Gradle、Hudson和Jenkins有可用的FindBugs外掛模組。'
       picName : umdFindbugs.png
     - 
       name : Gdb
       officialLink : 'https://www.gnu.org/software/gdb/'
       downloadLink : 'https://www.gnu.org/software/gdb/download/'
-      introduce: ''
+      introduce: 'GNU偵錯器（GNU Debugger，縮寫：GDB），是GNU軟體系統中的標準偵錯器，此外GDB也是個具有移攜性的偵錯器，經過移攜需求的調修與重新編譯，如今許多的類UNIX作業系統上都可以使用GDB，而現有GDB所能支援除錯的程式語言有C、C++、Pascal以及FORTRAN。</br></br>GDB具備各種偵錯功效，能針對電腦程式的執行進行追蹤與警告，使用GDB的除錯人員可以監督及修改程式的內部變數值，甚至監督與修改獨立於主程式運作外，以獨立個體型態呼用（呼叫使用）的函式。'
       picName : Gdb.jpg
     - 
       name : Jenkins
       officialLink : 'https://jenkins.io/'
       downloadLink : 'https://jenkins.io/download/'
-      introduce: ''
+      introduce: 'Jenkins提供了軟體開發的持續整合服務。它執行在Servlet容器中（例如Apache Tomcat）。它支援軟體配置管理（SCM）工具（包括AccuRev SCM、CVS、Subversion、Git、Perforce、Clearcase和RTC），可以執行基於Apache Ant和Apache Maven的專案，以及任意的Shell指令碼和Windows批次處理命令。'
       picName : Jenkins.png
     - 
       name : JUnit
       officialLink : 'http://junit.org/'
       downloadLink : 'https://sourceforge.net/projects/junit/'
-      introduce: ''
+      introduce: 'JUnit is a unit testing framework for the Java programming language. JUnit has been important in the development of test-driven development, and is one of a family of unit testing frameworks which is collectively known as xUnit that originated with SUnit.'
       picName : JUnit.png
     - 
       name : PasTmon
       officialLink : 'http://pastmon.sourceforge.net/wp/'
       downloadLink : 'https://sourceforge.net/projects/pastmon/files/'
-      introduce: ''
+      introduce: Measure the transaction response times of web and application servers. Performing continuous passive monitoring of network traffic. Recording historical data of measurements in a back-end database and presenting via a web front-end.</br></br>PasTmon is a passive network traffic analyzer that can measure user transaction response times of various application protocols. You can even define your own signature rules to monitor custom TCP based applications. PasTmon is a server administrator's tool for measuring application performance and response times.
       picName : 
     - 
       name : Selenium
       officialLink : 'http://www.seleniumhq.org/'
       downloadLink : 'http://www.seleniumhq.org/download/'
-      introduce: ''
+      introduce: Selenium is a portable software-testing framework for web applications.</br></br>Selenium provides a playback (formerly also recording) tool for authoring tests without the need to learn a test scripting language (Selenium IDE).</br></br>It also provides a test domain-specific language (Selenese) to write tests in a number of popular programming languages, including C#, Groovy, Java, Perl, PHP, Python, Ruby and Scala.</br></br>The tests can then run against most modern web browsers. Selenium deploys on Windows, Linux, and OS X platforms.
       picName : Seleniumlogo.png
     - 
       name : TestNG
       officialLink : 'http://testng.org/doc/index.html'
       downloadLink : 'http://testng.org/doc/download.html'
-      introduce: ''
+      introduce: 'TestNG is designed to cover all categories of tests:  unit, functional, end-to-end, integration etc...'
       picName : 
     - 
       name : Valgrind
       officialLink : 'http://valgrind.org/'
       downloadLink : 'http://valgrind.org/downloads/current.html'
-      introduce: ''
+      introduce: 'Valgrind是一款用於記憶體偵錯、記憶體流失檢測以及效能分析的軟體開發工具。</br></br>Valgrind was originally designed to be a free memory debugging tool for Linux on x86, but has since evolved to become a generic framework for creating dynamic analysis tools such as checkers and profilers.'
       picName : valgrind.jpg
   表單工具 :
     - 
       name : JasperReportsOpen Source Edition
       officialLink : 'https://community.jaspersoft.com/project/ireport-designer'
       downloadLink : 'https://community.jaspersoft.com/project/ireport-designer/releases'
-      introduce: ''
+      introduce: 'iReport is the free, open source report designer for JasperReports and JasperReports Server. Create very sophisticated layouts containing charts, images, subreports, crosstabs and much more. </br></br>Access your data through JDBC, TableModels, JavaBeans, XML, Hibernate, CSV, and custom sources. Then publish your reports as PDF, RTF, XML, XLS, CSV, HTML, XHTML, text, DOCX, or OpenOffice.'
       picName : js_ireport-designer_rg3_0.png
 資訊安全 :
   病毒防禦與漏洞管理 :
@@ -1559,193 +1561,193 @@ OS、虛擬化、雲端 :
       name : Apache SpamAssasin
       officialLink : 'http://spamassassin.apache.org/'
       downloadLink : 'http://spamassassin.apache.org/downloads.cgi?update=201504291720'
-      introduce: ''
+      introduce: 'SpamAssassin使用多種垃圾郵件檢測技術，包括DNS為基礎和校驗的垃圾郵件檢測、貝葉斯過濾、外部程式、黑名單和在線資料庫。</br></br>該程式被整合到郵件伺服器自動過濾所有郵件的網站。它也可以運行個人用戶在自己的信箱，被整合一些郵件程式。</br></br>SpamAssassin是高度可配置的，如果作為全系統過濾器仍然可以配置為支援每個用戶的喜好。'
       picName : SpamAssassin_logo.png
     - 
       name : ClamAV
       officialLink : 'http://www.clamav.net/'
       downloadLink : 'http://www.clamav.net/downloads'
-      introduce: ''
+      introduce: 'Clam AntiVirus（ClamAV）是免費而且開放原始碼的防毒軟體，軟體與病毒碼的更新皆由社群免費發布。目前ClamAV主要是使用在由Linux、FreeBSD等Unix-like系統架設的郵件伺服器上，提供電子郵件的病毒掃描服務。 </br></br>ClamAV本身是在文字介面下運作，但也有許多圖形介面的前端工具（GUI front-end）可用，另外由於其開放原始碼的特性，在Windows與Mac OS X平台都有其移植版。'
       picName : ClamAV_Logo.png
     - 
       name : openSCAP
       officialLink : 'https://www.open-scap.org/'
       downloadLink : 'https://www.open-scap.org/download/'
-      introduce: ''
+      introduce: 'Discover a wide array of tools for managing system security and standards compliance.'
       picName : vertical-logo.png
     - 
       name : openVAS
       officialLink : 'http://www.openvas.org/'
       downloadLink : 'http://www.openvas.org/download.html'
-      introduce: ''
+      introduce: OpenVAS is a framework of several services and tools offering a comprehensive and powerful vulnerability scanning and vulnerability management solution. </br></br>The framework is part of Greenbone Networks' commercial vulnerability management solution from which developments are contributed to the Open Source community since 2009.
       picName : openvas.png
     - 
       name : OWASP ZAP
       officialLink : 'https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project'
       downloadLink : 'https://github.com/zaproxy/zaproxy/wiki/Downloads'
-      introduce: ''
+      introduce: OWASP ZAP (short for Zed Attack Proxy) is an open-source web application security scanner. It is intended to be used by both those new to application security as well as professional penetration testers.</br></br>When used as a proxy server it allows the user to manipulate all of the traffic that passes through it, including traffic using https.</br></br>It can also run in a ‘daemon’ mode which is then controlled via a REST Application programming interface.</br></br>This cross-platform tool is written in Java and is available in all of the popular operating systems including Microsoft Windows, Linux and Mac OS X.
       picName : Zap128x128.png
     - 
       name : swatch
       officialLink : 'https://sourceforge.net/projects/swatch/'
       downloadLink : 'https://sourceforge.net/projects/swatch/'
-      introduce: ''
+      introduce: swatchdog.pl started out as swatch, the "simple watchdog" for activity monitoring log files produced by UNIX's syslog facility. It has since been evolving into a utility that can monitor just about any type of log.
       picName : 
   目錄服務 :
     - 
       name : 389 Directory Server
       officialLink : 'http://directory.fedoraproject.org/'
       downloadLink : 'http://directory.fedoraproject.org/docs/389ds/download.html'
-      introduce: ''
+      introduce: 'The enterprise-class Open Source LDAP( 輕型目錄存取協定 ) server for Linux. It is hardened by real-world use, is full-featured, supports multi-master replication, and already handles many of the largest LDAP deployments in the world.</br></br>The 389 Directory Server can be downloaded for free, and set up in less than an hour.'
       picName : 389DirectoryServer.png
     - 
       name : Apache Directory server
       officialLink : 'https://directory.apache.org/'
       downloadLink : 'https://directory.apache.org/'
-      introduce: ''
+      introduce: 'Apache Directory is an open source project of the Apache Software Foundation. Its flagship product, the Apache Directory Server, originally written by Alex Karasulu, is an embeddable directory server entirely written in Java. Besides LDAP, the server supports other protocols as well, and a Kerberos server.'
       picName : directory_400x400.png
     - 
       name : OpenDJ
       officialLink : 'https://www.forgerock.com/platform/directory-services/'
       downloadLink : 'https://www.forgerock.com/downloads/download-opendj-trial/'
-      introduce: ''
+      introduce: OpenDJ is a directory server which implements a wide range of Lightweight Directory Access Protocol and related standards, including full compliance with LDAPv3 but also support for Directory Service Markup Language (DSMLv2).</br></br>Written in Java, OpenDJ offers multi-master replication, access control, and many extensions.
       picName : 
     - 
       name : OpenLDAP
       officialLink : 'http://www.openldap.org/'
       downloadLink : 'http://www.openldap.org/software/download/'
-      introduce: ''
+      introduce: 'OpenLDAP是輕型目錄存取協定（Lightweight Directory Access Protocol，LDAP）的自由和開源的實現，在其OpenLDAP授權條款下發行，並已經被包含在眾多流行的Linux發行版中'
       picName : OpenLDAP.gif
   SSL/VPN/SSH :
     - 
       name : OpenSSH
       officialLink : 'http://www.openssh.com/'
       downloadLink : 'https://www.openssh.com/ftp.html'
-      introduce: ''
+      introduce: OpenSSH（OpenBSD Secure Shell）是使用SSH透過計算機網路加密通訊的實現。它是取代由SSH Communications Security所提供的商用版本的開放原始碼方案。目前OpenSSH是OpenBSD的子計畫。</br></br>OpenSSH常常被誤認以為與OpenSSL有關聯，但實際上這兩個計畫的有不同的目的，不同的發展團隊，名稱相近只是因為兩者有同樣的軟體發展目標──提供開放原始碼的加密通訊軟體。
       picName : OpenSSH_logo.png
     - 
       name : OpenSSL
       officialLink : 'https://www.openssl.org/'
       downloadLink : 'https://www.openssl.org/source/'
-      introduce: ''
+      introduce: '在電腦網路上，OpenSSL是一個開放原始碼的軟體函式庫套件，應用程式可以使用這個套件來進行安全通訊，避免竊聽，同時確認另一端連線者的身分。這個套件廣泛被應用在網際網路的網頁伺服器上。</br></br>其主要函式庫是以C語言所寫成，實作了基本的加密功能，實作了SSL與TLS協定。</br></br>OpenSSL可以運行在OpenVMS、 Microsoft Windows以及絕大多數類Unix作業系統上（包括Solaris，Linux，Mac OS X與各種版本的開放原始碼BSD作業系統）。'
       picName : OpenSSL.png
     - 
       name : OpenVPN
       officialLink : 'https://openvpn.net/'
       downloadLink : 'https://openvpn.net/index.php/open-source/downloads.html'
-      introduce: ''
+      introduce: 'OpenVPN是一個用於建立虛擬私人網路絡加密通道的軟體包，最早由James Yonan編寫。OpenVPN允許建立的VPN使用公開金鑰、電子憑證、或者使用者名稱／密碼來進行身分驗證。</br></br>它大量使用了OpenSSL加密庫中的SSLv3/TLSv1協定函式庫。</br></br>目前OpenVPN能在Solaris、Linux、OpenBSD、FreeBSD、NetBSD、Mac OS X與Microsoft Windows以及Android和iOS上執行，並包含了許多安全性的功能。它並不是一個基於Web的VPN軟體，也不與IPsec及其他VPN軟體包相容'
       picName : openvpn.png
     - 
       name : Tor
       officialLink : 'https://www.torproject.org/'
       downloadLink : 'https://www.torproject.org/download/download-easy.html.en'
-      introduce: ''
+      introduce: 'Tor（The Onion Router，洋蔥路由器）是實現匿名通訊的自由軟體。Tor是第二代洋蔥路由的一種實現，用戶通過Tor可以在網際網路上進行匿名交流。'
       picName : tor_logo.png
   代理伺服器、防火牆 :
     - 
       name : iptables
       officialLink : 'https://git.netfilter.org/iptables/'
       downloadLink : 'https://git.netfilter.org/iptables/'
-      introduce: ''
+      introduce: 'iptables，一個運行在使用者空間的應用軟體，通過控制Linux內核netfilter模組，來管理網路封包的流動與轉送。在大部份的Linux系統上面，iptables是使用/usr/sbin/iptables來操作，檔案則放置在手冊頁（Man page[2]）底下，可以透過 man iptables 指令取得。</br></br>通常iptables都需要內核層級的模組來配合運作，Xtables是主要在內核層級裡面iptables API運作功能的模組。因相關動作上的需要，iptables的操作需要用到超級用戶的權限。'
       picName : 
     - 
       name : nginx
       officialLink : 'http://nginx.org/'
       downloadLink : 'http://nginx.org/en/download.html'
-      introduce: ''
+      introduce: 'Nginx（發音同engine x）是一個 Web伺服器，也可以用作反向代理，負載平衡器和 HTTP快取。</br></br>Nginx是一款面向效能設計的HTTP伺服器，相較於Apache、lighttpd具有占有記憶體少，穩定性高等優勢。</br></br>與舊版本（<=2.2）的Apache不同，nginx不採用每客戶機一執行緒的設計模型，而是充分使用異步邏輯，削減了上下文排程開銷，所以並行服務能力更強。整體採用模組化設計，有豐富的模組庫和第三方模組庫，配置靈活。 在Linux作業系統下，nginx使用epoll事件模型，得益於此，nginx在Linux作業系統下效率相當高。同時Nginx在OpenBSD或FreeBSD作業系統上採用類似於epoll的高效事件模型kqueue。'
       picName : nginx.png
     - 
       name : Squid
       officialLink : 'http://www.squid-cache.org/'
       downloadLink : 'http://www.squid-cache.org/Versions/v3/3.5/'
-      introduce: ''
+      introduce: 'Squid Cache（簡稱為Squid）是HTTP代理伺服器軟體。Squid用途廣泛的，可以作為快取伺服器，可以過濾流量幫助網路安全，也可以作為代理伺服器鏈中的一環，向上級代理轉發資料或直接連線網際網路。Squid程式在Unix一類系統執行。'
       picName : Squid.png
   IDS/IPS/SIEM :
     - 
       name : Snort
       officialLink : 'https://www.snort.org/'
       downloadLink : 'https://www.snort.org/downloads'
-      introduce: ''
+      introduce: 'Snort是一套開放原始碼的網路入侵預防軟體與網路入侵檢測軟體。Snort使用了以偵測簽章（signature-based）與通訊協定的偵測方法。截至目前為止，Snort的被下載次數已達到數百萬次。 Snort被認為是全世界最廣泛使用的入侵預防與偵測軟體。'
       picName : Snort.png
   身份驗證和訪問管理 :
     - 
       name : Apparmor
       officialLink : 'http://wiki.apparmor.net/index.php/Main_Page'
       downloadLink : 'https://wiki.debian.org/AppArmor/HowToUse'
-      introduce: ''
+      introduce: 'AppArmor is an effective and easy-to-use Linux application security system.</br></br> AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing even unknown application flaws from being exploited. </br></br>AppArmor security policies completely define what system resources individual applications can access, and with what privileges.</br></br> A number of default policies are included with AppArmor, and using a combination of advanced static analysis and learning-based tools, AppArmor policies for even very complex applications can be deployed successfully in a matter of hours.'
       picName : 
     - 
       name : CAS
       officialLink : 'https://github.com/apereo/cas'
       downloadLink : 'https://github.com/apereo/cas'
-      introduce: ''
+      introduce: 'CAS is an enterprise multilingual single sign-on solution for the web and attempts to be a comprehensive platform for your authentication and authorization needs.'
       picName : 
     - 
       name : FreeRADIUS
       officialLink : 'http://freeradius.org/'
       downloadLink : 'http://freeradius.org/releases/'
-      introduce: ''
+      introduce: 'The FreeRADIUS Server is a daemon for unix and unix like operating systems which allows one to set up a radius protocol server, which can be used for Authentication and Accounting various types of network access.</br></br>To use the server, you also need a correctly setup client which will talk to it, including terminal servers, Ethernet Switches, Wireless Access Points or a PC with appropriate software which emulates it (PortSlave, radiusclient etc).'
       picName : FreeRADIUS.png
     - 
       name : GnuPG
       officialLink : 'https://www.gnupg.org/'
       downloadLink : 'https://www.gnupg.org/download/index.html'
-      introduce: ''
+      introduce: 'GNU Privacy Guard（GnuPG或GPG）是一種加密軟體，它是PGP加密軟體的滿足GPL的替代物。GnuPG依照由IETF訂定的OpenPGP技術標準設計。GnuPG用於加密、數位簽章及產生非對稱匙對的軟體。'
       picName : GnuPG.png
     - 
       name : Kerberos
       officialLink : 'http://web.mit.edu/kerberos/'
       downloadLink : 'http://web.mit.edu/kerberos/dist/index.html'
-      introduce: ''
-      picName : 
+      introduce: 'Kerberos是一種計算機網絡授權協議，用來在非安全網絡中，對個人通信以安全的手段進行身份認證。</br></br>軟體設計上採用客戶端/伺服器結構，並且能夠進行相互認證，即客戶端和伺服器端均可對對方進行身份認證。</br></br>可以用於防止竊聽、防止重放攻擊、保護數據完整性等場合，是一種應用對稱密鑰體制進行密鑰管理的系統。Kerberos的擴展產品也使用公開密鑰加密方法進行認證。'
+      picName : Kerberos.jpg
     - 
       name : Keycloak
       officialLink : 'http://www.keycloak.org/'
       downloadLink : 'http://www.keycloak.org/downloads.html'
-      introduce: ''
-      picName : Keycloak.jpg
+      introduce: Add authentication to applications and secure services with minimum fuss. No need to deal with storing users or authenticating users. It's all available out of the box.
+      picName : Keycloak.png
     - 
       name : OpenAM
       officialLink : 'https://backstage.forgerock.com/docs/am'
       downloadLink : 'https://backstage.forgerock.com/downloads'
-      introduce: ''
+      introduce: OpenAM is an open source access management, entitlements and federation server platform. It is sponsored by ForgeRock.
       picName : 
     - 
       name : PAM
       officialLink : 'http://www.linux-pam.org/'
       downloadLink : 'http://www.linux-pam.org/library/'
-      introduce: ''
+      introduce: PAM provides a way to develop programs that are independent of authentication scheme. These programs need "authentication modules" to be attatched to them at run-time in order to work.</br></br>Which authentication module is to be attatched is dependent upon the local system setup and is at the discretion of the local system administrator.
       picName : 
     - 
       name : SELinux
       officialLink : 'https://github.com/SELinuxProject'
       downloadLink : 'https://github.com/SELinuxProject/selinux'
-      introduce: ''
+      introduce: '安全增強式Linux（SELinux, Security-Enhanced Linux）是一種強制存取控制（mandatory access control）的實現。</br></br>它的作法是以最小權限原則（principle of least privilege）為基礎，在Linux核心中使用Linux安全模組（Linux Security Modules）。它並非一個Linux發行版，而是一組可以套用在類Unix作業系統（如Linux、BSD等）的修改。'
       picName : SELinux.png
     - 
       name : usermin
       officialLink : 'http://www.webmin.com/usermin.html'
       downloadLink : 'http://www.webmin.com/ustandard.html'
-      introduce: ''
+      introduce: Usermin is a web-based interface for webmail, password changing, mail filters, fetchmail and much more.</br></br> It is designed for use by regular non-root users on a Unix system, and limits them to tasks that they would be able to perform if logged in via SSH or at the console.
       picName : usermin.jpg
     - 
       name : webmin
       officialLink : 'http://www.webmin.com/index.html'
       downloadLink : 'http://www.webmin.com/download.html'
-      introduce: ''
+      introduce: Webmin is a web-based interface for system administration for Unix. Using any modern web browser, you can setup user accounts, Apache, DNS, file sharing and much more.</br></br>Webmin removes the need to manually edit Unix configuration files like /etc/passwd, and lets you manage a system from the console or remotely. 
       picName : webmin.png
   ID管理 :
     - 
       name : FreeIPA
       officialLink : 'https://www.freeipa.org/page/Main_Page'
       downloadLink : 'https://www.freeipa.org/page/Downloads'
-      introduce: ''
+      introduce: 'FreeIPA is an integrated security information management solution combining Linux (Fedora), 389 Directory Server, MIT Kerberos, NTP, DNS, Dogtag (Certificate System). It consists of a web interface and command-line administration tools.</br></br>FreeIPA is an integrated Identity and Authentication solution for Linux/UNIX networked environments.</br></br> A FreeIPA server provides centralized authentication, authorization and account information by storing data about user, groups, hosts and other objects necessary to manage the security aspects of a network of computers.'
       picName : freeipa.png
     - 
       name : OpenIDM
       officialLink : 'https://backstage.forgerock.com/docs/idm'
       downloadLink : 'https://backstage.forgerock.com/docs/openidm/4.5/install-guide/'
-      introduce: ''
+      introduce: OpenIDM is an identity management system written in the Java programming language.OpenIDM is designed with flexibility in mind, leverages JavaScript as default scripting language to define business rules during provisioning.</br></br>All capabilities of OpenIDM exposes RESTful interfaces.</br></br>As an integration layer, OpenIDM leverages the Identity Connectors (adopted by ForgeRock as OpenICF) and has a set of default connectors.
       picName : 
 各類伺服器 :
   DNS/DHCP :
@@ -1753,140 +1755,135 @@ OS、虛擬化、雲端 :
       name : BIND
       officialLink : 'https://www.isc.org/downloads/bind/'
       downloadLink : 'https://www.isc.org/downloads/bind/'
-      introduce: ''
+      introduce: 'IND is open source software that enables you to publish your Domain Name System (DNS) information on the Internet, and to resolve DNS queries for your users.</br></br>BIND is by far the most widely used DNS software on the Internet, providing a robust and stable platform on top of which organizations can build distributed computing systems with the knowledge that those systems are fully compliant with published DNS standards.'
       picName : 
     - 
       name : djbdns
       officialLink : 'http://cr.yp.to/djbdns.html'
       downloadLink : 'http://cr.yp.to/djbdns/install.html'
-      introduce: ''
+      introduce: 'The djbdns software package is a DNS implementation. It was created by Daniel J. Bernstein in response to his frustrations with repeated security holes in the widely used BIND DNS software.'
       picName : 
     - 
       name : ISC-DHCP
       officialLink : 'https://www.isc.org/downloads/dhcp/'
       downloadLink : 'https://www.isc.org/downloads/dhcp/'
-      introduce: ''
+      introduce: 'ISC DHCP is open source software that implements the Dynamic Host Configuration Protocol for connection to an IP network.</br></br>It offers a complete solution for implementing DHCP servers, relay agents, and clients for small local networks to large enterprises. </br></br>ISC DHCP solution supports both IPv4 and IPv6, and is suitable for use in high-volume and high-reliability applications.'
       picName : 
     - 
       name : NSD
       officialLink : 'https://www.nlnetlabs.nl/projects/nsd/'
       downloadLink : 'https://www.nlnetlabs.nl/projects/nsd/'
-      introduce: ''
-      picName : 
+      introduce: 'In Internet computing, NSD (for "name server daemon") is an open-source Domain Name System (DNS) server. </br></br>It was developed by NLnet Labs of Amsterdam in cooperation with the RIPE NCC, from scratch as an authoritative name server (i.e., not implementing the recursive caching function by design). </br></br>The intention of this development is to add variance to the "gene pool" of DNS implementations used by higher level name servers and thus increase the resilience of DNS against software flaws or exploits.'
+      picName : NSD.jpg
     - 
       name : Unbound
       officialLink : 'https://www.unbound.net/'
       downloadLink : 'https://www.unbound.net/download.html'
-      introduce: ''
+      introduce: 'Unbound is a validating, recursive, and caching DNS resolver.</br></br>Unbound is designed as a set of modular components, so that also DNSSEC (secure DNS) validation and stub-resolvers (that do not run as a server, but are linked into an application) are easily possible.'
       picName : unbound-250.png
   文件服務器 :
     - 
       name : NFS
       officialLink : 'https://sourceforge.net/projects/nfs/'
       downloadLink : 'https://sourceforge.net/projects/nfs/'
-      introduce: ''
+      introduce: '網路檔案系統（英語：Network File System，縮寫作 NFS）是一種分散式檔案系統協定，最初由Sun Microsystems公司開發，並於1984年發布。其功能旨在允許用戶端主機可以像存取本地儲存一樣通過網路存取伺服器端檔案。</br></br>NFS和其他許多協定一樣，是基於開放網路運算遠端程序呼叫（ONC RPC）協定之上的。它是一個開放、標準的RFC協定，任何人或組織都可以依據標準實現它。'
       picName : 
     - 
       name : Samba
       officialLink : 'https://www.samba.org/'
       downloadLink : 'https://www.samba.org/samba/download/'
-      introduce: ''
+      introduce: 'Samba，是種用來讓UNIX系列的作業系統與微軟Windows作業系統的SMB/CIFS（Server Message Block/Common Internet File System）網路協定做連結的自由軟體。</br></br>第三版不僅可存取及分享SMB的資料夾及印表機，本身還可以整合入Windows Server的網域，扮演為網域控制站（Domain Controller）以及加入Active Directory成員。</br></br>簡而言之，此軟體在Windows與UNIX系列OS之間搭起一座橋樑，讓兩者的資源可互通有無。'
       picName : Samba.PNG
     - 
       name : OwnCloud
       officialLink : 'https://owncloud.org/'
       downloadLink : 'https://owncloud.org/install/'
-      introduce: ''
+      introduce: 'ownCloud是一個自由且開源的個人雲端儲存解決方案，包括兩個部分：伺服器和客戶端。</br></br>與商業雲端儲存服務不同，ownCloud可以自由取得無需付費，但相應地，使用者必須自行架設 ownCloud的伺服器，這需要一點技術。不過也是有商業雲端儲存服務提供商使用 ownCloud 作為伺服器，例如奧地利商的 OwnCube。</br></br>
+ownCloud在客戶端可透過網頁介面，或者安裝專用的客戶端軟體來使用。網頁介面當然就是任何能開網頁的平台都支援，而客戶端軟體也支援相當多平台，Windows、Linux、iOS、Android皆有。</br></br>除了雲端儲存之外，ownCloud也可用於同步行事曆、電子郵件聯絡人、網頁瀏覽器的書籤；此外還有多人線上檔案同步協作的功能（類似google documents或Duddle等等）。'
       picName : owncloud-square-logo.png
   FTP Server :
     - 
       name : FileZilla
       officialLink : 'https://filezilla-project.org/'
       downloadLink : 'https://filezilla-project.org/'
-      introduce: ''
+      introduce: 'FileZilla是一種快速、可信賴的FTP用戶端以及伺服器端開放原始碼程式，具有多種特色、直覺的介面。'
       picName : filezilla.png
     - 
       name : ProFTPD
       officialLink : 'http://www.proftpd.org/'
       downloadLink : 'ftp://ftp.proftpd.org/distrib/source/proftpd-1.3.6.tar.gz'
-      introduce: ''
+      introduce: 'ProFTPd是一套可配置性強的開放原始碼的FTP伺服器軟體。</br></br>ProFTPd與Apache的配置方式類似，因此十分容易配置和管理。</br></br>ProFTPd亦開發了有圖形化使用者介面的FTP伺服器軟體稱為gProFTPd。'
       picName : proftpd.png
     - 
       name : vsftpd
       officialLink : 'https://security.appspot.com/vsftpd.html'
       downloadLink : 'https://security.appspot.com/vsftpd.html#download'
-      introduce: ''
+      introduce: 'vsftpd, (or very secure FTP daemon), is an FTP server for Unix-like systems, including Linux. It is licensed under the GNU General Public License. It supports IPv6 and SSL.'
       picName : 
     - 
       name : WU-FTPD
       officialLink : 'http://wu-ftpd.therockgarden.ca/'
       downloadLink : 'http://www.wfms.org/wu-ftpd/'
-      introduce: ''
+      introduce: 'WU-FTPD (more fully wuarchive-ftpd, also frequently spelled in lowercase as wu-ftpd) is a free FTP server software (daemon) for Unix-like operating systems.'
       picName : 
   POP/IMAP/MTA :
     - 
       name : Courier-IMAP
       officialLink : 'http://www.courier-mta.org/imap/'
       downloadLink : 'http://www.courier-mta.org/imap/download.html'
-      introduce: ''
+      introduce: The Courier IMAP server is a fast, scalable, enterprise IMAP server that uses Maildirs. Many E-mail service providers use the Courier IMAP server to easy handle hundreds of thousands of mail accounts. </br></br>With its built-in IMAP and POP3 aggregation proxy, the Courier IMAP server has practically infinite horizontal scalability. In a proxy configuration, a pool of Courier servers service initial IMAP and POP3 connections from clients. </br></br>They wait to receive the client's log in request, look up the server that actually holds this mail account's mailbox, and establish a proxy connection to the server, all in a single, seamless process. Mail accounts can be moved between different servers, to achieve optimum resource usage.
       picName : courier-imap.png
     - 
       name : Courier-MTA
       officialLink : 'http://www.courier-mta.org/'
       downloadLink : 'http://www.courier-mta.org/install.html'
-      introduce: ''
+      introduce: 'The Courier mail server is a mail transfer agent (MTA) server that provides ESMTP, IMAP, POP3, SMAP, webmail, and mailing list services with individual components. It is best known for its IMAP server component.'
       picName : 
     - 
       name : Cyrus IMAP
       officialLink : 'https://cyrusimap.org/'
       downloadLink : 'https://cyrusimap.org/download.html'
-      introduce: ''
+      introduce: 'It differs from other Internet Message Access Protocol (IMAP) server implementations in that it is generally intended to be run on sealed servers, where normal users cannot log in.</br></br>The mail spool uses a filesystem layout and format similar to the Maildir format used by other popular email servers such as qmail, Courier, Dovecot, etc. '
       picName : Cyrus.gif
     - 
       name : Dovecot
       officialLink : 'https://www.dovecot.org/'
       downloadLink : 'https://www.dovecot.org/download.html'
-      introduce: ''
+      introduce: 'Dovecot is an open-source IMAP and POP3 server for Linux/UNIX-like systems, written primarily with security in mind.</br></br>Timo Sirainen originated Dovecot and first released it in July 2002. Dovecot developers primarily aim to produce a lightweight, fast and easy-to-set-up open-source mailserver.'
       picName : dovecot.gif
     - 
       name : Exim
       officialLink : 'http://www.exim.org/'
       downloadLink : 'http://www.exim.org/mirrors.html'
-      introduce: ''
+      introduce: 'Exim is a mail transfer agent (MTA) used on Unix-like operating systems. Exim is free software distributed under the terms of the GNU General Public License, and it aims to be a general and flexible mailer with extensive facilities for checking incoming e-mail.'
       picName : exim-blue-ld-87x65.png
-    - 
-      name : fml
-      officialLink : 'http://www.fml.org/'
-      downloadLink : 'ftp://ftp.fml.org/pub/fml8/'
-      introduce: ''
-      picName : fml.jpg
     - 
       name : Postfix
       officialLink : 'http://www.postfix.org/'
       downloadLink : 'ftp://ftp.cuhk.edu.hk/pub/packages/mail-server/postfix/index.html'
-      introduce: ''
+      introduce: 'Postfix 是一種電子郵件伺服器，它是由任職於IBM華生研究中心（T.J. Watson Research Center）的荷蘭籍研究員Wietse Venema為了改良sendmail郵件伺服器而產生的。最早在1990年代晚期出現，是一個開放源代碼的軟體。'
       picName : Postfix.gif
     - 
       name : qmail
       officialLink : 'http://www.qmail.org/top.html'
       downloadLink : 'http://www.qmail.org/netqmail/'
-      introduce: ''
+      introduce: 'qmail是一個運行於類Unix作業系統下的郵件傳送代理軟體。</br></br>它是一個用來代替UNIX下Sendmail軟體的郵件傳送程序。qmail是面向安全而設計的。</br></br>qmail的主要競爭對手是Exim以及Postfix。與它的競爭對手不同的是，Qmail已經許多年沒有更新了，用戶已經習慣於通過第三方的插件及補丁來使qmail增加新的功能。'
       picName : qmail.jpg
     - 
       name : Qpopper
       officialLink : 'http://ftp.inf.utfsm.cl/pub/Mail/qpopper/GUIDE.pdf'
       downloadLink : 'http://www.filewatcher.com/m/qpopper4.1.0.tar.gz.1239530-0.html'
-      introduce: ''
+      introduce: 'Qpopper was one of the oldest and most popular server implementations of POP3. </br></br>Qpopper was generally recognized as fast, stable, and secure. It was most commonly used with standard Unix mbox format inboxes (or "spools") but also supported homedir mail. </br></br>Because mbox is a linear format in which messages are stored sequentially, Qpopper supports a number of optimizations to improve speed and scalability, including a cache file to maintain mailbox state between sessions, and several optional I/O techniques.'
       picName : 
     - 
       name : sendmail
       officialLink : 'https://www.proofpoint.com/us/open-source-email-solution'
       downloadLink : 'ftp://ftp.sendmail.org/'
-      introduce: ''
-      picName : 
+      introduce: 'Sendmail是一種多用途、支援多種協定的跨網路電子郵件傳送代理軟體，由艾瑞克·歐曼（Eric Allman）所開發，於1983年隨著BSD 4.1c首次發行。'
+      picName : sendmail.png
     - 
       name : SquirrelMail
       officialLink : 'http://squirrelmail.org/'
       downloadLink : 'http://squirrelmail.org/download.php'
-      introduce: ''
+      introduce: 'SquirrelMail is a standards-based webmail package written in PHP. </br></br>It includes built-in pure PHP support for the IMAP and SMTP protocols, and all pages render in pure HTML 4.0 (with no JavaScript required) for maximum compatibility across browsers. </br></br>It has very few requirements and is very easy to configure and install. </br></br>SquirrelMail has all the functionality you would want from an email client, including strong MIME support, address books, and folder manipulation. '
       picName : SquirrelMail.jpg

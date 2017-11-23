@@ -1,5 +1,5 @@
 .intro{
-  height:200px;
+  height:220px;
 }
 
 .intro h4{
@@ -7,7 +7,7 @@
 
 .col-md-6{
   margin:0px !important;
-  margin-bottom:50px !important;
+  margin-bottom:40px !important;
 }
 
 
@@ -35,25 +35,12 @@
   
 }
 
-.intro_text p::-webkit-scrollbar-track
-{
-	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
-	background-color: #F5F5F5;
-}
 
-.intro_text p::-webkit-scrollbar
-{
-	width: 6px;
-	background-color: #F5F5F5;
-}
 
-.intro_text p::-webkit-scrollbar-thumb
-{
-	background-color: #000000;
-}
+
 
 .intro_text p{
-  padding: 1vw 2vw ;
+  padding: 0.3vw 2vw 1vw ;
   display:inline-block ;
   float:left ;
   width:83%;
@@ -96,4 +83,22 @@
   right:1vw;
   bottom:1vw;
   z-index:99;
+}
+
+
+.intro_text p::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+.intro_text p::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: #F5F5F5;
+}
+
+.intro_text p::-webkit-scrollbar-thumb
+{
+	background-color: #000000;
 }
